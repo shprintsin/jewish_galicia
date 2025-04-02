@@ -1,0 +1,872 @@
+﻿code,index,name,page,year_code,year_foundation,prov,dist,prov_code,dist_code,enc_name,source,,lon,lat,jg_id,pop_1900,pop_year
+GLC_RZS_TYCZ,6238Tyc,Tyczyn,1352,JF-14XX,1400,Galicia,Rzeszow,62,38,TYCZYN,Jews settled in the 15th cent,,49.96666667,22.03333333,-533767,999,1890
+GLC_TRM_DLYN,6273Jnw,Janow,,JM-1628,1628,Galicia,Trembowla,62,73,JANOW (II),Jews are first mentioned in 1628,,49.21666667,25.71666667,-1038001,998,1880
+PRU_PSN_CZRN,6105Czr,Czarnkow,284,JM-16XX,1600,Prussia,Posen,61,5,CZARNKOW,Jews are first mentioned in the 17th cent,,52.9,16.56666667,-498056,997,1871
+GLC_TRK_NYZH,6245Wys,Wysocko Nizne,1470,POP-1921,1921,Galicia,Turka,62,45,WYSOCKO NIZNE,The Jewish pop. in 1921 was 141.,,49.03333333,23.01666667,-1047829,99,1890
+GLC_ZLC_SKLV,6275Skl,Sokolowka,1214,JM-1629,1629,Galicia,Zloczow,62,75,SOKOLOWKA,Jews are mentioned from 1629,,50.03333333,24.85,-1054602,983,1880
+GLC_ZLS_USTC,6261Ust,Ustechko,1363,CE-17XX,1700,Galicia,Zaleszczyki,62,61,USCIECZKO,A small community existed in the 18th cent,,48.76666667,25.6,-1057250,983,1880
+PRU_PSN_NKLN,6105Nkl,Nakel nad Notecia,870,CM-15XX,1500,Prussia,Posen,61,5,NAKLO,A small Jewish community with a synagogue existed in the 16th cent,,53.15,17.6,-517826,982,1871
+GLC_WLC_WLCZ,6218Wlc,Wieliczka,1442,JE-13XX,1300,Galicia,Wiznitz,62,18,WIELICZKA,Despite a ban on Jewish settlement lasting until 1867,,49.98333333,20.06666667,-534981,981,1900
+PRU_PMM_PLNW,6104Wln,Wolanow,1457,JF-18EX,1800,Prussia,Pommern,61,4,WOLANOW,Jews first settled in the early 19th cent,,54.11666667,16.68333333,-522999,98,1871
+BKV_WZN_BRHM,6306Brh,Berhomet am Siret,116,JF-1804,1804,Bukovina,Wiznitz,63,6,BERHOMET PE SIRET,Jews first settled in 1804,,48.18333333,25.33333333,-1035358,979,1930
+GLC_HST_PRBZ,6268Prb,Probuzna,1028,JE-17LX,1799,Galicia,Husiatyn,62,68,PROBUZNA,Jews were present from the late 18th cent,,49.03333333,25.98333333,-1051638,978,1880
+GLC_GRD_IVNF,6223Jnw,Janow,,JM-16EX,1600,Galicia,Grodek,62,23,JANOW (I),Jews are mentioned in the early 17th cent,,49.91666667,23.73333333,-1061265,968,1880
+GLC_SKL_VRYZ,6241Wrn,Warenz,1424,JE-15XX,1500,Galicia,Stanislawow,62,41,WARENZ,Jews lived there from the 16th cent,,50.51666667,24.1,-1048754,964,1900
+PRU_WST_TCHL,6103Tch,Tuchola,1338,JF-1772,1772,Prussia,Westpreussen,61,3,TUCHOLA,Jews settled after the annexation to Prussia in 1772,,53.58333333,17.85,-533487,959,1876
+PRU_PMM_SLPS,6104Stl,Stolp,1247,JM-1705,1705,Prussia,Pommern,61,4,STOLP,There is mention of a Jew in S. in 1705.,,54.45,17.03333333,-528852,958,1880
+GLC_LNC_KNCZ,6228Knc,Kanczuga,594,JE-1597,1597,Galicia,Lancut,62,28,KANCZUGA,Jews were present from 1597,,49.98333333,22.41666667,-506823,949,1896
+PRU_PSN_SZMT,6105Smt_2,Samter,1274,JF-1403,1403,Prussia,Posen,61,5,SZAMOTULY,Jews first settled in 1403.,,52.61666667,16.58333333,-531780,949,1871
+GLC_RZS_BLZW,6238Blz,Blazowa,156,JE-17XX,1700,Galicia,Rzeszow,62,38,BLAZOWA,The Jewish settlement dates from the 18th cent,,49.88333333,22.1,-493976,942,1890
+GLC_HRD_CHRT,6250Czr_2,Czortowiec,,POP-1921,1921,Galicia,Horodenka,62,50,CZORTOWIEC,In 1921 the Jewish pop. reached 317,,48.7,25.28333333,-1037182,94,1880
+GLC_JSL_JSL,6209Jsl,Jaslo,566,JM-13XX,1300,Galicia,Jaslo,62,9,JASLO,Jews are mentioned in the 14th cent,,49.75,21.46666667,-505390,934,1880
+BKV_SCZ_DRMN,6310Drm,Darmanesti,,POP-1930,1930,Bukovina,Suceava,63,10,DARMANESTI (II),,,47.73333333,26.15,-1157744,92,1930
+GLC_DRH_DRHB,6222Drh,Drohobycz,333,JM-1404,1404,Galicia,Drohobycz,62,22,DROHOBYCZ,Jews are first mentioned in 1404,,49.35,23.5,-1038184,9181,1880
+BKV_STR_NYZH,6309Unt,Unter Stanestie,1233,JF-18EX,1800,Bukovina,Storojinet,63,9,STANESTI DE JOS,Jews from Galicia and Russia settled in the late 19th cent,,48.31666667,25.56666667,-1047844,909,1890
+GLC_BRZ_BRZZ,6264Brz,Brzozow,207,JF-17XX,1700,Galicia,Brzozow,62,64,BRZOZOW,Permanent settlement began in the 18th cent,,49.7,22.01666667,-495708,907,1890
+PRU_SCH_MYSL,6101Mys,Myslowitz,864,JF-16XX,1600,Prussia,Schlesien,61,1,MYSLOWICE,Jews first arrived in the 17th cent,,50.23333333,19.15,-517680,900,1887
+PRU_PSN_LBSZ,6105Lbs,Labischin,697,JF-1564,1564,Prussia,Posen,61,5,LABISZYN,The first Jews settled in 1564,,52.95,17.93333333,-512169,900,1850
+GLC_STR_VRKH,6257Syn,Synowodzko Wyzne,,JE-15LX,1599,Galicia,Stryj,62,57,SYNOWODZKO-WYZNE,Jews were leasing land from the second half of the 16th cent,,49.1,23.58333333,-1057969,90,1880
+GLC_TRK_DZWN,6245Dzw,Dzwiniacz Gorny,351,POP-1921,1921,Galicia,Turka,62,45,DZWINIACZ GORNY,,,49.15,22.78333333,-500692,90,1880
+GLC_LNC_SDLC,6228Ml,Male Siedliszcze,788,JF-1851,1851,Galicia,Lancut,62,28,MALE SIEDLISZCZE,M. was founded as a J. farm settlement in 1851,,49.96666667,22.36666667,-527668,9,1880
+GLC_JRS_RDYM,6224Rdy,Radymno,1051,JF-1711,1711,Galicia,Jaroslaw,62,24,RADYMNO,The few Jews allowed to settle in the town were expelled in 1711,,49.95,22.83333333,-524975,898,1880
+GLC_RZS_JWRN,6238Jwr,Jawornik Polski,569,JE-18XX,1800,Galicia,Rzeszow,62,38,JAWORNIK POLSKI,Jews engaged mainly in farming in the 19th cent,,49.88333333,22.28333333,-505538,89,1880
+GLC_ZBR_STRY,6274Str,Stryjowka,,,,Galicia,Zbaraz,62,74,,,,49.6,25.81666667,-1055481,88,1890
+GLC_RZS_RZSZ,6238Rch,Reichshof,,JE-1340,1340,Galicia,Rzeszow,62,38,RZESZOW,Jews may have been present before the annexation of the city to Poland in 1340,,50.05,22,-527004,8785,1910
+PRU_SCH_GRDK,6101Grt,Grottkau,464,JE-MA,MA,Prussia,Schlesien,61,1,GROTTKAU,"*Upper Silesia, Germany. Jews probably arrived in the Middle Ages",,50.7,17.38333333,-503349,87,1861
+GLC_BRS_USTY,6220Usc,Uscie Biskupie,,,,Galicia,Borszczow,62,20,,,,48.61666667,26.1,-1057276,860,1880
+PRU_OST_BRTS,6102Brt,Bartenstein,91,JE-1737,1737,Prussia,Ostpreussen,61,2,BARTENSTEIN,The first evidence of a Jewish presence in B. dates from 1737.,,54.25,20.81666667,-492966,86,1880
+GLC_TRK_BRYN,6245Bry,Borynia,174,POP-1880,1880,Galicia,Turka,62,45,BORYNIA,"In 1880 there were 86 Jews in a pop. of 1,323",,49.06666667,23,-1036118,86,1880
+PRU_PSN_MSTC,6105Frd_2,Friedheim,405,JE-16EX,1600,Prussia,Posen,61,5,FRIESHEIM,Two to five J. families lived in F. from the second half of the 17th cent,,53.1,17,-516056,86,1855
+GLC_STR_STRZ,6243Str,Strzyzow,1255,JE-14LX,1499,Galicia,Suceava,62,43,STRZYZOW,Jews were present from the late 15th cent,,49.86666667,21.8,-530846,859,1880
+BKV_WZN_VSHK,6306Wsc,Waschkoutz am Czeremosch,,,,Bukovina,Wiznitz,63,6,,,,48.38333333,25.51666667,-1057431,856,1939
+PRU_PSN_SLCK,6105Sch_5,Schulitz,1158,JF-1836,1836,Prussia,Posen,61,5,SELETS,S. was founded as an agricultural colony on leased land in 1836,,53.08333333,18.21666667,-529374,85,2880
+BKV_SRT_DRNS,6307Drn,Dornestie,323,JF-1774,1774,Bukovina,Sereth,63,7,DORNESTI,Jewish traders settled in 1774.,,47.86666667,26.01666667,-1158383,84,1930
+PRU_OST_GLDP,6102Gld,Goldap,438,POP-1843,1843,Prussia,Ostpreussen,61,2,GOLDAP,The Jewish pop. was 60 in 1843,,54.3,22.3,-502167,84,1880
+PRU_PSN_PBDZ,6105Pdw,Pudewitz,,,,Prussia,Posen,61,5,,,,52.46666667,17.3,-522417,84,1880
+PRU_PSN_WLSZ,6105Wll,Wollstein,1462,JF-1530,1530,Prussia,Posen,61,5,WOLSZTYN,The first Jews arrived in 1530,,52.11666667,16.13333333,-536969,834,1846
+GLC_ZLC_OLSK,6275Ols,Olesko,933,CM-15EX,1500,Galicia,Zloczow,62,75,OLESKO,The beginnings of Jewish life can be traced to the early 16th cent,,49.96666667,24.88333333,-1049235,832,1910
+GLC_LMN_TYMB,6211Tym,Tymbark,,,,Galicia,Limanowa,62,11,,,,49.73333333,20.33333333,-533791,83,1890
+PRU_WST_TCZN,6103Ttz,Tutz,,,,Prussia,Westpreussen,61,3,,,,53.18333333,16.15,-533513,83,1885
+GLC_BCZ_USTY,6265Usc,Uscie Zielone,1363,JM-1552,1552,Galicia,Buczacz,62,65,USCIE ZIELONE,Jews are first mentioned in 1552,,49.03333333,24.96666667,-1057280,823,1880
+GLC_RW_LBYC,6236Lby,Lubycza Krolewska,757,POP-1900,1900,Galicia,Rawa Ruska,62,36,LUBYCZA KROLEWSKA,"Jews comprised as much as 90% of the pop., numbering 821 in 1900",,50.33333333,23.53333333,-514490,821,1900
+GLC_JSL_FRYS,6224Fry,Frysztak,406,CM-16MX,1650,Galicia,Jaslo,62,24,FRYSZTAK,The organized J community dates from the mid-17th cent,,49.83333333,21.61666667,-501016,820,1880
+PRU_PMM_DBR,6104Dbr,Daber,291,JE-1700,1700,Prussia,Pommern,61,4,DABER,Jews lived in D. since 1700.,,53.58333333,15.3,-499579,82,1849
+BKV_WZN_BNYL,6306Bnl,Banilla am Ceremus,84,JF-18LX,1899,Bukovina,Wiznitz,63,6,BANILA PE CEREMUS,Jews first settled in the late 19th cent,,48.36666667,25.36666667,-1034916,818,1888
+BKV_KTZ_TVTR,6305Ttr,Toutry,1299,POP-1930,1930,Bukovina,Kotzman,63,5,TAUTENI,In 1930 the J. pop. was 80,,48.56666667,25.86666667,-1056070,80,1930
+PRU_SCH_LWNB,6101Lwn,Loewen,745,POP-1921,1921,Prussia,Schlesien,61,1,LOEWEN,The Jewish pop. was 28,,50.75,17.61666667,-513279,80,1880
+PRU_SCH_LDKZ,6101Lnd_3,Landeck,,,,Prussia,Schlesien,61,1,LANDECK,,,50.35,16.88333333,-512252,8,1850
+GLC_BRD_STNS,6263Stn,Stanislawczyk,1233,POP-1880,1880,Galicia,Brody,62,63,STANISLAWCZYK,The Jewish community grew to 795 or half the pop. in 1880,,50.16666667,24.9,-1054909,795,1880
+PRU_PSN_CHDZ,6105Chd,Chodziez,,,,Prussia,Posen,61,5,CHODZIEZ,,,52.98333333,16.91666667,-496967,795,1871
+PRU_PSN_GRDZ,6105Grd,Grodzisk Wielkopolski,459,JF-15LX,1599,Prussia,Posen,61,5,GRODZISK WIELKOPOLSKI,Jews first settled in the late 16th cent,,52.23333333,16.36666667,-503428,793,1875
+PRU_SCH_ZBRZ,6101Hnd,Hindenburg,514,JF-18EX,1800,Prussia,Schlesien,61,1,HINDENBURG,Jewish settlement commenced in the early 19th cent,,50.31666667,18.78333333,-537912,789,1895
+BKV_SDG_BYNY,6303Bjn,Bojan,165,JE-1860,1860,Bukovina,Sadagora,63,3,BOIAN,Jews were granted permission to settle in 1860.,,48.28333333,26.13333333,-1036272,781,1880
+PRU_OST_SVTS,6102Tls,Tilsit,,JF-18EX,1800,Prussia,Ostpreussen,61,2,TILSIT,Jews settled in T. at the beginning of the 19th cent,,55.06666667,21.88333333,-3008427,780,1895
+GLC_CSZ_NRL,6230Nrl,Narol,875,CF-16XX,1600,Galicia,Cieszanow,62,30,NAROL,A flourishing community developed in the 17th cent,,50.35,23.31666667,-517886,779,1880
+BKV_RDT_RDT,6308Rdt,Radautz,1044,JF-17LX,1799,Bukovina,Radautz,63,8,RADAUTI,Jews settled in the late 18th cent,,47.85,25.91666667,-1168196,7754,1911
+GLC_NWY_NWYT,6216Nwy,Nowy Targ,912,JE-17LX,1799,Galicia,Nowy Targ,62,16,NOWY TARG,Few Jews were present until the late 18th cent,,49.48333333,20.03333333,-519152,773,1890
+GLC_SKL_TRTK,6241Trt,Tartakow,1296,JF-17LX,1799,Galicia,Sokal,62,41,TARTAKOW,,,50.46666667,24.4,-1056029,770,1880
+GLC_LNC_WLZR,6228Wl,Wola Zarzycka,1457,POP-1921,1921,Galicia,Lancut,62,28,WOLA ZARCZYCKA,The Jewish pop. in 1921 was 101,,50.3,22.25,-536584,77,1890
+PRU_OST_GRWI,6102Lnd,Landsberg,703,POP-1858,1858,Prussia,Ostpreussen,61,2,LANDSBERG,East The Jewish pop. stood at 211 in 1858,,54.28333333,20.5,-502540,77,1884
+PRU_PMM_DB,6104Alt,Altdamm,32,JE-1481,1481,Prussia,Pommern,61,4,ALTDAMM,for nine Jews in 1481 constitute the first evidence of  Jewish settlement here.,,53.4,14.66666667,-498582,77,1849
+GLC_KMN_DDYL,6267Dzd,Dziedzilow,,,,Galicia,Kamionka Strumilowa,62,67,,,,49.93333333,24.36666667,-1037569,76,1880
+PRU_SCH_BLPR,6101Zlz,Zuelz,1520,JE-14XX,1400,Prussia,Schlesien,61,1,ZUELZ,Jews were present continuously from at least the 15th cent,,50.38333333,17.65,-493258,755,1840
+GLC_ZYD_ZHYD,6260Zhy,Zhydachiv,1522,JE-14MX,1450,Galicia,Zywiec,62,60,ZYDACZOW,Jews are recorded in the mid-15th cent,,49.38333333,24.13333333,-1952639,752,1890
+GLC_BRD_SHCH,6263Szc,Szczurowice,1277,JM-1570,1570,Galicia,Brody,62,63,SZCZUROWICE,Jews are first mentioned in 1570,,50.26666667,25.03333333,-1053576,752,1880
+GLC_GRY_BBW,6223Bbw,Bobowa,157,CE-1765,1765,Galicia,Grybow,62,23,BOBOWA,A community of 44 families lived there  in 1765,,49.7,20.93333333,-494126,749,1900
+GLC_SNK_BKWS,6240Bkw,Bukowsko,221,JF-17XX,1700,Galicia,Sanok,62,40,BUKOWSKO,Jews settled in the 18th cent,,49.48333333,22.06666667,-496259,748,1900
+GLC_TRM_DRKH,6273Drc,Darachow,292,POP-1921,1921,Galicia,Trembowla,62,73,DARACHOW,The Jewish pop. in 1921 was 109.,,49.3,25.55,-1037514,74,1880
+PRU_WST_GRDZ,6103Grd,Grudziondz,465,CF-16XX,1600,Prussia,Westpreussen,61,3,GRUDZIONDZ,The Jewish community was founded in the 17th cent,,53.48333333,18.76666667,-503551,730,1938
+PRU_OST_YSNY,6102Kkh,Kaukehmen,604,X,X,Prussia,Ostpreussen,61,2,KAUKEHMEN,K. was a part of the Tilsit community. It had 73 members in 1925,,55.18333333,21.55,-3039599,73,1925
+GLC_CZR_ULSH,6266Uls,Ulaszkivtsi,1359,CM-18XX,1800,Galicia,Czortkow,62,66,ULASZKOWCE,The Jewish community began to develop in the 19th cent,,48.9,25.83333333,-1057106,728,1880
+GLC_KMN_STYN,6267Stj,Stojanow,1246,JF-1629,1629,Galicia,Kamionka Strumilowa,62,67,STOJANOW,Jews first arrived in 1629,,50.36666667,24.65,-1055371,726,1900
+GLC_WDW_WDWC,6217Wdw,Wadowice,1420,X,X,Galicia,Wadowice,62,17,WADOWICE,Residence restrictions delayed the development of a Jewish community until the 1860,,49.88333333,19.48333333,-534197,722,1880
+BKV_WZN_YBLN,6306Ibl,Iablonita,538,JF-18LX,1899,Galicia,Zaleszczyki,63,6,IABLONITA,Jews settled in the late 19th cent,,48.03333333,24.91666667,-1059226,72,1930
+GLC_TRK_BTLY,6245Btl,Butla,225,POP-1921,1921,Galicia,Turka,62,45,BUTLA,The Jewish pop. in 1921 was 182.,,48.96666667,22.96666667,-1035671,72,1880
+GLC_BRS_VRKH,6220Krz,Krzywcze Gorne,686,JE-17MX,1750,Galicia,Borszczow,62,20,KRZYWCZE GORNE,A Jewish settlement apparently existed from the mid-18th cent,,48.7,26.11666667,-1057967,719,1880
+PRU_SCH_OPL,6101Opp,Oppeln,939,JE-1396,1396,Prussia,Schlesien,61,1,OPPELN,A number of Jewish families were present in 1396,,50.66666667,17.95,-519973,718,1895
+PRU_SCH_GLGW,6101Glg,Glogau,434,JM-1280,1280,Prussia,Schlesien,61,1,GLOGAU,Jews are mentioned in 1280,,51.66666667,16.1,-501806,716,1900
+GLC_TLM_NYZH,6259Nzn,Nizniow,897,JF-16XX,1600,Galicia,Tlumacz,62,59,NIZNIOW,Jews settled with the founding of the town in the 17th cent,,48.95,25.08333333,-1047832,711,1880
+PRU_SCH_NWSL,6101Nsl,Neusalz,884,POP-1925,1925,Prussia,Schlesien,61,1,NEUSALZ,The Jewish pop. was 71 in 1925,,51.8,15.71666667,-518601,71,1925
+PRU_SCH_SWBD,6101Frb,Freiburg,402,JM-1230,1230,Prussia,Schlesien,61,1,FREIBURG,Jews are first mentioned in 1230,,50.86666667,16.33333333,-531408,71,1890
+BKV_RDT_SLC,6308Slk,Solka,1266,JF-18EX,1800,Bukovina,Radautz,63,8,SUWALKI,The J. commun ity originated in the beginning of the 19th cent,,47.7,25.85,-1170982,71,1880
+GLC_PLZ_PLZN,6276Plz,Pilzno,990,JF-1860,1860,Galicia,Podhajce,62,76,PILZNO,Few Jews settled in P. until the residence ban was lifted in 1860,,49.96666667,21.3,-521931,707,1900
+PRU_PSN_PNWY,6105Pnn,Pinne,1005,JF-13XX,1300,Prussia,Posen,61,5,PNIEWY,A Jewish settlement with a cemetery existed from the 14th cent,,52.51666667,16.26666667,-522399,707,1837
+PRU_OST_GVRD,6102Tp,Tapiau,1287,POP-1895,1895,Prussia,Ostpreussen,61,2,TAPIAU,In 1895,,54.65,21.06666667,-2913552,70,1895
+GLC_RZS_ZGLB,6238Zgl,Zglobien,1507,POP-1766,1766,Galicia,Sadagora,62,38,ZHLOBIN,The J. pop. rose from 268 in 1766.,,50.01666667,21.85,-539607,70,1890
+GLC_KLM_BNYB,6226Bn,Bania Berezow,,,,Galicia,Kolomyja,62,26,,,,48.41666667,24.75,-1034922,7,1880
+GLC_BCZ_BCHC,6262Bcz,Buczacz,,JE-1500,1500,Galicia,Buczacz,62,62,BUCZACZ,A Jewish presence 1s noted from 1500,,49.08333333,25.4,-1036442,6976,1890
+GLC_BRD_LSHN,6263Lsz,Leszniw,724,JE-16EX,1600,Galicia,Brody,62,63,LESZNIOW,Jews were present from the early 17th cent,,50.23333333,25.08333333,-1044632,696,1890
+GLC_TRN_ZBN,6206Zbn,Zabno,,,,Bukovina,Tlumacz,62,6,ZABNO,,,50.13333333,20.9,-537811,696,1890
+PRU_SCH_GRLT,6101Grl,Goerlitz,437,JF-12EX,1200,Prussia,Schlesien,61,1,GOERLITZ,Jews probably arrived with the foundation of the city in the first half of  the 13th cent,,51.16666667,15,-1777715,691,1885
+GLC_STR_SKLV,6242Fls,Felsztyn,380,JE-16EX,1600,Galicia,Stare Miasto,62,42,FELSZTYN,Jews were present from the early 17th cent,,49.53333333,22.96666667,-1054163,690,1900
+BKV_STR_BNYL,6309Bnl,Banilla am Sereth,84,JF-18EX,1800,Bukovina,Storojinet,63,9,BANILA PE SIRET,Jews first settled in the early 19th cent,,48.08333333,25.48333333,-1034915,687,1930
+GLC_CHR_JWRZ,6204Jwr,Jaworzno,569,CM-18MX,1850,Galicia,Chrzanow,62,4,JAWORZNO,The Jewish settlement began to grow only in the mid-19th cent,,50.21666667,19.28333333,-505580,684,1890
+GLC_STR_STRL,6242Str,Strzylki,1255,POP-1921,1921,Galicia,Stare Miasto,62,42,STRZYLKI,The Jewish pop. in 1921 was 242,,49.33333333,22.98333333,-1055407,68,1880
+GLC_SKL_TVST,6271Tst,Touste,1318,JE-17EX,1700,Galicia,Sniatyn,62,71,TOUSTE,Jews lived there from the early 18th cent,,49.26666667,26.08333333,-1056411,671,1880
+GLC_BRZ_SZCZ,6203Szc,Szczurowa,1276,POP-1921,1921,Galicia,Brzesko,62,3,SZCZUROWA,The Jewish pop. in 1921 was 132,,50.11666667,20.65,-532016,67,1890
+GLC_MYS_MKWP,6212Mkw,Makow Podhalanski,788,CE-18LX,1899,Galicia,Myslenice,62,12,MAKOW PODHALANSKI,A community of 100-200 Jews (5% of the total) existed from the late 19th cent,,49.73333333,19.68333333,-515179,67,1881
+GLC_NWY_STRY,6215Str,Stary Sacz,,JM-1469,1469,Galicia,Nowy Sacz,62,15,STARY SONCZ,Jews are first mentioned in 1469,,49.56666667,20.65,-530111,666,1910
+GLC_NWY_STRY,6215Str,Stary Sacz,,JM-1469,1469,Galicia,Nowy Sacz,62,15,STARY SONCZ,Jews are first mentioned in 1469,,49.56666667,20.65,-530111,666,1910
+GLC_NWY_STRY,6215Str_2,Stary Sacz,1238,JM-1469,1469,Galicia,Nowy Sacz,62,15,STARY SONC,Jews are first mentioned in 1469,,49.56666667,20.65,-530111,666,1910
+GLC_NWY_STRY,6215Str_2,Stary Sacz,1238,JM-1469,1469,Galicia,Nowy Sacz,62,15,STARY SONC,Jews are first mentioned in 1469,,49.56666667,20.65,-530111,666,1910
+GLC_PRZ_DBCK,6234Dbc,Dubieck,335,JM-1622,1622,Galicia,Przemysl,62,34,DUBIECKO,Jews are recorded from 1622 and from the early 18th cent,,49.81666667,22.38333333,-500185,666,1880
+PRU_WST_CHLM2,6103Chl_2,Chelmza,,,,Prussia,Westpreussen,61,3,CHELMZA,,,53.18333333,18.61666667,-496761,664,1885
+GLC_STN_MRYM,6258Mrm,Mariampol,794,JF-16LX,1699,Galicia,Stanislawow,62,58,MARIAMPOL,Jews settled in the second half of the 17th cent,,49.03333333,24.85,-1045982,663,1890
+GLC_HRD_CHRN,6202Czr,Czernelica,288,CE-17EX,1700,Galicia,Horodenka,62,2,CZERNELICA,The Jewish community existed from the early 18th cent,,48.81666667,25.43333333,-1037037,662,1880
+GLC_TRK_SKLK,6245Skl,Sokoliki Gorskie,1211,POP-1921,1921,Galicia,Turka,62,45,SOKOLIKI GORSKIE,The Jewish pop. was 292 in 1921.,,49.1,22.86666667,-1054575,66,1880
+GLC_STR_STRY2,6257Str,Stryj,,X,X,Galicia,Stryj,62,57,STRYJ,,,49.25,23.85,-1055479,6572,1890
+GLC_TRN_RDMY,6244Rdm,Radomysl nad Sanem,1048,JM-1765,1765,Galicia,Tarnobrzeg,62,44,RADOMYSL NAD SANEM,Jews are first recorded in 1765,,50.68333333,21.95,-524876,654,1900
+GLC_KSW_VRKH,6251Zb,Zabie,1478,CM-1880s,1880s,Galicia,Kosow,62,51,ZABIE,The Jews were organized as an independent commun ity in the 1880,,48.15,24.8,-1058044,654,1890
+PRU_SCH_SYCW,6101Grs_2,Gross Wartenberg,463,JE-1657,1657,Prussia,Schlesien,61,1,GROSS WARTENBERG,A small Jewish community made up mainly of Polish refugees was present by 1657.,,51.3,17.71666667,-531689,65,1910
+GLC_DBR_WJTK,6221Wjt,Wojtkowa,,POP-1921,1921,Galicia,Dobromil,62,21,WOJTKOWA,The Jewish pop. in 1921 was 113.,,49.56666667,22.56666667,-536202,65,1890
+GLC_RHT_KNHY,6256Knh,Knihynicze,637,JE-17XX,1700,Galicia,Rohatyn,62,56,KNIHYNICZE,The Jewish settlement dating from the 18th cent,,49.38333333,24.46666667,-1042227,648,1880
+PRU_WST_KRJN,6103Krj,Krajenke,679,JM-1557,1557,Prussia,Westpreussen,61,3,KROJANKE,Jews are first mentioned in 1557,,53.3,16.98333333,-510586,648,1851
+BKV_KTZ_KTSM,6305Csm,Cosmeni,274,CE-18LX,1899,Bukovina,Kotzman,63,5,COSMENI,À Jewish community existed in the late 19th cent,,48.45,25.76666667,-1042070,647,1930
+PRU_WST_WLCZ,6103Dts_2,Deutsch Krone,307,JE-1772,1772,Prussia,Westpreussen,61,3,DEUTSCH KRONE,,,53.26666667,16.46666667,-534242,647,1871
+GLC_PRZ_NYZH,6234Nzn,Nizankowice,896,JM-1602,1602,Galicia,Przemysl,62,34,NIZANKOWICE,Jews are mentioned from 1602,,49.68333333,22.81666667,-1047796,643,1880
+GLC_BBR_BRZD,6219Brz,Berezdivtsi,207,CM-16LX,1699,Galicia,Bobrka,62,19,BRZOZDOWCE,The community apparently dates from the late 17th cent,,49.45,24.15,-1035407,640,1880
+PRU_PSN_SKWR,6105Sch_4,Schwerin an der Warthe,1154,JM-1507,1507,Prussia,Posen,61,5,SCHWERIN AN DER WARTHE,Jews are first mentioned in 1507,,52.6,15.5,-528506,640,1871
+GLC_KLS_DLZH,6249Dlz,Dolzhka,320,POP-1921,1921,Galicia,Kalusz,62,49,DOLZKA,The Jewish pop. in 1921 was 141.,,49.16666667,24.48333333,-1038046,64,1880
+GLC_WDW_ANDR,6217And,Andrychow,44,JF-18EX,1800,Galicia,Wadowice,62,17,ANDRYCHOW,Jews settled in the first half of the 19th cent,,49.85,19.35,-492267,635,1880
+GLC_CHR_TRZB,6204Trz,Trzebinia,1337,JF-16LX,1699,Galicia,Chrzanow,62,4,TRZEBINIA,Jews first settled in the late 17th cent,,50.16666667,19.48333333,-533363,634,1880
+GLC_ZYD_MYKL,6260Mkl,Mikolajow,822,JE-16EX,1600,Galicia,Zydaczow,62,60,MIKOLAJOW,Jews were present from the early 17th cent,,49.51666667,23.98333333,-1047258,632,1910
+BKV_KTZ_ZSTV,6305Zst,Zastawna,1492,CF-1891,1891,Galicia,Kotzman,63,5,ZASTAVNA,The J. community received official recognition in 1891,,48.51666667,25.85,-1060291,629,1930
+PRU_SCH_TRNW,6101Trn,Tarnowitz,1296,JM-1732,1732,Prussia,Schlesien,61,1,TARNOWSKIE GORY,Jews are first mentioned in 1732,,50.45,18.86666667,-532708,627,1890
+GLC_ZYW_ZYWC,6213Zyw,Zywiec,,,,Galicia,,62,13,ZYWIEC,,,49.68333333,19.21666667,-540364,624,1921
+PRU_PSN_KRNW,6105Crn,Crone an der Brahe,659,JF-1772,1772,Prussia,Posen,61,5,KORONOWO,Jews apparently settled only after the Prussian annexation in 1772,,53.31666667,17.95,-509807,620,1871
+BKV_KMP_VM,6301Vm,Vama,1374,JF-18EX,1800,Bukovina,Kimpolung,63,1,VAMA,Jews settled in the late 19th cent,,47.56666667,25.68333333,-1174276,618,1910
+GLC_HST_SKHS,6268Skh,Sukhostaw,1260,POP-1880,1880,Galicia,Husiatyn,62,68,SUCHOSTAW,The community grew to 614,,49.13333333,25.86666667,-1055614,614,1880
+GLC_DLN_PRHN,6248Prh,Perehinsko,979,POP-1921,1921,Galicia,Dolina,62,48,PEREHINSKO,The Jews numbered 612 in 1921,,48.81666667,24.18333333,-1050093,612,1921
+GLC_RW_RVRS,6236Rw,Rawa Ruska,1061,JF-1624,1624,Galicia,Rawa Ruska,62,36,RAWA RUSKA,The first Jews arrived with the founding of the town in 1624.,,50.25,23.61666667,-1052059,6112,1910
+GLC_CZR_PLSH,6266Psz,Pauszowka,,,,Galicia,Czortkow,62,66,,,,48.96666667,25.56666667,-1049786,61,1931
+BKV_RDT_STRJ,6308Str,Strasza,1251,JM-1331,1331,Bukovina,Radautz,63,8,STRAZ,Jews are mentioned in 1331,,47.91666667,25.55,-1171482,61,1880
+GLC_ZYD_HNZD,6260Hnz,Hnizdychiv,516,POP-1921,1921,Galicia,Zydaczow,62,60,HNIZDYCZOW,The Jewish pop. in 1921 was 100.,,49.35,24.11666667,-1039103,61,1880
+BKV_KMP_STLP,6301Stl,Stulpicani,1256,POP-1910,1910,Bukovina,Kimpolung,63,1,STULPICANI,The Jews numbered 609 in 1910,,47.46666667,25.76666667,-1171595,609,1910
+PRU_PSN_SRM,6105Sch_8,Schrimm,1129,JF-15XX,1500,Prussia,Posen,61,5,SREM,Jews first settled in the 16th cent,,52.08333333,17.01666667,-529622,607,1895
+PRU_PMM_KLBR,6104Klb,Kolberg,645,JM-1261,1261,Prussia,Pommern,61,4,KOLBERG,Jews are first mentioned in 1261,,54.18333333,15.58333333,-508542,600,1893
+PRU_WST_ILW,6103Dts,Deutsch Eylau,307,POP-1722,1722,Prussia,Westpreussen,61,3,DEUTSCH EYLAU,The Jewish community numbered 15 families  in 1722.,,53.6,19.56666667,-504402,60,1895
+GLC_BRD_ZVDC,6263Zwd,Zawidcze,,,,Galicia,Brody,62,63,,,,50.3,24.93333333,-1060355,60,1890
+PRU_PMM_CHCW,6104Frn,Freienwalde,402,JM-1705,1705,Prussia,Pommern,61,4,FREIENWALDE,There was a Jew living in F. in 1705,,53.45,15.31666667,-496924,60,1880
+GLC_BHR_DZVY,6247Dzw,Dzwiniacz,,,,Galicia,Bohorodczany,62,47,,,,48.75,24.41666667,-1038503,6,1880
+GLC_GRY_GRYB,6208Gry,Grybow,466,JF-17MX,1750,Bukovina,Grybow,62,8,GRYBOW,A permanent settlement is known from the mid-18th cent,,49.63333333,20.95,-503592,596,1880
+GLC_DRH_BRYS,6222Bry,Boryslaw,174,CM-18EX,1800,Galicia,Dolina,62,22,BORYSLAW,The small Jewish community of the early 19th cent,,49.28333333,23.41666667,-1036121,5950,1900
+GLC_RHT_STRT,6256Str,Stratyn,1250,JF-16LX,1699,Galicia,Rohatyn,62,56,STRATYN,"Jews, mainly from Rohatyn, settled in the second half of the 17th cent",,49.46666667,24.7,-1055393,593,1880
+PRU_WST_WBRZ,6103Wbr,Wabrzezno,1420,CE-1709,1709,Prussia,Westpreussen,61,3,WABZEZNO,A commun ty of 400 existed in 1709,,53.28333333,18.95,-534173,589,1885
+PRU_PSN_KZMN,6105Ksc,Koschmin,669,JE-14XX,1400,Prussia,Posen,61,5,KOZMIN,The Jewish settlement dates from the 15th cent,,51.81666667,17.45,-510514,588,1871
+GLC_DRH_TRSK,6222Trs,Truskawiec,1336,POP-1880,1880,Galicia,Drohobycz,62,22,TRUSKAWIEC,In 1880 the Jewish pop. stood at 58,,49.28333333,23.5,-1056675,58,1880
+GLC_SNT_DZHR,6252Dzr,Dzurkow,,POP-1921,1921,Galicia,Sniatyn,62,52,DZURKOW,The Jewish pop. in 1921 was 100.,,48.4,25.31666667,-1038491,58,1880
+PRU_PSN_SWRZ,6105Sch_9,Schwersenz,1270,JF-17EX,1700,Prussia,Posen,61,5,SWARZENDZ,A group of poor Jews from Poznan was invited to settle by the local nobility in the first half of,,52.41666667,17.08333333,-531316,574,1880
+GLC_STR_KHYR,6242Chy,Chyrow,,JF-15EX,1500,Galicia,Stare Miasto,62,42,CHYROW,Jews were apparently among the founders of  the town in the first half of the 16th cent,,49.53333333,22.85,-1041891,574,1859
+PRU_WST_BRDN,6103Brd,Brodnica,200,JF-1772,1772,Prussia,Westpreussen,61,3,BRODNICA,Jews arrived after the First Partition of  Poland in 1772,,53.25,19.4,-495143,571,1885
+GLC_LMN_LMNW,6211Lmn,Limanowa,731,CM-18XX,1800,Galicia,Limanowa,62,11,LIMANOWA,The community became organized in the 19th cent,,49.7,20.43333333,-513421,571,1880
+GLC_DRH_DVH,6222Dlh,Dolhe Podbuskie,319,POP-1921,1921,Galicia,Drohobycz,62,22,DOLHE PODBUSKIE,The Jewish pop. in 1921,,49.16666667,23.35,-1037988,57,1880
+GLC_ZLS_BLCH,6231Blc,Bilcze Zlote,149,POP-1921,1921,Lwow,Zbaraz,62,31,BILCZE ZLOTE,,,48.78333333,25.86666667,-1035628,57,1870
+PRU_PSN_WRNK,6105Wrn,Wronke,1466,JF-15LX,1599,Prussia,Posen,61,5,WRONKI,The first Jews probably settled in the late 16th cent,,52.71666667,16.4,-537105,569,1890
+BKV_STR_CHDY,6309Czd,Czudyn,262,CE-1891,1891,Bukovina,Storojinet,63,9,CIUDEI,A Jewish community existed in 1891,,48.05,25.61666667,-1046528,568,1930
+GLC_DBR_SZCZ,6205Szc,Szczucin,1276,JF-17LX,1799,Galicia,Dabrowa,62,5,SZCZUCIN,Jews settled in the late 18th cent,,50.3,21.06666667,-531996,566,1880
+PRU_WST_CHJN,6103Chj,Chojnice,254,JF-1772,1772,Prussia,Westpreussen,61,3,CHOJNICE,,,53.7,17.56666667,-496992,563,1885
+BKV_WZN_DKHT,6306Dkh,Dikhtinets,310,POP-1930,1930,Bukovina,Wiznitz,63,6,DIHTINETI,The Jewish pop. in 1930 was 56.,,48.05,25.03333333,-1037755,56,1930
+PRU_OST_ZNMN,6102Whl,Wehlau,1436,X,X,Prussia,Ostpreussen,61,2,WEHLAU,,,54.61666667,21.21666667,-3048110,56,1880
+PRU_WST_LBW,6103Lb,Lobau,132,,,Prussia,Westpreussen,61,3,LUBAWA,,,53.5,19.75,-514175,553,1880
+GLC_NDW_MYKL,6253Myk,Mykulychyn,822,JF-18LX,1899,Galicia,Nadworna,62,53,MIKULICZYN,Jewish settlement began in the late 19th cent,,48.41666667,24.6,-1046700,552,1921
+PRU_PSN_PLSZ,6105Pls,Pleschen,1000,JE-15XX,1500,Prussia,Posen,61,5,PLESZEW,Though Jews settled in the environs of P. from the 16th cent,,51.9,17.8,-522234,550,1895
+PRU_PMM_BYTW,6104Btw,Buetow,220,JF-1720,1720,Prussia,Pommern,61,4,BUETOW,Jews began to settle in B. after 1720.,,54.16666667,17.5,-496474,550,1889
+GLC_BRZ_JSNC,6262Jsn,Jasienica Rosielna,565,POP-1880,1880,Galicia,Brzozow,62,62,JASIENICA ROSIELNA,The Jewish pop. reached a peak of 546,,49.75,21.95,-505302,546,1900
+PRU_PSN_LWWK,6105Nst,Neustadt bei Pinne,775,JF-15LX,1599,Prussia,Posen,61,5,LWOWEK,Jews settled in the late 16th cent,,52.45,16.18333333,-514812,540,1871
+PRU_OST_WGRZ,6102Ang,Angerburg,45,POP-1843,1843,Prussia,Ostpreussen,61,2,ANGERBURG,The Jewish pop. grew from 27 in 1843,,54.21666667,21.73333333,-534627,54,1880
+PRU_OST_KLNN,6102Kng,Koenigsberg,641,JF-17EX,1700,Prussia,Ostpreussen,61,2,KOENIGSBERG,,,54.71666667,20.5,-2918852,5324,1880
+PRU_WST_STRG,6103Str,Starogard,1237,JF-1772,1772,Prussia,Westpreussen,61,3,STAROGARD,Jews only settled permanently after the Prussian annexation in 1772.,,53.96666667,18.55,-530010,529,1885
+GLC_BL_BLSK,6201Bls,Bielsko Biala,146,JF-1772,1772,Galicia,Biala,62,1,BIELSKO BIALA,,,49.81666667,19.03333333,-493705,5271,1921
+PRU_WST_ZLTW,6103Flt,Flatow,384,JM-1564,1564,Galicia,Wieliczka,61,3,FLATOW,Jews are first mentioned in 1564,,53.35,17.05,-539908,524,1880
+GLC_BRS_KDRY,6220Kdr,Kudrynce,,,,Galicia,Borszczow,62,20,,,,49.38333333,26.76666667,-1044040,52,1921
+PRU_SCH_LWWK,6101Lwn_2,Loewenberg,745,JE-13MX,1350,Prussia,Schlesien,61,1,LOEWENBERG,"Lower Sile sia, Germany, today Poland. Jews inhabited a Street of the Jews by the mid-14th cent",,51.11666667,15.58333333,-514813,52,1840
+GLC_NWY_NWYS,6215Nwy,Nowy Sacz,,JE-14LX,1499,Galicia,Nowy Sacz,62,15,NOWY SONCZ,Jews are recorded from the end of the 15th cent,,49.63333333,20.71666667,-519123,5163,1880
+PRU_WST_TCZW,6103Tcz,Tczew,1299,JE-14LX,1499,Prussia,Westpreussen,61,3,TCZEW,Jewish merchants were present from the late 15th cent,,54.1,18.8,-532743,515,1887
+GLC_PLZ_BRZS,6276Brz,Brzostek,207,JF-17LX,1799,Galicia,Pilzno,62,76,BRZOSTEK,Jews first settled in the late 18th cent,,49.88333333,21.41666667,-495653,514,1910
+PRU_OST_PRVD,6102Frd,Friedland,404,POP-1880,1880,Prussia,Ostpreussen,61,2,FRIEDLAND,The Jewish pop. was 51 in 1880 and 37  in 1905.,,54.45,21.01666667,-2987502,51,1880
+GLC_NWY_MCJW,6215Lbw,Labowa,698,POP-1880,1880,Galicia,Nowy Sacz,62,15,LABOWA,The Jews numbered 221,,49.53333333,20.86666667,-514919,51,1880
+PRU_SCH_WNSK,6101Wnz,Winzig,,JE-1815,1815,Prussia,Schlesien,61,1,WINZIG,A Jewish family was present by 1815,,51.46666667,16.63333333,-535671,51,1862
+PRU_SCH_STRZ,6101Grs,Gross Strehlitz,462,JE-1812,1812,Prussia,Schlesien,61,1,GROSS STREHLITZ,There is no evidence of  a Jewish presence before 1812.,,50.51666667,18.3,-530753,509,1880
+GLC_BCH_NPLM,6202Npl,Niepolomice,892,JE-17MX,1750,Galicia,Bochnia,62,2,NIEPOLOMICE,Jews are known from the mid-18th cent,,50.03333333,20.23333333,-518285,507,1900
+PRU_WST_SWC,6103Swc,Swiecie,1270,CM-18XX,1800,Prussia,Westpreussen,61,3,SWIECIE,A community was organized in the 19th cent,,53.41666667,18.45,-531429,497,1885
+PRU_WST_CZLC,6103Sch,Schlochau,1147,POP-1831,1831,Prussia,Westpreussen,61,3,SCHLOCHAU,"In 1831, 364 Jews were living in S",,53.66666667,17.36666667,-498456,495,1880
+PRU_PSN_WRZS,6105Wrs,Wreschen,1466,JE-13MX,1350,Prussia,Posen,61,5,WRZESNIA,Jews were present from the founding of the town in the mid 14th cent,,52.31666667,17.58333333,-537153,490,1905
+PRU_WST_LDZB,6103Ldz,Lidzbark,728,JF-1772,1772,Prussia,Westpreussen,61,3,LIDZBARK,Jews probably settled after the annexation to Prussia in 1772,,53.26666667,19.81666667,-513376,489,1885
+GLC_KLB_WDLK,6226Wdl,Widelka,,,,Galicia,Kolbuszowa,62,26,,,,50.2,21.88333333,-534836,487,1880
+GLC_JRS_JRSL,6224Jrs,Jaroslaw,563,JM-1464,1464,Galicia,Jaroslaw,62,24,JAROSLAW,Jews are first mentioned in 1464,,50.01666667,22.68333333,-505210,4820,1890
+GLC_HST_HSYT,6268Hst,Husiatyn,536,JF-15XX,1500,Galicia,Husiatyn,62,68,HUSIATYN,Jew were among the first settlers in the town in the 16th cent,,49.06666667,26.21666667,-1039957,4801,1900
+BKV_KTZ_DVYD,6305Dvd,Davidesti,298,JF-18XX,1800,Bukovina,Kotzman,63,5,DAVIDESTI,Jews settled in the 19th cent,,48.48333333,25.7,-1037543,48,1930
+PRU_PMM_GLCZ,6104Glz,Guelzow,467,JM-1705,1705,Prussia,Pommern,61,4,GUELZOW,A Jew is first mentioned in 1705,,53.81666667,14.98333333,-502163,48,1905
+GLC_MYS_ZWJ,6212Zwj,Zawoja,1493,JF-16EX,1600,Galicia,Nadworna,62,12,ZAWIA,J. settlement probably commenced in the 17th cent,,49.66666667,19.56666667,-539081,48,1890
+GLC_MYS_RBK,6212Rbk,Rabka,1043,JF-18LX,1899,Galicia,Myslenice,62,12,RABKA,Jews arrived in the second half of the 19th cent,,49.61666667,19.95,-524684,48,1880
+PRU_SCH_SWTC,6101Sch,Schwientochlowitz,1272,POP-1861,1861,Prussia,Schlesien,61,1,SWIETOCHLOWICE,Jews numbered 48 in 1861,,50.28333333,18.91666667,-531573,48,1861
+GLC_BRZ_BRZH,6203Brz,Brzezany,206,JF-1530,1530,Prussia,Brzezany,62,3,BRZEZANY,Jews may have been among the first settlers in the town when it was founded in 1530,,49.45,24.93333333,-1035414,4712,1880
+PRU_OST_OLSZ,6102All,Allenstein,29,JE-1819,1819,Prussia,Ostpreussen,61,2,ALLENSTEIN,First evidence of a Jewish presence dates from 1819.,,53.78333333,20.48333333,-519859,471,1905
+GLC_CHR_SZCZ,6204Szc,Szczakowa,1275,JF-17LX,1799,Galicia,Chrzanow,62,4,SZCZAKOWA,Jews first arrived in the late 18th cent,,50.23333333,19.28333333,-531841,469,1910
+BKV_STR_ZHDV,6309Zdw,Zadowa,557,CE-1890,1890,Galicia,Storojineti,63,9,JADOVA,A Jewish community existed here from 1890,,48.2,25.51666667,-1060613,468,1930
+PRU_PSN_LBZN,6105Lbs_2,Lobsens,739,JF-14LX,1499,Prussia,Posen,61,5,LOBZENICA,Jews apparently settled in the late 15th cent,,53.26666667,17.26666667,-513898,467,1881
+GLC_RPC_WLPL,6276Wlp,Wielopole Skrzynskie,1443,JF-16LX,1699,Galicia,Rudki,62,76,WIELOPOLE SKRZYNSKIE,The first Jews arrived in the late 17th cent,,49.95,21.61666667,-535108,465,1890
+PRU_SCH_NYS,6101Nss,Neisse,880,JF-13EX,1300,Prussia,Schlesien,61,1,NEISSE,Jews arrived in the first half of the 14th cent,,50.46666667,17.33333333,-519190,464,1861
+PRU_WST_CHLM,6103Chl,Chelmno,244,JF-1772,1772,Prussia,Westpreussen,61,3,CHELMNO,Jewish settlement began after the annexation to Prussia in 1772.,,53.35,18.43333333,-496752,463,1895
+GLC_DBR_RYBT,6221Ryb,Rybotycze,1108,JM-1630,1630,Galicia,Dobromil,62,21,RYBOTYCZE,Jews are first mentioned in 1630,,49.65,22.65,-526685,459,1880
+PRU_PMM_SZCZ2,6104Nst,Neustettin,886,JE-1718,1718,Prussia,Pommern,61,4,NEUSTETTIN,In 1718 there were three Jewish fam ilies in N.,,53.71666667,16.7,-531884,455,1880
+PRU_PMM_SZCZ2,6104Nst_2,Neustettin,886,JE-1718,1718,Prussia,Pommern,61,4,NEUSTETTIN,In 1718 there were three Jewish fam ilies in N.,,53.71666667,16.7,-531884,455,1880
+PRU_PSN_KBYL2,6105Kbl,Kobilin,639,CM-1827,1827,Prussia,Posen,61,5,KOBYLIN,An organized community is mentioned in 1827,,51.71666667,17.23333333,-508267,452,1857
+GLC_ZLS_ZLSH,6261Zls,Zaleszczyki,1486,JF-17EX,1700,Galicia,Zaleszczyki,62,61,ZALESZCZYKI,Jews were apparently among the founders of the town in the early 18th cent,,48.65,25.73333333,-1060041,4513,1890
+PRU_SCH_JLNG,6101Hrs,Hirschberg im Riesengebirge,,JE-13EX,1300,Prussia,Schlesien,61,1,HIRSCHBERG IM  RIESENGEBIRGE,Jews were present in the first half of the 14th cent,,50.9,15.73333333,-505724,450,1880
+GLC_PDH_BRKN,6269Brk,Burkanow,223,POP-1921,1921,Galicia,Podhajce,62,69,BURKANOW,The Jewish pop. in 1921 was 110.,,49.28333333,25.38333333,-1036638,45,1880
+GLC_SNK_WSLK,6240Wsl,Wislok Wielki,,,,Galicia,Sanok,62,40,,,,49.4,21.98333333,-535725,45,1880
+PRU_SCH_BRZG,6101Brg,Brieg,198,JF-13XX,1300,Prussia,Schlesien,61,1,BRIEG,Jews settled in the 14th cent,,50.85,17.46666667,-495435,448,1885
+PRU_WST_ELBL,6103Elb,Elbing,359,JM-1707,1707,Prussia,Westpreussen,61,3,ELBING,,,54.16666667,19.38333333,-500718,445,1905
+GLC_LNC_GRDZ,6227Grd,Grodzisko Dolne,459,JF-17LX,1799,Galicia,Lancut,62,27,GRODZISKO DOLNE,Jews were among the town’s first settlers in the second half of 18th cent,,50.16666667,22.46666667,-503425,444,1870
+GLC_SMB_SMBR,6239Smb,Sambor,1130,JM-1447,1447,Galicia,Sanok,62,39,SAMBOR,The Jewish settlement is first mentioned in 1447,,49.51666667,23.2,-1052978,4427,1880
+GLC_ZLC_SKVR,6275Skw,Skwarzawa,,,,Galicia,Zloczow,62,75,,,,49.86666667,24.75,-1054229,44,1880
+GLC_KLS_KLSH,6249Kls,Kalusz,588,JF-15MX,1550,Galicia,Kalusz,62,49,KALUSZ,Jewish settlement dates from the mid-16th cent,,49.01666667,24.36666667,-1040700,4363,1897
+BKV_KMP_MLDV,6301Mld,Moldovita,843,CF-1930,1930,Bukovina,Kimpolung,63,1,MOLDOVITA,An independ ent community was founded in 1930,,47.68333333,25.53333333,-1164579,436,1930
+PRU_PSN_JRCN,6105Jrc,Jarocin,563,JF-17LX,1799,Prussia,Posen,61,5,JAROCIN,"The town’s proprietor, Jan Radolinski, invited the Jews to settle in the second half of  the 18th",,51.96666667,17.51666667,-505200,435,1871
+PRU_PSN_STRZ,6105Str,Strelno,1255,JF-1772,1772,Prussia,Posen,61,5,STRZELNO,Jews first settled after the annexation to Prussia in 1772,,52.63333333,18.2,-530777,432,1885
+PRU_SCH_RYBN,6101Ryb,Rybnik,1108,CM-18XX,1800,Prussia,Schlesien,61,1,RYBNIK,The Jewish settlement began to develop in the 19th cent,,50.11666667,18.53333333,-526661,432,1869
+PRU_SCH_LBLN,6101Lbl,Lublinitz,756,JF-17XX,1700,Prussia,Schlesien,61,1,LUBLINIEC,Jews arrived in the 18th cent,,50.66666667,18.68333333,-514342,432,1861
+PRU_WST_KSCR,6103Brn,Berent,87,JF-18EX,1800,Prussia,Westpreussen,61,3,BARAND,Jews settled in the late 19th cent,,54.11666667,17.98333333,-509929,431,1865
+BKV_KTZ_DRSH,6301Drs,Dorosauti,324,POP-1930,1930,Galicia,Kotzman,63,1,DOROSAUTI,,,48.58333333,25.88333333,-1038105,43,1930
+GLC_KMN_SKLY,6267Skl,Sokole,1211,JF-15EX,1500,Galicia,Kamionka Strumilowa,62,67,SOKOLKA,Jews possibly settled in the latter half of the 16th cent,,50.06666667,24.5,-1054605,43,1880
+GLC_HRD_HRDN,6250Hrd,Horodenka,528,JE-15LX,1599,Galicia,Horodenka,62,50,HORODENKA,Jews are first recorded in the second half of the 16th cent,,48.66666667,25.5,-1039416,4255,1900
+PRU_PSN_OSTR2,6105Sch,Schildberg,954,JE-16MX,1650,Prussia,Posen,61,5,OSTRZESZOW,Jews were probably present by the mid-17th cent,,51.41666667,17.95,-520642,422,1885
+GLC_SNT_SNYT,6252Snt,Sniatyn,1206,JM-1563,1563,Galicia,Sniatyn,62,52,SNIATYN,Jewish settlers are mentioned in 1563,,48.45,25.56666667,-1054484,4206,1900
+GLC_HRD_TYSH,6250Tys,Tyszkowce,1353,POP-1921,1921,Galicia,Horodenka,62,50,TYSZKOWCE,The Jewish pop. in 1921 was 129.,,48.7,25.36666667,-1056980,42,1880
+GLC_SNT_RZHN,6252Rzn,Roznow,1102,JE-19EX,1900,Galicia,Sniatyn,62,52,ROZNOW,"The Jewish pop., growing mainly in the early 20th cent",,48.36666667,25.23333333,-1052521,418,1921
+PRU_PSN_SZBN,6105Sch_10,Schubin,1281,JF-17EX,1700,Prussia,Posen,61,5,SZUBIN,Jews settled in the first half of the 18th cent,,53.01666667,17.75,-532318,418,1873
+GLC_STR_STRS,6242Str_2,Stara Sol,1236,JE-16EX,1600,Galicia,Stare Miasto,62,42,STARA SOL,Jews were present from the early 17th cent,,49.48333333,22.96666667,-1054984,416,1880
+GLC_SNK_TYRW,6240Tyr,Tyrawa Woloska,1353,JF-17XX,1700,Galicia,Sanok,62,40,TYRAWA WOLOSKA,Jews settled in the 18th cent,,49.58333333,22.36666667,-533824,415,1900
+GLC_LMN_MSZN,6211Msz,Mszana Dolna,852,JM-18LX,1899,Galicia,Limanowa,62,11,MSZANA DOLNA,Jews are first mentioned in the late 19th cent,,49.68333333,20.08333333,-517537,410,1921
+GLC_DLN_SVRY,6248Swr,Swaryczow,,,,Galicia,Dolina,62,48,,,,48.96666667,24.18333333,-1055731,41,1921
+PRU_SCH_KLCZ,6101Krz,Kreuzburg,677,JM-1414,1414,Prussia,Schlesien,61,1,KREUZBURG,Jews are first mentioned in 1414,,50.98333333,18.21666667,-508105,406,1869
+GLC_ZLC_ZLCH,6275Zlc,Zloczow,1515,JF-16EX,1600,Bukovina,Zolkiew,62,75,ZLOCZOW,Jewish settlement dates from the early 17th cent,,49.8,24.9,-1060974,4046,1890
+GLC_WLC_DBCZ,6218Dbc,Dobczyce,,JM-1564,1564,Galicia,Wieliczka,62,18,DOBCZYCE,Jews are first mentioned in 1564,,49.86666667,20.08333333,-499526,404,1910
+PRU_PSN_MLSL,6105Ebl,Eibelstadt,355,JE-1583,1583,Prussia,Posen,61,5,EIBELSTADT,A J. set- tlement existed from 1583,,52.2,17.5,-516667,403,1871
+GLC_PDH_PDHY,6269Pdh,Podhajce,1007,JE-14EX,1400,Galicia,Podhajce,62,69,PODHAJCE,Jews were present in the early 15th cent,,49.26666667,25.13333333,-1050871,4012,1880
+PRU_PSN_KPN,6105Kmp,Kempen,614,JF-1674,1674,Prussia,Posen,61,5,KEMPNO,Jews settled in 1674,,51.28333333,17.98333333,-507497,4000,1840
+GLC_WLC_KLSN,6218Kls,Klasno,632,JF-18EX,1800,Galicia,Wieliczka,62,18,KLADNO,Jews settled in the early 19th cent,,49.96666667,20.06666667,A0035,400,1921
+PRU_PMM_SWDW,6104Sch,Schivelbein,1147,JM-1700,1700,Prussia,Pommern,61,4,SCHIVELBEIN,Mention of the first Jewish family in S. occurs after 1700.,,53.76666667,15.78333333,-531405,400,1890
+PRU_SCH_MJSC,6101Std,Stadtel,,,,Prussia,Schlesien,61,1,,,,50.95,17.78333333,-516309,40,1885
+GLC_BRD_UVYN,6263Uzv,Uzvin,1369,POP-1765,1765,Galicia,Brody,62,63,UZVIN,Jews numbered 40 in 1765,,50.35,24.91666667,-1057295,40,1880
+GLC_CSZ_LPSK,6230Lps,Lipsko,736,JF-16XX,1600,Galicia,Cieszanow,62,30,LIPSKO,Jews settled in the 17th cent,,50.35,23.33333333,-513743,399,1880
+PRU_PSN_KRNK,6105Krn,Kurnik,659,JM-16LX,1699,Prussia,Posen,61,5,KORNIK,Jews are first mentioned in the late 17th cent,,52.25,17.1,-509802,399,1871
+GLC_GRL_BCZ,6222Bcz,Biecz,143,JE-17XX,1700,Galicia,Gorlice,62,22,BIECZ,Only under Austrian rule in the 18th cent,,49.73333333,21.25,-493535,397,1880
+GLC_PDH_ZVLV,6269Zwl,Zawalow,1493,JE-15MX,1550,Galicia,Pommern,62,69,ZAWALOW,Jews were among the mid-16th cent,,49.2,25.03333333,-1060342,396,1890
+PRU_PSN_OBRN,6105Obr,Obornik,923,JF-15EX,1500,Prussia,Posen,61,5,OBORNIKI,Jews first settled in the first half of the 16th cent,,52.65,16.81666667,-519253,395,1878
+PRU_WST_NWMS,6103Nmr,Neumark,907,JE-16EX,1600,Prussia,Westpreussen,61,3,NOWE MIASTO,The 17th cent. community was apparently wiped out in the Chmielnicki,,53.41666667,19.6,-518856,391,1871
+BKV_SDG_SDHR,6303Sdg,Sadagura,1117,JF-1770,1770,Bukovina,Sambor,63,3,SADAGURA,"In 1770, Jews working in the Russian coin minting plant were among the founders of S.",,48.35,25.96666667,-1052863,3888,1880
+GLC_MYS_MYSL,6212Mys,Myslenice,863,POP-1860,1860,Galicia,Myslenice,62,12,MYSLENICE,Jews began to settle with the end of residence restrictions in 1860,,49.83333333,19.93333333,-517651,386,1880
+GLC_NDW_LNCH,6253Lnc,Lanczyn,702,POP-18XX,1800,Galicia,Nadworna,62,53,LANCZYN,The small community numbered 383,,48.55,24.75,-1044405,383,1921
+GLC_PRZ_SVRZ,6270Svr,Svirz,1272,JM-1563,1563,Galicia,Przeworsk,62,70,SWIRZ,Jews are first mentioned in 1563,,49.65,24.43333333,-1055801,381,1880
+GLC_LSK_SRDN,6229Srd,Seredne,1163,JF-17EX,1700,Galicia,Lisko,62,29,SEREDNE,Jews probably settled in the first half of the 18th cent,,49.5,22.51666667,-527524,38,1880
+BKV_WZN_PTYL,6306Pty,Putyla,1040,JF-18LX,1899,Bukovina,Wiznitz,63,6,PUTILA,Jews settled in the late 19th cent,,48,25.08333333,-1051823,379,1930
+PRU_PSN_OBRZ,6105Obr_2,Obersitzko,923,CE-1793,1793,Prussia,Posen,61,5,OBRZYCKO,A Jewish community of 476 existed at the time of the annexation to Prussia in 1793,,52.7,16.53333333,-519313,379,1871
+PRU_PSN_MDZY,6105Msr,Meseritz,812,JM-1507,1507,Prussia,Posen,61,5,MESERITZ,The first documented reference to Jews dates from 1507,,52.43333333,15.58333333,-516297,377,1880
+GLC_WDW_ZTR,6217Ztr,Zator,1492,CM-MA,MA,Galicia,Westpreussen,62,17,ZATOR,"The small community was one of the 61 existing in Poland at the end of the Middle Ages, its pop. ...",,49.98333333,19.45,-538878,376,1895
+GLC_WLC_GDW,6218Gdw,Gdow,,POP-1880,1880,Galicia,Wieliczka,62,18,GDOW,The Jewish pop. numbered 376 in 1880 and 245,,49.91666667,20.2,-501412,376,1880
+BKV_SCZ_SCV,6310Scz,Suczawa,1259,JF-14XX,1400,Galicia,Tarnobrzeg,63,10,SUCEAVA,Jews first settled in the 15th cent,,47.63333333,26.25,-1171644,3751,1890
+GLC_PDH_VYSH,6269Wsn,Wisniowczyk,,,,Galicia,Podhajce,62,69,,,,49.23333333,25.36666667,-1058360,375,1880
+PRU_SCH_SMNW,6101Smn,Siemianowitz,1179,POP-1870,1870,Prussia,Schlesien,61,1,SIEMIANOWICE SLASKIE,Jews numbered 367 in 1870,,50.3,19.03333333,-527800,367,1870
+GLC_NDW_NDVR,6253Ndw,Nadworna,867,CF-17LX,1799,Galicia,Nadworna,62,53,NADWORNA,The Jewish community developed from the late 18th cent,,48.63333333,24.58333333,-1047320,3644,1900
+GLC_ZBR_ZBRZ,6274Zbr,Zbaraz,1495,JF-14LX,1499,Galicia,Zloczow,62,74,ZBARAZ,Jewish settlement dates from the late 15th cent,,49.66666667,25.78333333,-1060414,3631,1890
+PRU_OST_CHRN,6102Ins,Insterburg,549,JF-1834,1834,Prussia,Ostpreussen,61,2,INSTERBURG,The first Jew settled in I. in 1834,,54.63333333,21.81666667,-2898062,363,1880
+GLC_DBR_RDGS,6205Rdg,Radgoszcz,1045,POP-1875,1875,Galicia,Dabrowa,62,5,RADGOSZCZ,Jews numbered 363 in 1875,,50.2,21.11666667,-524803,363,1875
+GLC_CHR_CHRZ,6204Chr,Chrzanow,257,JF-18EX,1800,Galicia,Chrzanow,62,4,CHRZANOW,The Jews settled in the late 19th cent,,50.13333333,19.4,-497247,3591,1880
+BKV_WZN_MYHV,6306Mhv,Mihova,822,JF-18LX,1899,Bukovina,Wiznitz,63,6,MIHOVA,Jews settled in the late 19th cent,,48.15,25.36666667,-1046548,356,1880
+GLC_RHT_RHTY,6256Rht,Rohatyn,1086,CM-15MX,1550,Galicia,Rohatyn,62,56,ROHATYN,The Jewish community dates from the mid-16th cent,,49.41666667,24.61666667,-1052282,3503,1890
+PRU_OST_CHRN2,6102Eyd,Eydtkuhnen,375,POP-1880,1880,Prussia,Ostpreussen,61,2,EYDTKUHNEN,The Jewish community numbered 347  in 1880.,,54.63333333,22.73333333,-2898152,347,1880
+GLC_BRS_SKLP,6220Skl,Skala,1188,JM-1570,1570,Galicia,Borszczow,62,20,SKALA,Jews are mentioned from 1570,,48.85,26.2,-1054146,3449,1880
+PRU_PSN_LSZN,6105Lss,Lissa,724,JF-1534,1534,Prussia,Posen,61,5,LESZNO,Jews may have settled as early as 1534,,51.85,16.58333333,-513225,3446,1840
+BKV_WZN_VYZH,6306Wzn,Wizna,1452,POP-1765,1765,Bukovina,Wiznitz,63,6,WIZNA,In 1765 W. had 16 J. families,,48.21666667,25.16666667,-1058424,339,1880
+GLC_PRZ_DNYV,6270Dnj,Dunajow,345,JE-16XX,1600,Galicia,Przemyslany,62,70,DUNAJOW,Though Jews were present from the 17th cent,,49.61666667,24.83333333,-1038361,338,1900
+PRU_SCH_OLSN,6101Ols,Oels,929,JF-1329,1329,Prussia,Schlesien,61,1,OELS,Jewish settlement commenced no later than 1329,,51.2,17.38333333,-519691,335,1885
+BKV_RDT_VCVD,6308Wkw,Wikow Ober,1390,JE-1782,1782,Galicia,Radautz,63,8,VICOVUL DE SUS,There were 42 Jews here in 1782,,47.93333333,25.68333333,-1174511,334,1930
+GLC_DLN_BLKH,6221Blc,Bolechiv,166,JF-1612,1612,Galicia,Dobromil,62,21,BOLECHOW,Jews appeared with the founding of  the town in 1612,,49.06666667,23.86666667,-1035940,3323,1890
+PRU_SCH_PSZC,6101Pls,Pless,1037,JF-16XX,1600,Prussia,Schlesien,61,1,PSZCZYNA,Jews from Bohemia first settled in the 17th cent,,49.96666667,18.95,-524482,331,1861
+GLC_STR_SKLW,6257Skl_2,Sokolow,1213,JF-15XX,1500,Galicia,Stryj,62,57,SOKOLOW,Jews apparently settled in the 16th cent,,49.18333333,24.01666667,A0040,329,1880
+GLC_MLC_MLC,6214Mlc,Mielec,,CM-17XX,1700,Galicia,Mielec,62,14,MIELEC,The community began to develop in the 18th cent,,50.28333333,21.41666667,-516329,3280,1910
+GLC_KRS_KRSN,6227Krs,Krosno,681,CM-19EX,1900,Galicia,Krosno,62,27,KROSNO,The organized Jewish community dates from the early 20th cent,,49.68333333,21.78333333,-511010,327,1880
+GLC_SKL_TRNR,6271Trn,Tarnoruda,1293,CF-18XX,1800,Galicia,Skalat,62,71,TARNORUDA,Founded in the 19th cent,,49.41666667,26.23333333,-1056019,320,1880
+GLC_PRZ_KRSC,6234Krs,Krasiczyn,672,JM-1618,1618,Galicia,Przemysl,62,34,KRASNICZYN,Jews are first mentioned in 1618,,49.76666667,22.66666667,-510661,32,1921
+PRU_PSN_WSCH,6105Frs,Fraustadt,400,CM-15LX,1599,Prussia,Posen,61,5,FRAUSTADT,At the end of the 16th cent,,51.8,16.31666667,-537187,318,1885
+PRU_WST_DZRZ,6103Chr,Christburg,257,X,X,Prussia,Westpreussen,61,3,CHRISTBURG,,,53.93333333,19.35,-500574,318,1858
+GLC_KSW_KTY,6254Kty,Kuty,,JF-1715,1715,Galicia,Kosow,62,54,KUTY,Jews settled with full rights on the founding of K. in 1715.,,48.25,25.18333333,-1044301,3137,1900
+GLC_KSW_KTY,6251Kty,Kuty,,JF-1715,1715,Galicia,Kosow,62,51,KUTY,Jews settled with full rights on the founding of K. in 1715.,,48.25,25.18333333,-1044301,3137,1900
+PRU_PSN_WTKW,6105Wtk,Witkowo,132,,,Prussia,Posen,61,5,WITKOWO,,,52.45,17.8,-535814,312,1885
+PRU_PSN_GSTY,6105Gst,Gostynin,447,JE-14XX,1400,Prussia,Posen,61,5,GOSTYNIN,Jews lived in G. from the latter part of the 15th cent,,51.88333333,17.01666667,-502784,311,1871
+GLC_SNK_SZCZ,6240Szc,Szczawne,,,,Galicia,Sanok,62,40,,,,49.4,22.13333333,-531855,31,1890
+GLC_STR_SKL,6257Skl,Skole,1193,JE-17EX,1700,Galicia,Stryj,62,57,SKOLE,Jews are found from the early 18th cent,,49.03333333,23.51666667,-1054189,3099,1910
+PRU_PSN_ZBSZ,6105Bnt,Bentschen,1495,CE-1765,1765,Prussia,Posen,61,5,ZBONSZYN,A community of 89 Jews was present in 1765,,52.25,15.93333333,-539107,307,1840
+PRU_PSN_TRZC2,6105Trs,Tirschtiegel,1309,JE-1745,1745,Prussia,Posen,61,5,TIRSCHTIEGEL,A 1745 document pertaining to the history of the local Jews indicates that Jews had been living,,52.36666667,15.86666667,-533276,305,1843
+PRU_PSN_SRDW,6105Sch_7,Schroda,1229,JF-1793,1793,Prussia,Posen,61,5,SRODA,Jews settled after the Prussian annexation in 1793,,52.23333333,17.28333333,-529634,304,1885
+PRU_WST_MRSL,6103Mrk,Markisch-Friedland,,CM-17MX,1750,Prussia,Westpreussen,61,3,MAERKISCH-FRIEDLAND,An organized Jewish community with a beit midrash and a synagogue existed in the mid-18th century...,,53.33333333,16.1,-516762,303,1880
+PRU_WST_MRSL,6103Mrk,Markisch-Friedland,,CM-17MX,1750,Prussia,Westpreussen,61,3,MAERKISCH-FRIEDLAND,An organized Jewish community with a beit midrash and a synagogue existed in the mid-18th century...,,53.33333333,16.1,-516762,303,1880
+PRU_WST_MRSL,6103Sns,Sensburg,1162,POP-1787,1787,Prussia,Westpreussen,61,3,SENSBURG,An organized Jewish community with a beit midrash and a synagogue existed in the mid-18th century...,,53.33333333,16.1,-516762,303,1880
+PRU_WST_MRSL,6103Sns,Sensburg,1162,POP-1787,1787,Prussia,Westpreussen,61,3,SENSBURG,An organized Jewish community with a beit midrash and a synagogue existed in the mid-18th century...,,53.33333333,16.1,-516762,303,1880
+GLC_LWW_VYNN,6231Wnn,Winniki,1448,POP-1880,1880,Galicia,Lwow,62,31,WINNIKI,The Jewish community of 40-50 families (less than 10% of the total) increased to about 500 people...,,49.81666667,24.1,-1058297,302,1890
+PRU_SCH_WDZS,6101Lsl,Loslau,1456,JE-10XX,1000,Prussia,Schlesien,61,1,WODZISLAW,Jews may have been present as early as the 11th cent,,50,18.46666667,-536057,302,1890
+BKV_SRT_SRT,6307Srt,Sereth,1186,CE-15MX,1550,Galicia,Skalat,63,7,SIRET,A Jewish community existed in the mid-16th cent,,47.95,26.06666667,-1170659,3014,1890
+PRU_SCH_WLBR,6101Wld,Waldenburg,1422,JF-1830,1830,Prussia,Schlesien,61,1,WALDENBURG,Jewish settlement commenced in 1830,,50.76666667,16.28333333,-534239,300,1880
+PRU_PMM_ANKL,6104Ank,Anklam,45,JE-1348-49,49,Prussia,Pommern,61,4,ANKLAM,Jewish moneylenders in A. were burned to death in the Black Death persecutions of 1348,,53.86666667,13.7,-1740551,300,1861
+GLC_KMN_SYNK,6267Snk,Sienkow,,,,Galicia,Kamionka Strumilowa,62,67,,,,50.3,24.76666667,-1053301,30,1880
+GLC_MLC_PRZC,6214Prz,Przeclaw,1031,JF-17EX,1700,Galicia,Mielec,62,14,PRZECLAW,Jews first arrived in the early 18th cent,,50.2,21.46666667,-523920,299,1880
+GLC_TLM_KHTY,6259Chc,Chocimierz,254,POP-1921,1921,Galicia,Tlumacz,62,59,CHOCIMIERZ,The Jewish pop. in 1921 was 160.,,48.75,25.1,-1041559,298,1880
+GLC_SKL_HRYM,6271Grz,Grzymalow,466,JF-17EX,1700,Galicia,Skalat,62,71,GRZYMALOW,The Jews were among the first settlers in the town in the early 18th cent,,49.33333333,26.03333333,-1039714,2977,1890
+GLC_GRD_HRDK,6207Grd,Grodek Jagiellonski,,JE-1445,1445,Bukovina,Grodek,62,7,GRODEK  JAGIELLONSKI,Jews were present from at least 1445 and continued in the 16th cent,,49.78333333,23.65,-1039483,2952,1880
+PRU_WST_KWDZ,6103Mrn,Marienwerder,795,JF-1798,1798,Prussia,Westpreussen,61,3,MARIENWERDER,The first Jewish family settled in 1798.,,53.73333333,18.91666667,-512123,295,1880
+GLC_PRZ_PRMY,6270Prz,Przemyslany,1035,JM-15LX,1599,Galicia,Przemyslany,62,70,PRZEMYSLANY,Jews are first mentioned in the late 16th cent,,49.66666667,24.55,-1050142,2934,1900
+GLC_PLZ_JDLW,6276Jdl,Jodlowa,575,JF-17LX,1799,Galicia,Pilzno,62,76,JODLOWA,Jews settled in the late 18th cent,,49.86666667,21.3,-505957,290,1900
+PRU_WST_DBRZ,6103Prs,Preussisch-Friedland,,CM-18EX,1800,Prussia,Westpreussen,61,3,PREUSSISCH-FRIEDLAND,At the beginning of the 19th cent,,53.53333333,17.23333333,-499313,287,1880
+GLC_TRN_TRNB,6244Trn,Tarnobrzeg,,JF-16LX,1699,Galicia,Tarnopol,62,44,TARNOBRZEG-DZIKOW,Jews settled permanently in the second half of the 17th cent,,50.58333333,21.68333333,-532659,2840,1890
+GLC_CZR_HRSH,6266Wyg,Wygnanka,,,,Galicia,Czortkow,62,66,,,,49.03333333,25.81666667,-1039368,282,1890
+PRU_PMM_BLGR,6104Blg,Belgard,100,JF-16LX,1699,Prussia,Pommern,61,4,BELGARD,A small Jewish settlement existed at the end of the 17th cent,,54,16,-493427,281,1880
+GLC_NSK_JZW,6233Jzw,Jezowe,575,POP-1880,1880,Galicia,Nisko,62,33,JEZOWE,The Jews numbered 161,,50.36666667,22.15,-505933,280,1880
+GLC_NWY_KRYN,6215Kry,Krynica,683,18EX,1800,Galicia,Nowy Sacz,62,15,Krynica,,,49.43333333,20.96666667,-511182,280,1880
+PRU_SCH_DBRD,6101Gtt,Guttentag,470,JF-16XX,1600,Prussia,Schlesien,61,1,GUTTENTAG,Jews settled in the 17th cent,,50.73333333,18.45,-499618,280,1861
+GLC_NWY_RYTR,6215Ryt,Rytro,,,,Galicia,Nowy Sacz,62,15,,,,49.48333333,20.68333333,-526834,28,1880
+GLC_CSZ_CSZN,6230Csz,Cieszanow,2611,JF-16EX,1600,Galicia,Cieszanow,62,30,CIESZANOW,Jews settled in the early 17th cent,,50.23333333,23.13333333,-497632,2777,1900
+GLC_SKL_CHRV,6241Kry,Krystynopol,684,JF-1692,1692,Galicia,Sokal,62,41,KRYSTYNOPOL,Jews settled soon after the town was founded in 1692,,50.38333333,24.23333333,-1037239,2747,1880
+BKV_STR_KSTN,6309Kst,Kostestie,274,JF-18LX,1899,Bukovina,Storojinet,63,9,COSTESTI,Jews settled in the late 19th cent,,48.28333333,25.6,-1043064,274,1930
+GLC_NSK_NSK,6233Nsk,Nisko,894,JF-17LX,1799,Galicia,Nisko,62,33,NISKO,Jews first settled in the late 18th cent,,50.53333333,22.15,-518436,273,1880
+PRU_SCH_ZLNG,6101Grn,Gruenberg,465,JE-1812,1812,Prussia,Schlesien,61,1,GRUENBERG,"Upper Silesia, Germany. The permanent Jewish settlement dates from 1812.",,51.93333333,15.5,-539726,271,1864
+PRU_WST_KSLC,6103Fry,Freystadt,404,CM-16XX,1600,Prussia,Westpreussen,61,3,FREYSTADT,The consecration of a Jewish cemetery in the 17th cent,,53.6,19.26666667,-507757,268,1880
+GLC_DLN_WLSK,6248Wls,Woloska Wies,1461,POP-1921,1921,Galicia,Drohobycz,62,48,WOLOSKA WIES,The Jewish pop. in 1921,,49.06666667,23.85,A0026,267,1890
+GLC_BRZ_ULCZ,6262Ulc,Ulucz,1360,POP-1921,1921,Galicia,Brzozow,62,62,ULUCZ,The Jewish pop. in 1921 was 210.,,49.68333333,22.28333333,-534007,266,1900
+SLS_PLN_SKCZ,63NASkc,Skoczow,1193,JE-1890,1890,Galicia,Czernowitz,63,,SKOCZOW,"The small num ber of Jews who settled (266, or less than 10% of the total in 1890) ",,49.8,18.8,-528259,266,1890
+GLC_DLN_DLYN,6248Dln,Dolina,320,CM-16XX,1600,Galicia,Dolina,62,48,DOLINA,The permanent Jewish settlement dates from the 17th cent,,48.96666667,24.01666667,-1038040,2654,1900
+GLC_NWY_MSZY,6215Msz,Muszyna,862,JF-18LX,1899,Galicia,Nowy Sacz,62,15,MUSZYNA,Jews first settled in the second half of the 19th cent,,49.35,20.91666667,-517607,265,1880
+GLC_GRL_RZPN,6207Rzp,Rzepiennik Strzyzewski,1111,POP-1880,1880,Galicia,Gorlice,62,7,RZEPIENNIK STRZYZEWSKI,The Jewish pop. numbered 224,,49.8,21.05,-526960,264,1880
+GLC_DLN_MZHR,6248Mzh,Mizhrichchya,289,POP-1921,1921,Galicia,Dolina,62,48,CZOLHANY,The Jewish pop. in 1921,,49.11666667,23.95,-1046512,263,1880
+BKV_KMP_FRSN,6301Frs,Frasin,400,JF-18MX,1850,Bukovina,Kimpolung,63,1,FRASIN,Jews settled in the mid-19th cent,,47.53333333,25.8,-1159506,261,1890
+GLC_RZS_ZBRT,6238Zbr,Zabratowka,,,,Galicia,Rzeszow,62,38,,,,49.96666667,22.2,-537887,26,1890
+GLC_DBR_NVMS,6221Nw,Nowe Miasto,907,JE-1775,1775,Galicia,Dobromil,62,21,NOWE MIASTO,Eight Jews were present in 1775.,,49.61666667,22.86666667,-1048834,259,1921
+PRU_PSN_PSK,6105Snd,Sandberg,985,JM-1699,1699,Prussia,Posen,61,5,PIASKI,Jews are first mentioned in 1699.,,51.88333333,17.06666667,-521515,258,1843
+BKV_STR_KRSN,6309Krs,Krasna Ilska,,JF-1820,1820,Bukovina,Storojinet,63,9,CRASNA (II),Jews first settled in 1820,,48.01666667,25.58333333,-1043430,257,1930
+PRU_WST_JSTR,6103Jst,Jastrow,567,POP-1771,1771,Prussia,Westpreussen,61,3,JASTROW,By 1771 there was a Jewish community with 121 members.,,53.41666667,16.81666667,-505405,254,1895
+PRU_WST_GDNS,6103Gdn,Gdansk,419,JE-14MX,1450,Prussia,Westpreussen,61,3,GDANSK,Jewish merchants were active in the city from the mid-15th cent,,54.35,18.66666667,-501400,2535,1890
+GLC_BL_OSWC,6201Osw,Oswiencim,954,JF-1564,1564,Prussia,Biala,62,1,OSWIENCIM,Jews arrived before the town’s annexation to the Polish kingdom in 1564,,50.03333333,19.23333333,-520665,2535,1880
+GLC_TLM_TYSM,6259Tys,Tysmienica,1353,JM-14XX,1400,Galicia,Tlumacz,62,59,TYSMIENICA,Jews are mentioned in the 15th cent,,48.9,24.85,-1056984,2529,1880
+PRU_SCH_KLDZ,6101Glt,Glatz,432,JM-1300,1300,Prussia,Schlesien,61,1,GLATZ,Jews are first mentioned in 1300,,50.43333333,16.65,-508027,251,1880
+GLC_WLC_PDGR,6218Pdg,Podgorze,638,POP-1921,1921,Galicia,Wieliczka,62,18,KOBIERZYN,The Jewish pop. in 1921 was 155,,50.03333333,19.96666667,-522533,2506,1880
+GLC_BHR_BHRD,6202Bhr,Bohorodczany,165,JF-16LX,1699,Prussia,Bohorodczany,62,2,BOHORODCZANY,Jews appear with the founding of the town at the end of the 17th cent,,48.8,24.53333333,-1035903,2505,1890
+GLC_MSC_MSTY,6232Msc,Mosciska,847,JE-15MX,1550,Galicia,Mosciska,62,32,MOSCISKA,The Jewish presence dates from the mid-16th cent,,49.8,23.15,-1047129,2500,1900
+PRU_OST_ELK,6102Lyc,Lyck,776,JE-1698,1698,Prussia,Ostpreussen,61,2,LYCK,As early as 1698 there is evidence of the presence of J.,,53.83333333,22.35,-500737,250,1880
+GLC_LNC_MRKW,6228Mrk,Markowa,796,POP-1921,1921,Galicia,Lancut,62,28,MARKOWA,The Jewish pop. in 1921 was 126,,50.01666667,22.31666667,-515668,25,1880
+GLC_HST_KPYC,6268Kpy,Kopychynce,656,JF-16LX,1699,Galicia,Husiatyn,62,68,KOPYCZYNCE,Jews apparently settled in the late 17th cent,,49.1,25.93333333,-1042792,2467,1890
+GLC_CSZ_OLSZ,6230Ols,Oleszyce,933,JE-1576,1576,Galicia,Cieszanow,62,30,OLESZYCE,Jews are recorded from the founding of the town in 1576,,50.16666667,23.03333333,-519718,2463,1900
+GLC_TRK_NYZH2,6245Jbl,Jablonka Nizna,556,POP-1921,1921,Galicia,Turka,62,45,JABLONKA NIZNA,The Jewish pop. in 1921 was 246.,,49.11666667,22.96666667,-1047885,246,1921
+GLC_KRS_DKL,6210Dkl,Dukla,344,CM-15XX,1500,Galicia,Krosno,62,10,DUKLA,The permanent Jewish settlement dates from the 16th cent,,49.56666667,21.68333333,-500233,2456,1890
+GLC_BCZ_MNST,6265Mns,Monasterzyska,844,JM-1625,1625,Galicia,Buczacz,62,65,MONASTERZYSKA,Jews are recorded from 1625.,,49.08333333,25.16666667,-1047031,2450,1890
+PRU_SCH_BRTW,6101Brn,Bernstadt,132,JE-13EX,1300,Prussia,Schlesien,61,1,BERNSTADT,Jews were present in the first half of the 14th cent,,51.11666667,17.53333333,-493771,245,1871
+PRU_SCH_OLSN2,6101Rsn,Rosenberg,,,,Prussia,Schlesien,61,1,ROSENBERG,,,50.88333333,18.43333333,-519708,244,1880
+GLC_BRZ_BRZS,6263Brz,Brzesko,205,CM-18XX,1800,Galicia,Brzesko,62,63,BRZESKO,The Jewish community began to grow in the 19th cent,,49.96666667,20.61666667,-495469,2430,1910
+PRU_SCH_MKLW,6101Mkl,Mikolow,823,JM-1369,1369,Prussia,Schlesien,61,1,MIKULOV,Jews are mentioned as moneylenders in 1369,,50.16666667,18.9,-516528,243,1931
+PRU_OST_DBRM,6102Gtt,Guttstadt,471,JE-1802,1802,Prussia,Ostpreussen,61,2,GUTTSTADT,Jews were allowed to trade at the local fairs in 1802.,,53.98333333,20.4,-499604,243,1871
+PRU_PSN_GLNC,6105Gln,Golancz,438,JF-1766,1766,Prussia,Posen,61,5,GOLANCZ,Jews first settled in 1766,,52.95,17.3,-502119,243,1871
+GLC_LSK_LSK,6229Lsk,Lesko,724,JE-15XX,1500,Galicia,Lisko,62,29,LESKO,Jews are first reported in the 16th cent,,49.45,22.31666667,-513076,2425,1890
+GLC_TRN_MKLN,6272Mkl,Mikulince,822,JM-17EX,1700,Galicia,Tarnopol,62,72,MIKULINCE,Jews are first mentioned in the early 18th cent,,49.4,25.6,-1046703,2411,1880
+GLC_ZLK_ZHVT,6246Zhv,Zhovtantsi,1518,POP-1921,1921,Galicia,Zydaczow,62,46,ZOLTANCE,The Jewish pop. in 1921 was 293.,,49.98333333,24.23333333,-1060779,241,1890
+GLC_SNT_DMCH,6252Dmy,Demycze,303,POP-1921,1921,Galicia,Sniatyn,62,52,DEMYCZE,The Jewish pop. in 1921 was 443.,,48.46666667,25.3,A0024,241,1880
+PRU_PSN_BK,6105Bk,Buk,221,JE-1793,1793,Prussia,Posen,61,5,BUK,A Jewish settlement existed at the beginning of  Prussian rule in 1793.,,52.35,16.53333333,-496135,241,1840
+GLC_SKL_SKL,6241Skl,Sokal,1211,JE-15EX,1500,Galicia,Sokal,62,41,SOKAL,Jews are recorded from the early 16th cent,,50.48333333,24.28333333,-1054548,2408,1880
+GLC_BRD_ZLZT,6263Zlz,Zalozce,1486,JE-16EX,1600,Galicia,Brody,62,63,ZALOZCE,Jews were found in Z. from the early 17th cent,,49.78333333,25.36666667,-1060080,2397,1900
+GLC_DBR_DBRW,6266Dbr,Dabrowa Tarnowska,,JE-15LX,1599,Galicia,Dabrowa,62,66,DOMROWA  TARNOWSKA,Jews lived there from the late 16th cent,,50.16666667,20.98333333,-498751,2391,1890
+PRU_SCH_NMYS,6101Nms,Namslau,872,JE-13EX,1300,Prussia,Schlesien,61,1,NAMSLAU,Jews inhabited a Street of the Jews no later than the early 14th cent,,51.08333333,17.71666667,-517848,239,1861
+GLC_MYS_JRDN,6212Jrd,Jordanow,577,CE-18EX,1800,Galicia,Myslenice,62,12,JORDANOW,An organized Jewish community existed in the early 19th cent,,49.65,19.83333333,-505983,238,1921
+GLC_TRK_TRK,6245Trk,Turka,,JF-1729,1729,Galicia,Turka,62,45,TURKA,Jews arrived in 1729,,49.15,23.03333333,-1056894,2368,1880
+GLC_TRK_LMN,6245Lmn,Lomna,746,CM-18XX,1800,Galicia,Turka,62,45,LOMNA,The small 19th cent,,49.25,22.83333333,-1044762,235,1921
+GLC_KMN_BSK,6249Bsk,Busk,224,JM-1454,1454,Galicia,Kamionka Strumilowa,62,49,BUSK,Jews are already mentioned in 1454,,49.96666667,24.63333333,-1036687,2340,1900
+GLC_LSK_USTR,6229Ust,Ustrzyki Dolne,,JF-18EX,1800,Galicia,Lisko,62,29,USTRZYKI DOLNE,The Jews were among the first settlers of the town when it was founded in the early 19th cent,,49.43333333,22.58333333,-534141,2328,1910
+GLC_LSK_USTR,6229Ust,Ustrzyki Dolne,,JF-18EX,1800,Galicia,Lisko,62,29,USTRZYKI DOLNE,The Jews were among the first settlers of the town when it was founded in the early 19th cent,,49.43333333,22.58333333,-534141,2328,1910
+GLC_LSK_USTR,6229Ust_2,Ustrzyki Dolne,1365,JF-18EX,1800,Galicia,Lisko,62,29,USTRZYKIDOLNE,The Jews were among the first settlers of the town when it was founded in the early 19th cent,,49.43333333,22.58333333,-534141,2328,1910
+GLC_LSK_USTR,6229Ust_2,Ustrzyki Dolne,1365,JF-18EX,1800,Galicia,Lisko,62,29,USTRZYKIDOLNE,The Jews were among the first settlers of the town when it was founded in the early 19th cent,,49.43333333,22.58333333,-534141,2328,1910
+BKV_STR_DRCH,6309Drc,Draczynetz,328,POP-1930,1930,Bukovina,Storojinet,63,9,DRACINETI,,,48.31666667,25.7,-1038159,232,1930
+GLC_JSL_OSKJ,6209Osk,Osiek,945,JF-1825,1825,Galicia,Jaslo,62,9,OSIEK,Jews settled in the first half of the 19th cent,,49.63333333,21.48333333,-520233,232,1880
+BKV_KTZ_VSYL,6305Vsl,Vasilau,1377,JE-18EX,1800,Bukovina,Kotzman,63,5,VASILAU,A J. community ex isted in the late 19th cent,,48.6,25.83333333,-1057458,231,1930
+PRU_WST_LSN,6103Lss,Lassen,708,JE-18EX,1800,Prussia,Westpreussen,61,3,LASOCIN,Jews were present by the first half of the 19th cent,,53.53333333,19.1,-512458,23,1921
+GLC_BCZ_BRYS,6265Bry,Barysz,911,POP-1900,1900,Galicia,Buczacz,62,65,BARYSZ,The Jewish community of a few hundred constituted 5-10% of the total Jewish pop. from the late 19.,,49.03333333,25.26666667,-1035000,229,1931
+GLC_JRS_SNW,6224Snw,Sieniawa,1179,JF-16LX,1699,Galicia,Jaroslaw,62,24,SIENIAWA,Jews were the first to settle in S. in the late 17th cent,,50.16666667,22.63333333,-527848,2282,1890
+GLC_BCH_NWYW,6202Wsn,Wisnicz Nowy,1449,CE-16MX,1650,Galicia,Bochnia,62,2,WISNICZ NOWY,A large part of the 200-family Jewish community fled during the mid-17th cent,,49.91666667,20.46666667,-519160,2278,1890
+PRU_SCH_KTWC,6101Ktt,Kattowitz,602,JM-1733,1733,Prussia,Schlesien,61,1,KATOWICE,Jews are first mentioned in the city’s future suburb of Bogoczyce in 1733,,50.26666667,19.01666667,-507224,2264,1900
+GLC_KLS_BRSH,6225Brs,Broszniow,202,CM-19XX,1900,Galicia,Kalusz,62,25,BROSZNIOW,The town developed in the 20th cent,,49,24.18333333,-1036390,226,1921
+GLC_HST_VSYL,6268Wsy,Wasylkowce,1435,POP-1921,1921,Galicia,Husiatyn,62,68,WASYLKOWCE,The Jewish pop. in 1921 was 141.,,49.08333333,26.06666667,-1057456,226,1880
+GLC_RHT_BLSH,6256Bls,Bolszowce,168,JM-1635,1635,Galicia,Rohatyn,62,56,BOLSZOWCE,Jews are recorded from 1635,,49.18333333,24.75,-1036038,2256,1900
+GLC_PDH_ZLTN,6269Zlt,Zlotniki,1515,JF-15EX,1500,Galicia,Podhajce,62,69,ZLOTNIKI,Jews inhabited the village sporadically from the 16th cent,,49.28333333,25.38333333,-1060993,225,1890
+PRU_OST_OSTR,6102Ost,Osterode,949,JF-17EX,1700,Prussia,Ostpreussen,61,2,OSTERODE,Jews settled in O. at the beginning of the 18th cent,,53.7,19.98333333,-520439,222,1880
+GLC_CZR_CHRT,6266Czr,Czortkow,289,CM-16XX,1600,Galicia,Czortkow,62,66,CZORTKOW,The 17th cent,,49.01666667,25.8,-1037393,2214,1880
+PRU_PSN_KRTS,6105Krt,Krotoschin,681,JE-13XX,1300,Prussia,Posen,61,5,KROTOSZYN,Jews were present in the 14th cent,,51.7,17.45,-511028,2213,1837
+GLC_NWY_CZRN,6216Czr,Czarny Dunajec,284,JF-17LX,1799,Galicia,Nowy Targ,62,16,CZARNY DUNAJEC,Jews began to settle in the late 18th cent,,49.43333333,19.86666667,-498126,221,1880
+GLC_RPC_DBC,6276Dmb,Dembitz,301,CM-16XX,1600,Galicia,Pilzno,62,76,DEMBICA,The Jewish settlement took root in the 17th cent,,50.05,21.41666667,-499114,2205,1900
+GLC_ZYD_ZHRV,6260Zrw,Zurawno,1520,CE-17XX,1700,Galicia,Zydaczow,62,60,ZURAWNO,An organized community existed from the 18th cent,,49.25,24.28333333,-1060878,2197,1880
+PRU_PMM_CZPL,6104Tmp,Tempelburg,1302,JF-18EX,1800,Prussia,Pommern,61,4,TEMPELBURG,Jews arrived here only in the early 19th cent,,53.55,16.23333333,-497919,218,1895
+GLC_BBR_VYBR,6219Wyb,Wybranivka,1469,POP-1921,1921,Galicia,Bobrka,62,19,WYBRANOWKA,The Jewish pop. in 1921 was 101.,,49.55,24.21666667,-1059074,218,1890
+PRU_PMM_PLCZ,6104Bd,Bad Polzin,76,JM-1711,1711,Prussia,Pommern,61,4,BAD POLZIN,Mention of a Jew in B. is first made in 1711.,,53.75,16.08333333,-523032,217,1880
+GLC_RDK_KMRN,6237Kmr,Komarno,,JF-1530,1530s,Galicia,Rudki,62,37,KOMARNO (I),Jews apparently settled in the 1530,,49.63333333,23.7,-1042541,2161,1890
+GLC_ZLS_TVST,6261Tls,Tluste,1311,JF-16LX,1699,Galicia,Zaleszczyki,62,61,TLUSTE,Jews first settled in T. in the late 17th cent,,48.85,25.73333333,-1056410,2157,1880
+GLC_ZLS_TVST,6261Tls,Tluste,1311,JF-16LX,1699,Galicia,Zaleszczyki,62,61,TLUSTE,Jews first settled in T. in the late 17th cent,,48.85,25.73333333,-1056410,2157,1880
+GLC_ZLS_TVST,6261Tls_2,Tluste Wies,,POP-1921,1921,Galicia,Zaleszczyki,62,61,TLUSTE WIES,The Jewish pop. in 1921 was 185.,,48.85,25.73333333,-1056410,2157,1880
+GLC_ZLS_TVST,6261Tls_2,Tluste Wies,,POP-1921,1921,Galicia,Zaleszczyki,62,61,TLUSTE WIES,The Jewish pop. in 1921 was 185.,,48.85,25.73333333,-1056410,2157,1880
+PRU_PSN_RSZK,6105Rsc,Raschkow,1056,JM-16EX,1600,Prussia,Posen,61,5,RAKOW,Jews are first mentioned in the early 17th cent.,,51.71666667,17.73333333,-525199,214,1839
+GLC_HST_KHRS,6268Chr,Chorostkow,255,JF-17MX,1750,Galicia,Husiatyn,62,68,CHOROSTKOW,Jews were invited to settle as tradesmen with residence rights in the mid-18th cent,,49.23333333,25.91666667,-1041534,2130,1880
+GLC_LSK_WLMC,6229Wl,Wola Michowa,1457,POP-1921,1921,Galicia,Lisko,62,29,WOLA MICHOWA,The Jewish pop. in 1921 was 148.,,49.23333333,22.15,-536407,210,1880
+PRU_PSN_BDZY,6105Bdz,Bodzanow,163,1825,1825,Prussia,Posen,61,5,BODZANOW,synagogue in 1825,,52.88333333,16.98333333,-496083,21,1931
+GLC_TRM_TRBV,6273Trm,Trembowla,1320,CM-15MX,1550,Galicia,Turka,62,73,TREMBOWLA,A small community was maintained from the mid-16th cent and was organized in the early 18th cent,,49.3,25.71666667,-1056161,2098,1900
+GLC_PRZ_HLYN,6270Hly,Hlyniany,434,JE-1474,1474,Galicia,Przemyslany,62,70,GLINIANY,Jews are first noted from 1474 as leaseholders,,49.81666667,24.51666667,-1039042,2088,1890
+GLC_ZLC_ZBRV,6275Zbr,Zborow,,JE-1680s,1680s,Galicia,Zloczow,62,75,ZBOROW,Jews were first recorded in Z. in the 1680s,,49.66666667,25.15,-1060420,2084,1900
+GLC_TLM_OTYN,6259Ott,Ottynia,956,JM-1635,1635,Galicia,Tlumacz,62,59,OTTYNIA,Jews are first mentioned in 1635,,48.73333333,24.85,-1049692,2081,1900
+GLC_SNK_ZGRZ,6240Zgr,Zagorz,1482,JF-18LX,1899,Galicia,Sanok,62,40,ZAGORZ,Jews began arriving from Sanok and neighboring Lesko in the second half of the 19th cent,,49.51666667,22.26666667,-538051,207,1880
+GLC_BHR_STRN,6247Str,Starunya,1238,POP-1921,1921,Galicia,Bohorodczany,62,47,STARUNIA,The Jewish pop. in 1921 was 168.,,48.71666667,24.5,-1055083,207,1880
+PRU_OST_SDV,6102Grs,Gross Kackschen,462,POP-1895,1895,Prussia,Ostpreussen,61,2,GROSS KACKSCHEN,The Jewish pop. numbered 205 in 1895,,54.95,22.31666667,219456,205,1895
+GLC_NDW_DR,6253Dr,Dora,,,,Galicia,Nadworna,62,53,,,,48.46666667,24.58333333,-1038094,205,1880
+PRU_PMM_GRYF2,6104Grf_3,Greifenhagen,451,JE-1481,1481,Prussia,Pommern,61,4,GREIFENHAGEN,The first evidence of  a Jewish presence dates from 1481,,53.25,14.48333333,-503595,205,1861
+BKV_WZN_SRHY,6306Srh,Serhiyi,1139,JF-18LX,1899,Bukovina,Wiznitz,63,6,SARGHIENI,Jews settled in the late 19th cent,,47.98333333,25.13333333,-1053407,204,1930
+PRU_PSN_ODLN,6105Adl,Adelnau,131,,,Prussia,Posen,61,5,ODOLANOW,,,51.56666667,17.7,-519402,203,1883
+GLC_KLM_PCHN,6254Pcz,Peczenizyn,978,JE-17XX,1700,Galicia,Kolomyja,62,54,PECZENIZYN,Jews were present in the 18th cent,,48.51666667,24.88333333,-1050032,2024,1890
+GLC_RHT_ZHRV,6256Zrw,Zurow,1520,POP-1921,1921,Galicia,Rohatyn,62,56,ZUROW,The Jewish pop. in 1921 was 104.,,49.31666667,24.45,-1060886,202,1880
+GLC_NSK_KMN,6233Kmn,Kamien,592,POP-1921,1921,Galicia,Nisko,62,33,KAMIEN,The Jewish pop. in 1921 was 201,,50.31666667,22.13333333,-506552,201,1921
+GLC_SNT_ZBLT,6252Zbl,Zablotow,1478,JF-17EX,1700,Galicia,Sokal,62,52,ZABLOTOW,Jews settled here in the early 18th cent,,48.46666667,25.28333333,-1059902,2009,1890
+PRU_SCH_GLWC,6101Glw,Gleiwitz,433,JE-13XX,1300,Prussia,Schlesien,61,1,GLEIWITZ,Jews were probably present in the 14th cent,,50.28333333,18.66666667,-501777,2009,1867
+PRU_PSN_MGLN,6105Mgl,Mogilno,,JF-1772,1772,Prussia,Posen,61,5,MOGILNO (I),Jews first settled after the annexation to Prussia in 1772,,52.66666667,17.96666667,-517108,200,1881
+GLC_BRZ_WJNC,6203Wjn,Wojnicz,,JF-17XX,1700,Galicia,Brzesko,62,3,WOJNICZ,Jews apparently settled in the 18th cent,,49.96666667,20.83333333,-536149,200,1880
+GLC_HST_YBLN,6268Jbl,Jablonow,,CE-17EX,1700,Galicia,Husiatyn,62,68,Jablonow,The J. community dates from the 18th cent.,,49.15,25.86666667,-1059241,20,1921
+GLC_DLN_SKHD,6248Sch,Suchodol,,,,Galicia,Dolina,62,48,,,,48.8,24.01666667,-1055592,20,1880
+GLC_MSC_TVRZ,6232Twr,Twierdza,1352,POP-1921,1921,Galicia,Myslenice,62,32,TWIERDZA,The Jewish pop. in 1921 was 148,,49.8,23.25,-1056949,20,1880
+PRU_OST_SZCZ,6102Ort,Ortelsburg,945,JF-1768,1768,Prussia,Ostpreussen,61,2,ORTELSBURG,The first Jews were allowed to settle in O. in 1768.,,53.56666667,21,-532063,199,1871
+PRU_PSN_JNWC,6105Jnw,Janowiec,,CM-18XX,1800,Prussia,Posen,61,5,JANOWIEC (I),The 19th cent,,52.75,17.5,-505080,199,1871
+BKV_WZN_MLYV,6306Ml,Milie,824,JF-18LX,1899,Bukovina,Wiznitz,63,6,MILIE,Jews settled in the late 19th cent,,48.33333333,25.28333333,-1046709,197,1930
+GLC_GRD_VLKY,6223Lbn,Lubien Wielki,751,CM-1921,1921,Galicia,Grodek,62,23,LUBIEN WIELKI,A small Jewish community of 197 residents in 1921,,49.73333333,23.73333333,-1057743,197,1921
+GLC_RW_NMYR,6236Nmr,Niemirow,,JF-15LX,1599,Galicia,Rawa Ruska,62,36,NIEMIROW,Jews were among the town’s first settlers in the late 16th cent,,50.11666667,23.45,-1047507,1962,1910
+PRU_WST_CZRN,6103Hmm,Hammerstein,494,POP-1831,1831,Prussia,Westpreussen,61,3,HAMMERSTEIN,The Jewish pop. of H. numbered 142 in 1831,,53.68333333,16.93333333,-498027,195,1880
+PRU_WST_CZLP,6103Sch_2,Schloppe,1148,JE-1674,1674,Prussia,Westpreussen,61,3,SCHLOPPE,There is documentary evidence of 28 Jews living in S. in 1674.,,53.08333333,16.11666667,-498453,195,1871
+GLC_NSK_ULNW,6233Uln,Ulanow,1359,JE-1648-49,49,Galicia,Nowy Sacz,62,33,ULANOW,*The first Jewish settlement was wiped out in the Chmielnicki massacres of 1648-49,,50.48333333,22.26666667,-533954,1947,1880
+GLC_LNC_LNCT,6228Lnc,Lancut,702,CE-15LX,1599,Galicia,Lancut,62,28,LANCUT,A Jewish community with a wooden synagogue and cemetery existed in the late 16th cent,,50.06666667,22.23333333,-512378,1940,1900
+PRU_SCH_BLSL,6101Bnz,Bunzlau,221,JE-1370,1370,Prussia,Schlesien,61,1,BUNZLAU,Jews were present by 1370,,51.26666667,15.56666667,-494467,194,1880
+GLC_DRH_MDNY,6222Mdn,Medenychi,802,X,X,Galicia,Drohobycz,62,22,MEDENICE,,,49.43333333,23.75,-1046356,193,1921
+PRU_PSN_MRWN,6105Mrw,Murowana-Goslin,132,,,Prussia,Posen,61,5,MUROWANA GOSLINA,,,52.56666667,17.01666667,-517584,193,1871
+GLC_MLC_RDMY,6214Rdm,Radomysl Wielki,1048,JE-17LX,1799,Galicia,Mielec,62,14,RADOMYSL WIELKI,,,50.2,21.26666667,-524880,1920,1890
+GLC_MLC_RDMY,6214Rdm,Radomysl Wielki,1048,JE-17LX,1799,Galicia,Mielec,62,14,RADOMYSL WIELKI,,,50.2,21.26666667,-524880,1920,1890
+GLC_MLC_RDMY,6214Rdm_2,Radomysl nad Sanem,1048,POP-1765,1765,Galicia,Mielec,62,14,RADOMYSL NAD SANEM,Jews are first recorded in 1765,,50.2,21.26666667,-524880,1920,1890
+GLC_MLC_RDMY,6214Rdm_2,Radomysl nad Sanem,1048,POP-1765,1765,Galicia,Mielec,62,14,RADOMYSL NAD SANEM,Jews are first recorded in 1765,,50.2,21.26666667,-524880,1920,1890
+GLC_ZLC_SSV,6275Ssw,Sasow,1141,JF-16EX,1600,Galicia,Zloczow,62,75,SASOW,Jews were apparently among the first settlers in the early 17th cent,,49.86666667,24.95,-1053064,1906,1880
+PRU_SCH_ZBC,6101Mns,Munsterberg,,JF-16MX,1650,Prussia,Schlesien,61,1,Munsterberg,mid- 17th century (GermanSynagoge),,50.6,17.03333333,-539643,190,1842
+GLC_CZR_YHLN,6266Jgl,Jagielnica,557,CE-17XX,1700,Galicia,Czortkow,62,66,JAGIELNICA,A Jewish community existed from the 18th cent,,48.95,25.73333333,-1059262,1892,1880
+PRU_PSN_MRGN,6105Mrg,Margonin,794,JF-1920,1920,Prussia,Posen,61,5,MARGANETS,Jews apparently settled in the 1920,,52.96666667,17.1,-515577,189,1881
+PRU_PMM_BBLC,6104Bbl,Bublitz,207,JM-1728,1728,Prussia,Pommern,61,4,BUBLITZ,The first Jewish family is mentioned in 1728,,53.95,16.6,-494121,189,1861
+PRU_PSN_BYDG,6105Byd,Bydgoszcz,,JF-1346,1346,Prussia,Posen,61,5,BYDGOSZCZ,Jews were invited to settle by King Casimir the Great in 1346,,53.15,18,-496361,1889,1880
+GLC_ZYW_SCHB,6213Sch,Sucha Beskidzka,1260,CM-1860,1860,Galicia,Zywiec,62,13,SUCHA,The community began to consolidate after 1860,,49.73333333,19.6,-530956,188,1890
+GLC_NDW_BLOS,6253Osl,Oslaw Bily,946,POP-1921,1921,Galicia,Nadworna,62,53,OSLAW BIALY,The Jewish pop. in 1921 was 187.,,48.5,24.7,-1035311,187,1921
+GLC_LNC_LZJS,6228Lzj,Lezajsk,726,JE-1521,1521,Galicia,Lancut,62,28,LEZAJSK,Jews lived permanently in L. from at least 1521,,50.26666667,22.41666667,-513296,1868,1880
+GLC_MLC_BRW,6214Brw,Borowa,173,POP-1880,1880,Galicia,Mielec,62,14,BOROWA,The Jews numbered 186,,50.38333333,21.36666667,-494726,186,1921
+PRU_PMM_DRWS,6104Drm,Dramburg,328,JF-1735,1735,Prussia,Pommern,61,4,DRAMBURG,The first Jews arrived in D. between 1735 and 1740.,,53.53333333,15.8,-499974,186,1861
+GLC_RW_UHNV,6236Uhn,Uhnow,1357,CM-15XX,1500,Galicia,Rawa Ruska,62,36,UHNOW,A small Jewish community dates from the 16th cent,,50.36666667,23.75,-1057044,1843,1880
+GLC_LMN_DBR,6228Dbr,Dobra,,POP-1895,1895,Galicia,Limanowa,62,28,DOBRA (II),The Jewish pop. numbered 184,,49.71666667,20.26666667,-499566,184,1921
+PRU_SCH_PRDN,6101Nst,Neustadt,885,POP-1534,1534,Prussia,Schlesien,61,1,NEUSTADT,"In 1534, the Jewish pop. was 25",,50.31666667,17.58333333,-523821,184,1880
+GLC_BRD_STRM,6263Str,Strzemilcze,,,,Galicia,Brody,62,63,,,,50.33333333,25.05,-1055420,183,1880
+GLC_BRS_OZRY,6220Jzr,Jezierezany,574,CM-17LX,1799,Galicia,Borszczow,62,20,JEZIERZANY,The permanent Jewish settlement dates from around the end of the 18th cent,,48.88333333,25.95,-1049749,1823,1890
+GLC_DLN_STRY,6248Mzn,Mizun Stary,832,POP-1921,1921,Galicia,Dolina,62,48,MIZUN STARY,The Jewish pop. in 1921,,48.91666667,23.88333333,-1055142,182,1921
+PRU_PSN_SKK,6105Sch_3,Schokken,1193,CE-1770,1770,Prussia,Posen,61,5,SKOKI,A Jewish community of 338 existed in 1770,,52.66666667,17.16666667,-528268,182,1895
+GLC_BRS_BRSH,6247Brs,Borszczow,,JE-16XX,1600,Galicia,Borszczow,62,47,BORSZCZOW,Though there is evidence of  Jewish settlement in the 17th cent,,48.8,26.05,-1036203,1808,1890
+GLC_SKL_SLTS,6241Slc,Sielec,1178,POP-1921,1921,Galicia,Sokal,62,41,SIELEC,The Jewish pop. in 1921 was 175.,,50.31666667,24.2,-1053151,180,1880
+GLC_HST_HRDN,6250Hrd_2,Horodnica,529,JF-18EX,1800,Galicia,Husiatyn,62,50,HORODNIA,Jews settled in the 19th cent,,49.18333333,26.11666667,-1039470,18,1921
+GLC_PRZ_KSNC,6234Ksn,Kosienice,668,JF-16EX,1600,Galicia,Przemysl,62,34,KOZIENICE,Jews settled in the early 17th cent,,49.88333333,22.7,-509965,18,1921
+PRU_PSN_MRCZ,6105Mrt,Mrotschen,133,,,Prussia,Posen,61,5,MROCZA,,,53.25,17.61666667,-517465,179,1884
+PRU_SCH_KMNN,6101Lnd_2,Landeshut,703,JE-1812,1812,Prussia,Schlesien,61,1,LANDESHUT,Jews were granted residence rights in 1812 and numbered 53 in 1840.,,50.78333333,16.03333333,-506662,177,1884
+GLC_HRD_CHRN2,6250Czr,Czerniatyn,289,POP-1921,1921,Galicia,Horodenka,62,50,CZERNIATYN,The Jewish pop. in 1921,,48.66666667,25.45,-1037140,177,1880
+GLC_TLM_KRPT,6259Krp,Koropiec,659,JM-1635,1635,Galicia,Tlumacz,62,59,KOROPIEC,Jews are first mentioned in 1635,,48.93333333,25.18333333,-1042894,176,1921
+GLC_RW_VLKM,6236Wlk,Wulka Mazowiecka,1468,POP-1921,1921,Galicia,Rohatyn,62,36,WULKA MAZOWIECKA,The Jewish pop. in 1921 was 136.,,50.25,23.86666667,-1059046,176,1890
+GLC_SNK_RYMN,6240Rym,Rymanow,1109,JE-15LX,1599,Galicia,Sanok,62,40,RYMANOW,Jews are known from the late 16th cent,,49.58333333,21.86666667,-526779,1751,1890
+PRU_SCH_WRCL,6101Brs,Breslau,188,JE-11XX,1100,Prussia,Schlesien,61,1,BRESLAU,Between the 12th and the mid-15th cent,,51.1,17.03333333,-537080,17500,17500 (1880) 19722 (1933)
+GLC_GRY_CZKW,6208Czk,Ciezkowice,261,CM-18LX,1899,Galicia,Grybow,62,8,CIEZKOWICE,"The community previously linked to Tarnow, became independent in the late 19th cent",,49.78333333,20.96666667,-497672,175,1890
+PRU_OST_PSLK,6102Prs_2,Preussisch-Holland,,JF-16LX,1699,Prussia,Ostpreussen,61,2,PREUSSISCH-HOLLAND,East Jews settled in P. towards the end of the 17th cent,,54.06666667,19.66666667,-521145,175,1880
+BKV_KMP_VTRD,6301Vtr,Vatra Dornei,1379,,,Bukovina,Kimpolung,63,1,VATRA-DORNEI,,,47.35,25.36666667,-1174403,1737,1930
+BKV_CZR_CHRN,63NACrn,Cernauti,237,JM-1408,1408,Galicia,Cieszyn,63,,CERNAUTI,today Ukraine The first reliable mention of Jews in C. dates from 1408.,,48.3,25.93333333,-1037073,17319,1890
+BKV_RDT_SLYT,6308Slt,Seletin,1158,JF-18MX,1850,Bukovina,Radautz,63,8,SELETIN,Jews settled in the mid-19th cent,,47.86666667,25.21666667,-1053194,173,1880
+GLC_RW_KHLV,6236Chl,Chlewczany,253,POP-1921,1921,Galicia,Rawa Ruska,62,36,CHLEWCZANY,The Jewish pop. in 1921 was 125.,,50.31666667,23.96666667,-1041398,173,1880
+PRU_PSN_PSZC,6105Bts,Betsche,134,CM-17MX,1750,Prussia,Posen,61,5,BETSCHE,"By the mid-18th century, there was a Jewish community and several renowned rabbis were active her...",,52.46666667,15.76666667,-524473,173,1840
+PRU_OST_GZYC,6102Ltz,Loetzen,745,JE-MA,MA,Prussia,Ostpreussen,61,2,LOETZEN,Jews probably stayed occasionally in L. from the Middle Ages,,54.03333333,21.76666667,-501574,172,1873
+GLC_ZLC_BLYK,6275Bly,Bialy Kamien,138,JM-1629,1629,Galicia,Zloczow,62,75,BIALY KAMIEN,Jews are recorded from 1629 and by the end of  the 17th cent,,49.9,24.83333333,-1035313,1704,1900
+PRU_SCH_GLGW2,6101Obr,Oberglogau,920,JF-MA,MA,Prussia,Schlesien,61,1,OBERGLOGAU,"Jews probably arrived in the Middle Ages. However, a permanent settlement is known only from the ...",,50.36666667,17.86666667,-501810,170,1880
+PRU_PSN_GRBW,6105Grb,Grabow nad Prosna,449,JE-15XX,1500,Prussia,Posen,61,5,GRABOW NAD PROSNA,Jews were present from the 16th cent,,51.51666667,18.11666667,-503067,170,1840
+GLC_RHT_CHRN,6256Czr,Czerniejow,,POP-1921,1921,Galicia,Rohatyn,62,56,CZERNIEJOW,In 1921 the Jewish pop. stood at 336,,49.26666667,24.45,-1037048,17,1870
+PRU_OST_BRNW,6102Brn,Braunsberg,185,JE-1744,1744,Prussia,Ostpreussen,61,2,BRAUNSBERG,The first evidence of Jews dates  from 1744.,,54.38333333,19.83333333,-495057,169,1884
+PRU_PSN_RYCZ,6105Rts,Ritschenwalde,1108,JF-15XX,1500,Prussia,Posen,61,5,RYCZYWOL,"Jews probably arrived in the 16th cent, ",,52.81666667,16.83333333,-526736,168,1895
+PRU_WST_WJHR,6103Wjh,Wejherowo,1438,JF-1812,1812,Prussia,Westpreussen,61,3,WEJHEROWO,The first Jews settled in 1812,,54.6,18.23333333,-534656,168,1871
+GLC_TRN_RZWD,6244Rzw,Rozwadow,,JF-17XX,1700,Galicia,Tarnobrzeg,62,44,ROZWADOW,Few Jews settled until the 18th cent,,50.58333333,22.05,-526110,1678,1880
+PRU_PMM_GRFS,6104Grf,Greifswald,452,JE-12MX,1250,Prussia,Pommern,61,4,GREIFSWALD,There 1s evidence of Jewish presence in G. as early as the middle of the 13th cent,,54.1,13.38333333,-1778917,167,1880
+PRU_PMM_GLNW,6104Gll,Gollnow,439,POP-1782,1782,Prussia,Pommern,61,4,GOLLNOW,"In 1782, there were 62 Jews living in G. and 165 in 1840.",,53.56666667,14.81666667,-502211,165,1840
+GLC_BCZ_YZLV,6265Jzl,Jazlowiec,570,CM-15XX,1500,Galicia,Buczacz,62,65,JAZLOWIEC,The Jewish community dating from the 16th cent,,48.96666667,25.43333333,-1051255,1642,1880
+PRU_OST_LDZB,6102Hls,Heilsberg,507,JE-1728,1728,Prussia,Ostpreussen,61,2,HEILSBERG,The first evidence of a Jewish presence dates from 1728.,,54.13333333,20.58333333,-513377,164,1871
+GLC_STR_STRY,6242Str_3,Stary Sambor,1238,JM-1544,1544,Galicia,Storojinet,62,42,STARY SAMBOR,Jews are first mentioned in 1544,,49.43333333,23,-1055147,1613,1890
+BKV_WZN_RZTK,6306Rst,Rastoace,1060,JF-18LX,1899,Bukovina,Wiznitz,63,6,RASTOACE,Jews first settled in the late 19th cent,,48.18333333,25.08333333,-1052442,161,1880
+GLC_LWW_NVYY,6231Jry,Jaryczow Nowy,564,CF-1648-49,49,Galicia,Lwow,62,31,JARYCZOW NOWY,The first Jewish settlement was destroyed in the Tartar invasion of 1578,,49.91666667,24.3,-1048978,1608,1910
+BKV_STR_STRZ,6309Str,Storozynetz,1248,CF-18EX,1800,Bukovina,Storojinet,63,9,STOROJINETI,A J. community was founded in the second half of the 19th cent,,48.16666667,25.71666667,-1055363,1601,1880
+GLC_ZLC_YZZH,6275Jzr,Jezierzanka,574,POP-1921,1921,Galicia,Zloczow,62,75,JEZIERZANKA,The Jewish pop. in 1921 was 160.,,49.65,25.08333333,-1059772,160,1921
+PRU_PSN_KBYL,6105Hdb,Haideberg,,,,Prussia,Posen,61,5,,,,51.38333333,17.83333333,-508221,160,1880
+PRU_PSN_BBMS,6105Bms,Bomst,,,,Prussia,Posen,61,5,,,,52.16666667,15.81666667,-492527,160,1871
+PRU_SCH_TWRD,6101Fst,Festenberg,381,CM-16MX,1650,Prussia,Schlesien,61,1,FESTENBERG,The Jewish community dates from the mid-17th cent,,51.36666667,17.46666667,-533708,160,1845
+GLC_LWW_PDBR,6231Pdb,Podborce,1006,CF-1890,1890,Galicia,Lwow,62,31,PODBORANY,The community was formally established in 1890,,49.85,24.15,-1050845,16,1886
+GLC_ZLK_HLYN,6246Hly,Hlynsk,434,POP-1921,1921,Galicia,Zolkiew,62,46,GLINSKO,The Jewish pop. in 1921 was 124.,,50.06666667,23.9,-1039037,16,1880
+GLC_BBR_NVST,6219Str,Strzeliska Nowe,1255,JF-16LX,1699,Galicia,Bobrka,62,19,STRZELISKA NOWE,Jews apparently arrived in the second half of the 17th cent,,49.51666667,24.4,-1048906,1597,1900
+GLC_BRS_OLYV,6220Krl,Korolowka,659,JE-16LX,1699,Galicia,Borszczow,62,20,KOROLOWKA,The Jewish settlement dates from the late 17th cent,,48.73333333,25.98333333,-1049241,1596,1900
+GLC_DLN_RZHN,6248Rzn,Rozniatow,1101,JE-17XX,1700,Galicia,Dolina,62,48,ROZNIATOW,The Jewish community grew throughout the 18th and 19th cents.,,48.93333333,24.16666667,-1052526,1589,1890
+GLC_KSW_MSKL,6251Msk,Moskalowka,848,POP-1921,1921,Galicia,Kosow,62,51,MOSKALOWKA,The Jewish pop. in 1921 was 158.,,48.3,25.1,-1047110,158,1921
+GLC_MLC_RZCH,6214Rzc,Rzochow,,,,Galicia,Mielec,62,14,,,,50.25,21.48333333,-527027,158,1880
+GLC_BRS_OKPY,6220Okp,Okopy,,,,Galicia,Borszczow,62,20,,,,48.53333333,26.4,-1049162,157,1900
+GLC_STN_HLYC,6258Hlc,Halicz,484,JM-14XX,1400,Galicia,Stanislawow,62,58,HALICZ,Jews are mentioned from the 15th cent,,49.11666667,24.73333333,-1038762,1568,1900
+GLC_BRD_PDKM,6263Pdk,Podkamien,1008,JF-16XX,1600,Galicia,Brody,62,63,PODKAMIEN,Jews settled in P. in the 17th cent,,49.93333333,25.31666667,-1050909,1552,1880
+PRU_SCH_DZRZ,6101Rch,Reichenbach,1067,JE-1367,1367,Prussia,Schlesien,61,1,REICHENBACH,Jews settled no later than 1367,,50.71666667,16.65,-500600,155,1880
+GLC_BHR_SLTV,6247Slt,Solotwina,1215,CM-16XX,1600,Galicia,Bohorodczany,62,47,SOLOTWINA,The 17th cent,,48.7,24.41666667,-1054671,1541,1880
+BKV_KMP_CRLB,6301Crl,Carlibaba,233,POP-1930,1930,Bukovina,Kimpolung,63,1,CARLIBABA,The Jewish pop. in 1930 was 154.,,47.58333333,25.13333333,-1155893,154,1930
+GLC_BHR_RSLN,6247Rsl,Rosulna,1095,POP-1921,1921,Galicia,Bohorodczany,62,47,ROSULNA,The Jewish pop. was 154 in 1921.,,48.76666667,24.38333333,-1052392,154,1921
+GLC_BRD_BRDY,6220Brd,Brody,,JF-15LX,1599,Galicia,Brody,62,20,BRODY,Jews settled when B. was founded in the late 16th cent,,50.08333333,25.15,-1036374,15316,15316 (1880) 12188 (1910)
+GLC_BRZ_RDLW,6203Rdl,Radlow,1045,POP-1921,1921,Galicia,Brzesko,62,3,RADLOW,Jews numbered 174 in 1921,,50.08333333,20.85,-524833,153,1880
+PRU_PSN_MKST,6105Mxs,Mixstadt,822,CF-1815,1815,Prussia,Posen,61,5,MIKSTAT,The community was established after the reannexation to Prussia in 1815,,51.53333333,17.96666667,-516545,152,1871
+GLC_BRZ_KZV,6264Kzw,Kozowa,669,JF-16LX,1699,Galicia,Brzezany,62,64,KOZOWA,Jews arrived in the late 17th cent,,49.43333333,25.15,-1043283,1510,1880
+GLC_JRS_SKLS,6224Skl,Skoloszow,1194,,,Galicia,Jaroslaw,62,24,SKOLOSZOW,,,49.93333333,22.81666667,-528282,151,1886
+GLC_NSK_PYSZ,6233Pys,Pysznica,1041,POP-1921,1921,Galicia,Nisko,62,33,PYSZNICA,The Jewish pop. in 1921 was 191,,50.56666667,22.13333333,-524651,151,1880
+GLC_CSZ_CWKW,6230Cwk,Cewkow,240,POP-1921,1921,Galicia,Cieszanow,62,30,CEWKOW,The Jewish pop. in 1921 was 150.,,50.25,22.86666667,-496612,150,1921
+GLC_SMB_LK,6239Lnk,Lonka Rustykalna,748,POP-1921,1921,Galicia,Sambor,62,39,LONKA RUSTYKALNA,The Jewish pop. in 1921 was 150.,,49.5,23.5,-1045167,150,1921
+GLC_TRN_BRNW,6244Brn,Baranow,,JM-13XX,1300,Galicia,Tarnobrzeg,62,44,BARANOW (I),Jews are mentioned from the 14th cent,,50.48333333,21.53333333,-492818,1491,1890
+PRU_PSN_GNZN,6105Gnz,Gniezno,436,JM-11XX,1100,Prussia,Posen,61,5,GNIEZNO,Jews are first mentioned in the 12th cent,,52.55,17.6,-501970,1482,1885
+PRU_WST_PRBT,6103Rsn,Riesenberg,1077,CE-1700,1700,Prussia,Westpreussen,61,3,RIESENBURG,Individual Jews lived in R. already around 1700,,53.76666667,19.21666667,-523655,148,1895
+GLC_PRZ_PRZW,6235Prz,Przeworsk,1036,JF-15EX,1500,Galicia,Radautz,62,35,PRZEWORSK,Jews settled in the early 16th cent,,50.06666667,22.5,-524090,1477,1910
+GLC_RW_MSTY,6236Mst,Mosty Male,848,POP-1921,1921,Galicia,Rawa Ruska,62,36,MOSTY MALE,The Jewish pop. in 1921 was 147.,,50.31666667,23.55,-517402,147,1921
+PRU_PSN_JRCZ,6105Jrt,Jaratschewo,,,,Prussia,Posen,61,5,,,,51.96666667,17.3,-505160,147,1871
+PRU_SCH_TSZK,6101Tst,Tost,1245,JF-1875,1875,Prussia,Schlesien,61,1,STOCZEK,Jews settled rapidly in the late 19th cent.,,50.45,18.51666667,-533073,146,1885
+PRU_PMM_GRYF,6104Grf_2,Greifenberg,451,JM-1692,1692,Prussia,Pommern,61,4,GREIFENBERG,A Jewish resident is mentioned in 1692,,53.9,15.2,-503594,146,1880
+BKV_GRH_GRHM,6302Gr,Gura Humorului,470,JF-1835,1835,Bukovina,Gurahumora,63,2,GURA HUMORULUI,The first Jews who settled in 1835,,47.55,25.9,-1160946,1457,1900
+PRU_WST_SSZ,6103Rdn,Rodenberg,1085,POP-1861,1861,Prussia,Westpreussen,61,3,RODENBERG,The J. community numbered 93 in 1861,,53.71666667,19.35,-531286,145,1880
+GLC_RPC_SDZS,6276Sdz,Sedziszow,1157,JE-16LX,1699,Galicia,Pilzno,62,76,SEDZISZOW,Few Jews were present until the late 17th cent,,50.06666667,21.7,-527471,1433,1890
+GLC_BRS_MLNY,6220Mln,Mielnica,820,JE-17LX,1799,Galicia,Borszczow,62,20,MIELNICA,Jews were present from the second half of the 18th cent,,48.61666667,26.16666667,-1046439,1429,1880
+GLC_STN_IVNF,6258Stn,Stanislau,1233,JF-1654,1654,Galicia,Stanislawow,62,58,STANISLAWOW,Jews arrived with the founding of the town in 1654,,48.91666667,24.7,-1040327,14106,14106 (1900) 24823 (1931)
+PRU_OST_KTRZ,6102Ktr,Ketrzyn,1059,JF-18EX,1800,Prussia,Ostpreussen,61,2,RASTENBURG,Jews settled in R. in the early 19th cent,,54.08333333,21.38333333,-507512,141,1880
+PRU_PMM_KSZL,6104Ksl,Koeslin,644,JE-1699,1699,Prussia,Pommern,61,4,KOESLIN,The first Jewish family was living in K. in 1699,,54.2,16.18333333,-510109,140,1933
+BKV_KMP_BRZ,6301Brz,Breaza,186,JF-18LX,1899,Bukovina,Kimpolung,63,1,BREAZA,Jews first settled in the late 19th cent,,47.61666667,25.33333333,-1153702,140,1930
+BKV_STR_HLYN,6309Hln,Hlinitza,516,JF-18EX,1800,Bukovina,Storojinet,63,9,HLINITA,Jews settled in the early 19th cent,,48.33333333,25.7,-1039018,140,1930
+GLC_STR_LVCH,6257Lwc,Lawoczne,711,POP-1921,1921,Galicia,Strzyzow,62,57,LAWOCZNE,The Jewish pop. in 1921 was 140.,,48.81666667,23.36666667,-1044471,140,1921
+GLC_TRN_GRMN,6206Grm,Gromnik,460,JE-18MX,1850,Galicia,Tarnow,62,6,GROMNIK,Jews were living there in the mid-19th cent,,49.85,20.96666667,-503472,140,1921
+GLC_ZYW_RJCZ,6213Rjc,Rajcza,,JE-18MX,1850,Galicia,Zywiec,62,13,RAJCZA,The Jews lived there from the mid-19th cent,,49.5,19.11666667,-525069,140,1880
+GLC_BCZ_SKLV,6265Skl,Sokolow,1212,JE-15MX,1450,Galicia,Buczacz,62,65,SOKOLOV,Jews were present in the first half of the 15th cent,,48.93333333,25.33333333,-1054581,14,1921
+GLC_LWW_SHCH,6231Szc,Szczerzec,1276,POP-1629,1629,Galicia,Lwow,62,31,SZCZERZEC,"Jews are recorded from 1629, reaching a pop. of 1.",,49.65,23.86666667,-1053567,1385,1880
+PRU_PSN_WLN,6105Flh,Filehne,1442,CM-15XX,1500,Prussia,Posen,61,5,WIELEN NAD NOTECIA,A Jewish community is first mentioned in the 16th cent,,52.9,16.18333333,-534946,1380,1837
+GLC_HST_TRBK,6268Try,Trybuchowce,1336,POP-1921,1921,Galicia,Husiatyn,62,68,TRYBUCHOWCE,The Jewish pop. in 1921 was 138.,,49.15,26.16666667,-1056535,138,1921
+GLC_TRK_VRKH,6245Wys_2,Wysocko Wyzne,1470,POP-1921,1921,Galicia,Turka,62,45,WYSOCKO WYZNE,The Jn popsin: 1921. was 220.,,48.95,23.06666667,-1057971,138,1890
+PRU_WST_TRN,6103Trn,Torun,1316,JE-17XX,1700,Prussia,Westpreussen,61,3,TORUN,,,53.03333333,18.6,-533064,1371,1890
+GLC_LWW_ZNSN,6231Zns,Zniesienie,,,,Galicia,Mielec,62,31,,,,49.85,24.05,-1060963,137,1899
+GLC_ZLK_BTYT,6246Bty,Batyatychi,92,POP-1921,1921,Galicia,Zolkiew,62,46,BATIATYCZE,The Jewish pop. in 1921 was 195.,,50.1,24.26666667,-1035044,136,1880
+GLC_RDK_RDKY,6237Rdk,Rudki,1104,JF-17EX,1700,Galicia,Rzeszow,62,37,RUDKI,Jews settled from the early 18th cent,,49.65,23.48333333,-1052621,1352,1880
+GLC_TRN_TRNP,6272Trn,Tarnopol,1291,JF-1540,1540,Galicia,Tarnopol,62,72,TARNOPOL,Jewish settlement began with the founding of the town in 1540,,49.55,25.58333333,-1056204,13468,13468 (1880) 13999 (1931)
+BKV_SCZ_BLCN,6310Blc,Balaczana,80,JF-18LX,1899,Bukovina,Suceava,63,10,BALACEANA,Jews settled in the late 19th cent,,47.63333333,26.05,-1151714,134,1930
+PRU_OST_BSKP,6102Bsc,Bischofsburg,152,JF-18XX,1800,Prussia,Ostpreussen,61,2,BISCHOFSBURG,Jewish settlement started probably only in the 19th cent,,53.86666667,20.96666667,-493925,134,1871
+GLC_JSL_NWYZ,6209Zmg,Zmigrod Nowy,,,,Galicia,Jaslo,62,9,ZMIGROD NOWY,,,49.61666667,21.53333333,-519166,1330,1880
+PRU_PSN_KRGW,6105Unr,Unruhstadt,,,,Prussia,Posen,61,5,,,,52.06666667,15.85,-506952,133,1880
+PRU_OST_NDZC,6102Ndn,Neidenburg,880,JE-17LX,1799,Prussia,Ostpreussen,61,2,NEIDENBURG,The first protected Jew (Schutzjude) was allowed to live in N. in the second half of the 18th cen,,53.36666667,20.43333333,-518022,132,1905
+PRU_OST_NSTR,6102Stl,Stallupoenen,1232,POP-1843,1843,Prussia,Ostpreussen,61,2,STALLUPOENEN,The Jewish pop. numbered 57 in 1843,,54.63333333,22.56666667,-2964260,132,1880
+SLS_PLN_CSZY,6230Csz_2,Cieszyn,261,JE-13XX,1300,Galicia,Cieszyn,62,30,CIESZYN,Jews are known from the 14th cent,,49.76666667,18.6,-497660,1313,1890
+GLC_NWY_TYLC,6215Tyl,Tylicz,,JF-17LX,1799,Galicia,Nowy Targ,62,15,TYLICZ,Jews settled in the late 18th cent,,49.4,21.01666667,-533780,131,1880
+GLC_CSZ_LBCZ,6230Lbc,Lubaczow,750,JM-1498,1498,Galicia,Cieszanow,62,30,LUBACZOW,Jews are mentioned from 1498,,50.16666667,23.13333333,-514150,1304,1880
+PRU_PMM_SWNJ,6104Swn,Swinemünde,1272,CM-18XX,1800,Prussia,Pommern,61,4,SWINEMUENDE,A Jewish community developed in the 19th cent,,53.91666667,14.23333333,-531637,130,1887
+PRU_SCH_SRDS,6101Nmr,Neumarkt,883,JE-13EX,1300,Prussia,Schlesien,61,1,NEUMARKT,Jews in significant numbers were present by the early 14th.,,51.16666667,16.6,-529632,130,1845
+PRU_PSN_SMGL,6105Sch_6,Schmiegel,,,,Prussia,Posen,61,5,,,,52.01666667,16.53333333,-528941,13,1921
+GLC_NDW_TTRV,6253Ttr,Tatarow,1298,POP-1921,1921,Galicia,Nisko,62,53,TATAROW,The Jewish pop. in 1921 was 129.,,48.35,24.56666667,-1043681,129,1921
+GLC_STR_SMZH,6257Smr,Smorze Miasteczko,1205,POP-1921,1921,Galicia,Stryj,62,57,SMORZE MIASTECZKO,The Jewish pop. was 129 in 1921.,,48.9,23.18333333,-1054449,129,1921
+PRU_SCH_ZBKW,6101Frn,Frankenstein,391,JF-13LX,1399,Prussia,Schlesien,61,1,FRANKENSTEIN,Jewish settlement commenced in the late 14th cent,,50.58333333,16.8,-537777,129,1845
+PRU_SCH_JWR,6101Jr,Jauer,568,JM-1364,1364,Prussia,Schlesien,61,1,JAUER,The first mention of  Jews and a synagogue is in 1364,,51.05,16.18333333,-505516,128,1884
+GLC_SNK_ZRSZ,6240Zrs,Zarszyn,1491,JF-17LX,1799,Galicia,Schlesien,62,40,ZARSZYN,Jewish settlement commenced in the late 18th cent,,49.58333333,22.01666667,-538749,128,1880
+PRU_SCH_PKJ,6101Crl,Carlsruhe,233,CE-1842,1842,Prussia,Schlesien,61,1,CARLSRUHE,An organized community of 96 was in existence in 1842,,50.91666667,17.83333333,-522936,128,1861
+GLC_SNT_KNYZ,6252Knz,Kniaze,637,POP-1921,1921,Galicia,Sniatyn,62,52,KNIAZE,The Jewish pop. in 1921 was 126.,,48.4,25.45,-1042240,126,1921
+GLC_TRN_TRNW,6206Trn,Tarnow,1293,JF-13XX,1300,Galicia,Tarnow,62,6,TARNOW,The first Jewish settlers were apparently among the Germans invited into the country in the 14th ...,,50.01666667,20.98333333,-532666,12586,1900
+GLC_BCZ_ZLTY,6265Ptk,Potok Zloty,1017,JM-1635,1635,Galicia,Buczacz,62,65,POTOK ZLOTY,Jews are first mentioned in 1635,,48.91666667,25.35,-1061007,1247,1880
+GLC_BRZ_KZLV,6264Kzl,Kozliv,668,CM-17LX,1799,Galicia,Brzezany,62,64,KOZLOW,The Jewish community began to develop in the late 18th cent,,49.55,25.35,-1043268,1247,1880
+GLC_BRZ_DYNW,6262Dyn,Dynow,,JE-1552,1552,Galicia,Brzozow,62,62,DYNOW,Jews are first noted in 1552.,,49.81666667,22.23333333,-500386,1241,1880
+PRU_OST_GSV,6102Gmb,Gumbinnen,469,JF-1765,1765,Prussia,Ostpreussen,61,2,GUMBINNEN,With Jewish settlement beginning in 1765,,54.6,22.2,-2913313,124,1880
+GLC_JWR_NHCH,6225Nhc,Nahaczow,870,POP-1921,1921,Galicia,Jaworow,62,25,NAHACZOW,The Jewish pop. in 1921 was 123.,,50.01666667,23.3,-1047330,123,1921
+GLC_DLN_HLYN,6248Hly,Holyn,523,POP-1921,1921,Galicia,Dolina,62,48,HOLYN,The Jewish pop. in 1921,,49.01666667,24.25,-1039281,122,1921
+GLC_NSK_BJNW,6233Bjn,Bojanow,165,JF-1860,1860,Galicia,Nisko,62,33,BOIAN,Jews were granted permission to settle in 1860.,,50.4,21.95,-494414,122,1921
+GLC_DRH_SKHD,6222Skh,Skhidnitsya,1150,JE-18LX,1899,Galicia,Drohobycz,62,22,SCHODNICA,Jews pioneered the town’s oil industry in the late 19th cent,,49.23333333,23.35,-1054168,122,1880
+PRU_WST_SPLN,6103Smp,Sempolno,1160,JF-1644,1644,Prussia,Westpreussen,61,3,SEMPOLNO,Jews first settled in 1644,,53.45,17.53333333,-527514,1218,1853
+GLC_ZLC_HLHR,6275Glg,Gologory,439,JM-1470,1470,Galicia,Zloczow,62,75,GOLOGORY,Jews are first mentioned in 1470,,49.75,24.71666667,-1039192,1216,1880
+GLC_ZLK_KLYK,6246Kly,Kulykiv,689,JM-1544,1544,Galicia,Zolkiew,62,46,KULIKOW,Jews are first mentioned in 1544,,49.98333333,24.08333333,-1044096,1211,1910
+PRU_PMM_ZLCN,6104Flk,Falkenburg,377,JE-1720,1720,Bukovina,Posen,61,4,FALKENBURG,A Jew was present in 1720,,53.53333333,16,-539842,121,1880
+GLC_RZS_GLGW,6238Glg,Glogow,,JF-16LX,1699,Galicia,Rzeszow,62,38,GLOGOW,Jews apparently settled in the late 17th cent,,50.15,21.96666667,-501819,1201,1880
+BKV_STR_KBSH,6309Kbs,Kabestie,230,POP-1930,1930,Bukovina,Storojinet,63,9,CABESTI,The Jewish pop. in 1930 was 120.,,48.26666667,25.65,-1040516,120,1930
+GLC_CSZ_HRYN,6230Hry,Horyniec,530,POP-1921,1921,Galicia,Cieszanow,62,30,HORYNIEC,The Jewish pop. in 1921 was 120.,,50.18333333,23.36666667,-504138,120,1921
+GLC_STR_LYSY,6257Lst,Lisiatycze,737,POP-1921,1921,Galicia,Stryj,62,57,LISIATYCZE,The Jewish pop. in 1921 was 119.,,49.33333333,23.95,-1044881,119,1921
+GLC_TRK_SNKY,6245Snk,Sianky,1173,POP-1921,1921,Galicia,Turka,62,45,SIANKI,The Jewish pop. in 1921 was 119.,,49.01666667,22.9,-1055845,119,1921
+PRU_OST_DBRW,6102Glg,Gilgenburg,431,POP-1880,1880,Prussia,Ostpreussen,61,2,GILGENBURG,The Jewish community numbered 119 Jews in 1880,,53.43333333,20.05,-498918,119,1880
+GLC_LSK_CSN,6229Csn,Cisna,262,POP-1939,1939,Galicia,Lisko,62,29,CISNA,Jews numbered 150 in 1939.,,49.21666667,22.33333333,-497723,118,1921
+GLC_SNT_STTS,6252Stc,Stecowa,1241,POP-1921,1921,Galicia,Sniatyn,62,52,STECOWA,The Jewish pop. in 1921 was 118.,,48.51666667,25.56666667,-1055319,118,1921
+GLC_CHR_KRZS,6204Krz,Krzeszowice,686,CM-18LX,1899,Galicia,Chrzanow,62,4,KRZESZOWICE,The Jewish settlement started growing in the late 19th cent,,50.13333333,19.63333333,-511351,118,1880
+GLC_BRS_TSYH,6220Cyg,Cygany,284,POP-1921,1921,Galicia,Borszczow,62,20,CYGANY,The Jewish pop. in 1921 was 111.,,48.86666667,26.1,-1052608,117,1880
+BKV_KMP_CMPL,6301Cmp,Campulung Moldovenesc,232,JF-17MX,1750,Bukovina,Kimpolung,63,1,CAMPULUNG MOLDOVENESC,Jews settled in the mid-18th cent,,47.53333333,25.56666667,-1155616,1165,1890
+GLC_BBR_ZVNY,6219Dzw,Dzwinogrod,351,POP-1921,1921,Galicia,Bobrka,62,19,DZWINOGROD,The Jewish pop. in 1921 was 116.,,49.73333333,24.25,-1038501,116,1921
+PRU_SCH_ZMGR,6101Trc,Trachenberg,1319,CF-17MX,1750,Prussia,Schlesien,61,1,TRACHENBERG,Jews were present in the 16th and 17th cents.,,51.46666667,16.91666667,-539927,116,1880
+GLC_RZS_RPCZ,6238Rpc,Ropczyce,1092,JE-15LX,1599,Galicia,Rzeszow,62,38,ROPCZYCE,Jews are recorded from the late 16th cent,,50.05,21.61666667,-525798,1156,1880
+BKV_WZN_USTP,6306Gr,Gur Putilei,,POP-1930,1930,Bukovina,Wiznitz,63,6,GUR PUTILEI,,,48.11666667,25.05,-1057268,115,1930
+GLC_TRK_TRNW,6245Trn,Tarnawa Nizna,,POP-1921,1921,Galicia,Turka,62,45,TARNAW NIZNA,The Jewish pop. in 1921 was 115.,,49.15,22.78333333,A0048,115,1921
+GLC_TRK_TRNW,6245Trn,Tarnawa Nizna,,POP-1921,1921,Galicia,Turka,62,45,TARNAW NIZNA,The Jewish pop. in 1921 was 115.,,49.15,22.78333333,A0048,115,1921
+PRU_PMM_GRTZ,6104Grt,Gartz,417,JM-1481,1481,Prussia,Pommern,61,4,GARTZ AN DER ODER,Jews are first mentioned in G. in 1481,,53.2,14.38333333,-1774259,114,1861
+GLC_KMN_VZLV,6267Chl,Cholujow,255,JE-17EX,1700,Galicia,Kamionka Strumilowa,62,67,CHOLOJOW,Jewish families were present in the early 18th cent,,50.23333333,24.55,-1057316,1139,1900
+PRU_PMM_KMNP,6104Cmm,Cammin,232,JE-1663,1663,Prussia,Pommern,61,4,CAMMIN,Jews were trading in  C. as early as 1663.,,53.96666667,14.78333333,-506688,113,1880
+GLC_ZLK_LYBL,6246Lbl,Lubella,751,POP-1921,1921,Galicia,Zolkiew,62,46,LUBELLA,The Jewish pop. in 1921 was 112.,,50.2,23.95,-1045342,112,1921
+PRU_SCH_PRSC,6101Prs,Prausnitz,,JE-15EX,1500,Prussia,Schlesien,61,1,Prausnitz,Jews were present in Przasnysz in the 16th Century,,51.36666667,16.96666667,-523828,112,1842
+PRU_OST_OLSZ2,6102Hhn,Hohenstein,522,CM-1831,1831,Prussia,Ostpreussen,61,2,HOHENSTEIN,There was a small Jewish settlement of eight in 1831,,53.58333333,20.3,-519862,111,1880
+GLC_KLM_YBLN,6254Jbl,Jablonow,,CM-17XX,1700,Galicia,Kolomyja,62,54,JABLONOW (I),The Jewish community dates from the 18th cent,,48.4,24.95,-1059239,1105,1900
+GLC_TRK_MLNY,6245Mln,Mielniczne,821,POP-1921,1921,Galicia,Turka,62,45,MIELNICZNE,The Jewish pop. in 1921 was 110.,,49.11666667,23.03333333,A0025,110,1921
+PRU_SCH_GR,6101Ghr,Guhrau,469,JE-1350,1350,Prussia,Schlesien,61,1,GUHRAU,A Street of the Jews was in existence in 1350,,51.66666667,16.53333333,-502328,110,1895
+GLC_PRZ_PRZM,6234Prz,Przemysl,1032,JE-09XX,0900,Galicia,Przemyslany,62,34,PRZEMYSL,Jewish traders may have been active in P. from the tenth cent,,49.78333333,22.78333333,-524021,10998,1890
+GLC_HRD_YSNV,6250Jsn,Jasienow Polny,565,POP-1921,1921,Galicia,Horodenka,62,50,JASIENOW POLNY,The Jewish pop. in 1921 was 109.,,48.63333333,25.51666667,-1059487,109,1921
+PRU_OST_ORNT,6102Wrm,Wormditt,,JF-1800,1800,Prussia,Ostpreussen,61,2,WORMDITT,Jews settled in W. c. 1800.,,54.11666667,20.13333333,-520078,109,1905
+GLC_BRZ_NRYV,6264Nrj,Narajow,,JE-17LX,1799,Galicia,Brzezany,62,64,NARAJOW,Jews were present in the late 18th cent,,49.53333333,24.76666667,-1047372,1088,1880
+GLC_DRH_STBN,6222Stb,Stebnyk,1241,JE-18LX,1899,Galicia,Drohobycz,62,22,STEBNIK,Jews lived there from the late 19th cent,,49.3,23.56666667,-1055217,108,1880
+PRU_PSN_RWCZ,6105Rwt,Rawitsch,1062,JF-16EX,1600,Prussia,Posen,61,5,RAWICZ,Two Jewish families settled in the first half of the 17th cent,,51.61666667,16.86666667,-525257,1077,1885
+GLC_LNC_ZLYN,6228Zly,Zolynia,1508,JF-17EX,1700,Galicia,Lancut,62,28,ZHOLYNIA,Founded in the 18th cent,,50.16666667,22.31666667,-540028,1071,1880
+GLC_JRS_CPLC,6268Cpl,Cieplice,261,POP-1921,1921,Galicia,Jaroslaw,62,68,CIEPLICE,The Jewish pop. in 1921 was 107,,50.25,22.63333333,-497579,107,1921
+BKV_STR_CHRS,6309Crs,Cires,262,JE-18LX,1899,Bukovina,Storojinet,63,9,CIRESI,Jews lived here from the late 19th cent,,48.1,25.6,-1036976,106,1930
+PRU_WST_SZTM,6103Sth,Stuhm,1256,JE-17XX,1700,Prussia,Westpreussen,61,3,STUHM,A Jewish cemetery in S. indicates the presence of Jews there in the 18th cent,,53.93333333,19.03333333,-532311,106,1895
+GLC_NWY_SZCZ,6216Szc,Szczawnica,,CM-1880s,1880s,Galicia,Nowy Targ,62,16,SZCZAWNICA-WYZNA,The Jewish settlement began to grow from the 1880,,49.43333333,20.5,-531857,106,1880
+GLC_CSZ_ULZW,6230Ulz,Ulazow,1360,POP-1921,1921,Galicia,Cieszanow,62,30,ULAZOW,The Jewish pop. in 1921 was 180.,,50.26666667,23,-533977,106,1880
+GLC_BHR_HRBV,6247Grb,Grabowiec,,JE-15XX,1500,Galicia,Bohorodczany,62,47,GRABOWIEC (I),The small Jewish farming community originated perhaps in the 16th cent,,48.75,24.61666667,-1039563,105,1921
+PRU_SCH_SCNW,6101Stn,Steinau an der Oder,1242,POP-1861,1861,Prussia,Schlesien,61,1,STEINAU AN DER ODER,The Jewish community maintained a synagogue from 1861,,51.41666667,16.41666667,-527422,105,1884
+PRU_SCH_CHJN,6101Hyn,Haynau,501,CM-18EX,1800,Prussia,Schlesien,61,1,HAYNAU,The modern community was founded in the early 19th cent,,51.26666667,15.93333333,-497008,105,1867
+GLC_BBR_KHDR,6219Khd,Khodoriv,254,CM-16XX,1600,Galicia,Bobrka,62,19,CHODOROW,The Jewish community dates from the 17th cent,,49.4,24.31666667,-1041452,1049,1880
+PRU_OST_KLPD,6102Mml,Memel,808,JM-1567,1567,Prussia,Ostpreussen,61,2,MEMEL,In 1567 the Jews of M. were expelled,,55.71666667,21.11666667,-2615647,1040,1875
+GLC_BRS_LSYC,6220Lsc,Losiacz,748,POP-1921,1921,Galicia,Borszczow,62,20,LOSIACZ,The Jewish pop. in 1921 was 104.,,48.91666667,26.08333333,-1045013,104,1921
+GLC_SKL_KMYN,6271Kmn,Kamionka,592,POP-1921,1921,Galicia,Skalat,62,71,KAMIONKA,The J. pop. in 1921 was 103,,49.55,26.01666667,-1040778,103,1921
+GLC_TRK_YBLN,6245Jbl_2,Jablonow,,POP-1921,1921,Galicia,Wadowice,62,45,JABLONOW (II),The Jewish pop. in 1921 was 103.,,49.03333333,23.08333333,-1059240,103,1921
+PRU_PMM_BN,6104Bn,Binau,150,JE-17EX,1700,Prussia,Pommern,61,4,BINAU,Jews were present by the late 18th cent,,53.1,14.66666667,-492765,103,1871
+PRU_SCH_CHRZ,6101Kng,Konigshutte,257,CM-18XX,1800,Prussia,Schlesien,61,1,CHORZOW,"Famous for its great ironworks, the town accommodated a Jewish community in the 19th cent",,50.3,18.96666667,-497098,1020,1880
+GLC_DRH_ORV,6222Orw,Orow,944,POP-1921,1921,Galicia,Drohobycz,62,22,OROW,The Jewish pop. in 1921,,49.2,23.53333333,-1049478,101,1921
+GLC_LNC_KRYL,6228Kry,Kurylówka,692,POP-1921,1921,Galicia,Lancut,62,28,KURYLOWKA,The Jewish pop. in 1921 was 101,,50.3,22.46666667,-511964,101,1921
+GLC_JWR_KRKV,6209Krk,Krakovets,670,CM-16XX,1600,Bukovina,Jaworow,62,9,KRAKOWIEC,The 17th cent,,49.96666667,23.16666667,-1043295,1003,1880
+GLC_WLC_SKWN,6218Skw,Skawina,1192,JF-1860,1860,Galicia,Wieliczka,62,18,SKAWINA,Jews did not settle until the residence ban was lifted in 1860,,49.98333333,19.81666667,-528207,100,1890
+GLC_LWW_LVV,6231Lww,Lwow,769,JF-09XX,0900,Galicia,Lwow,62,31,LWOW,The first Jews to settle in L. arrived from Byzantium and Khazaria in the tenth cent,,49.83333333,24,-1045268,44000,44000
+PRU_PSN_PZNN,6105Psn,Posen,1019,JF-10XX,1000,Prussia,Posen,61,5,POZNAN,Jewish refugees may have arrived from Germany after such upheavals as the Rhineland massacres of ...,,52.41666667,16.96666667,-523642,30000,30000
+GLC_KRK_KRKW,6210Crc,Cracow,274,JF-13EX,1300,Galicia,Krakow,62,10,CRACOW,A permanent Jewish settlement is known from the early 14th cent,,50.08333333,19.91666667,-510625,26000,26000
+GLC_KLM_KLMY,6254Klm,Kolomyja,648,CM-15XX,1500,Galicia,Kolomyja,62,54,KOLOMYJA,The Jewish community began to develop in the 16th cent,,48.53333333,25.03333333,-1042414,16568,16568
+GLC_KRK_KZMR,6210Csn,Causanilnoui,235,CE-1760,1760,Galicia,Krakow,62,10,CAUSANILNOUI,A J. community existed here in 1760,,50.05,19.95,-507367,15276,15276
+GLC_ZLK_ZHVK,6246Zlk,Zolkiew,1516,JE-1600,1600,Galicia,Zolkiew,62,46,ZOLKIEW,"Jews, mostly from Lwow, received residence rights in 1600",,50.06666667,23.96666667,-1060777,4000,4000
+GLC_SKL_PDVL,6271Pdw,Podwoloczyska,1010,JF-1860,1860s,Galicia,Skalat,62,71,PODWOLOCZYSKA,Jews were among the founders of the town in the 1860,,49.53333333,26.15,-1051014,3779,3779
+GLC_STN_YZPL,6258Jzp,Jezupol,575,CM-17MX,1750,Galicia,Stare Miasto,62,58,JEZUPOL,An organized Jewish community dates from the mid- 18th cent,,49.03333333,24.78333333,-1060782,3730,3730
+GLC_KMN_KMYN,6267Kmn,Kamionka Strumilowa,593,JM-1456,1456,Galicia,Kamionka Strumilowa,62,67,KAMIONKA STRUMILOWA,Jews are first mentioned in 1456,,50.1,24.35,-1040772,3549,3549
+GLC_KMN_KMYN,6267Kmn,Kamionka Strumilowa,593,JM-1456,1456,Galicia,Kamionka Strumilowa,62,67,KAMIONKA STRUMILOWA,Jews are first mentioned in 1456,,50.1,24.35,-1040772,3549,3549
+GLC_KMN_KMYN,6267Kmn_2,Kamionka,592,POP-1921,1921,Galicia,Kamionka Strumilowa,62,67,KAMIONKA,The Jewish pop. in 1921 was 103.,,50.1,24.35,-1040772,3549,3549
+GLC_KMN_KMYN,6267Kmn_2,Kamionka,592,POP-1921,1921,Galicia,Kamionka Strumilowa,62,67,KAMIONKA,The Jewish pop. in 1921 was 103.,,50.1,24.35,-1040772,3549,3549
+PRU_PMM_SZCZ,6104Stt,Stettin,1244,JM-1261,1261,Prussia,Pommern,61,4,STETTIN,Although Jews are first mentioned in 1261,,53.41666667,14.58333333,-531881,3001,3001
+GLC_GRL_GRLC,6207Grl,Gorlice,443,CE-18EX,1800,Galicia,Gorlice,62,7,GORLICE,An independent community existed from the early 19th cent,,49.66666667,21.16666667,-502493,3000,3000
+GLC_NDW_DLYT,6253Dly,Delyatyn,300,POP-1914,1914,Galicia,Nadworna,62,53,DELATYN,,,48.53333333,24.63333333,-1037591,3000,3000
+GLC_SNK_SNK,6240Snk,Sanok,1135,JF-15EX,1500,Galicia,Sanok,62,40,SANOK,Jews settled in the early 16th cent,,49.56666667,22.2,-527272,3000,3000
+GLC_SKL_SKLT,6271Skl,Skalat,1190,JM-1613,1613,Galicia,Skalat,62,71,SKALAT,Jews are first mentioned in 1613,,49.43333333,25.98333333,-1054147,3000,3000
+GLC_SKL_BLZ,6241Blz,Belz,104,JE-1413,1413,Galicia,Sokal,62,41,BELZ,There 1s a complaint against Jewish tailors in 1413,,50.38333333,24.01666667,-1035317,2872,2872
+PRU_SCH_BYTM,6101Bth,Beuthen,134,JF-12XX,1200,Prussia,Schlesien,61,1,BEUTHEN,Jews arrived in the 13th cent,,50.35,18.96666667,-496464,2638,2638
+GLC_BBR_BBRK,6219Bbr,Bobrka,158,CF-16LX,1699,Galicia,Bobrka,62,19,BOBRKA,The community probably founded in the late 17th cent,,49.63333333,24.3,-1035787,2500,2500
+GLC_JWR_YVRV,6225Jwr,Jaworow,569,JM-15MX,1550,Galicia,Jaworow,62,25,JAWOROW,Jews are mentioned from the mid-16th cent,,49.93333333,23.38333333,-1059578,2400,2400
+GLC_ZYD_RZDL,6260Rzd,Rozdil,1100,JE-16EX,1600,Galicia,Zydaczow,62,60,ROZDOL,Jews were present in the early 17th cent,,49.46666667,24.06666667,-1052499,2262,2262
+GLC_HRD_OBRT,6250Obr,Obertyn,922,JE-16LX,1699,Galicia,Horodenka,62,50,OBERTYN,The Jewish settlement probably dates from the late 17th cent,,48.7,25.16666667,-1049005,2070,2070
+GLC_BCH_BCHN,6219Bch,Bochnia,160,JF-12XX,1200,Galicia,Bochnia,62,19,BOCHNIA,Jews settled in the 13th cent,,49.96666667,20.43333333,-494208,2000,2000
+GLC_DBR_DBRM,6205Dbr,Dobromil,317,JE-15LX,1599,Prussia,Dolina,62,5,DOBROMIL,Jews are recorded from the second half of the 16th cent,,49.56666667,22.78333333,-1037886,2000,2000
+GLC_KLB_KLBS,6201Klb,Kolbuszowa,,JE-15EX,1500,Galicia,Kolbuszowa,62,1,KOLBUSZOWA,Jews were present from the beginning of the settlement in the early 16th cent,,50.25,21.76666667,-508481,2000,2000
+GLC_TLM_TLMC,6259Tlm,Tlumacz,,JE-15LX,1599,Galicia,Tlumacz,62,59,TLUMACZ,Jews are first recorded in the late 16th cent,,48.86666667,25,-1056357,2000,2000
+GLC_TLM_TLMC,6259Tlm,Tlumacz,,JE-15LX,1599,Galicia,Tlumacz,62,59,TLUMACZ,Jews are first recorded in the late 16th cent,,48.86666667,25,-1056357,2000,2000
+GLC_ZLC_PMRY,6275Pmr,Pomorzany,1014,JM-1605,1605,Galicia,Zloczow,62,75,POMORZANY,Jews are first mentioned in 1605,,49.63333333,24.93333333,-1051256,1910,1910
+GLC_KMN_RDKH,6267Rdz,Radziechow,1051,JE-17XX,1700,Galicia,Kamionka Strumilowa,62,67,RADZIECHOW,Jews were present when the town was founded in the 18th cent,,50.28333333,24.65,-1051905,1800,1800
+GLC_CZR_BDNV,6304Bdz,Budzanow,218,JM-1628,1628,Czernowitz,Czortkow,63,4,BUDZANOW,The first Jews are mentioned in 1628,,49.16666667,25.71666667,-1036463,1700,1700
+GLC_ZLK_VLYK,6246Mst,Mosty Wielkie,848,JE-15MX,1550,Galicia,Zolkiew,62,46,MOSTY WIELKIE,"Jews, mainly from Belz, were present from the mid-16th cent",,50.23333333,24.15,-1057704,1611,1611
+GLC_LSK_LTWS,6229Ltw,Lutowiska,768,JF-18EX,1800,Galicia,Lisko,62,29,LUTOWISKA,Jews settled in the early 19th cent,,49.25,22.7,-514791,1570,1570
+GLC_BRD_TPRV,6263Tpr,Toporow,1314,JF-1603,1603,Galicia,Brody,62,63,TOPOROW,Jews appeared with the founding of T. in 1603,,50.11666667,24.71666667,-1056467,1400,1400
+GLC_RW_MHRV,6236Mgr,Magierow,783,JE-15XX,1500,Galicia,Rawa Ruska,62,36,MAGIEROW,Jews were present from the 16th cent,,50.11666667,23.71666667,-1045468,1322,1322
+GLC_MSC_SDVV,6232Sdw,Sadowa Wisznia,1118,JE-15MX,1550,Galicia,Mosciska,62,32,SADOWA WISZNIA,Jews were present from the mid-16th cent,,49.78333333,23.36666667,-1055551,1300,1300
+GLC_RHT_BRSH,6256Brs,Bursztyn,223,JF-16EX,1600,Galicia,Pilzno,62,56,BURSZTYN,Jews probably arrived in the early 17th cent,,49.26666667,24.63333333,-1036656,1216,1216
+GLC_RHT_BKCH,6256Bkc,Bukaczowce,221,CM-17XX,1700,Galicia,Rohatyn,62,56,BUKACZOWCE,A permanent Jewish community developed during the 18th cent,,49.25,24.5,-1036565,1216,1216
+GLC_NSK_RDNK,6233Rdn,Rudnik,1104,CM-16LX,1699,Galicia,Nisko,62,33,RUDNIK,The Jewish community dates from the second half of the 17th cent,,50.43333333,22.25,-526330,1200,1200
+PRU_PSN_INWR,6105Inw,Inowroclaw,549,JM-1447,1447,Prussia,Posen,61,5,INOWROCLAW,Jews are first mentioned in 1447,,52.8,18.26666667,-504453,1157,1157
+GLC_KLS_VNYL,6249Wjn,Wojnilow,1457,CM-16LX,1699,Galicia,Kalusz,62,49,WOJNILOW,The community dating from the late 17th cent,,49.13333333,24.5,-1058967,1115,1115
+GLC_BHR_LYST,6247Lys,Lysiec,777,CM-17XX,1700,Galicia,Bohorodczany,62,47,LYSIEC,The community began to grow in the 18th cent,,48.86666667,24.6,-1044834,1095,1095
+GLC_ZLC_OZRN,6275Ozr,Ozerna,573,CM-18LX,1899,Galicia,Zloczow,62,75,JEZIERNA,The permanent Jewish settlement began to develop in the second half of the 19th cent,,49.63333333,25.33333333,-1049724,1095,1095
+GLC_DBR_BRCZ,6205Brc,Bircza,151,CM-18XX,1800,Galicia,Dobromil,62,5,BIRCZA,A single Jewish family is mentioned as early as 1577,,49.68333333,22.46666667,-493876,1050,1050
+GLC_KRS_KRCZ,6227Krc,Korczyna,658,JF-16EX,1600,Galicia,Krosno,62,27,KORCZYNA,Jews settled in the first half of the 17th cent,,49.71666667,21.81666667,-509777,1026,1026
+GLC_KMN_NVYV,6267Wtk,Witkow Nowy,1450,JE-17EX,1700,Galicia,Kamionka Strumilowa,62,67,WITKOW NOWY,Jews lived there from the early 18th cent,,50.31666667,24.48333333,-1048977,1000,1000
+GLC_LSK_BLGR,6211Blg,Baligrod,81,JF-17LX,1799,Galicia,Lisko,62,11,BALIGROD,The first Jews arrived from Lesko and Sanok in the late 18th cent,,49.33333333,22.28333333,-492736,988,988
+PRU_SCH_RCBR,6101Rtb,Ratibor,1060,JM-1367,1367,Prussia,Schlesien,61,1,RATIBOR,Jews are first mentioned in 1367,,50.08333333,18.2,-524723,948,948
+GLC_KSW_PSTY,6251Pst,Pistyn,998,JF-17XX,1700,Galicia,Kosow,62,51,PISTYN,Jews arrived with the founding of the town in the 18th cent,,48.36666667,25.03333333,-1050697,900,900
+GLC_JWR_WLKO,6225Wlk,Wielkie Oczy,1443,JF-16LX,1699,Galicia,Jaworow,62,25,WIELKIE OCZY,Jews were apparently among the town’s first settlers in the late 17th cent,,50.01666667,23.15,-535046,898,898
+PRU_SCH_LGNC,6101Lgn,Liegnitz,728,JM-1301,1301,Prussia,Schlesien,61,1,LIEGNITZ,Jews are first mentioned in 1301,,51.2,16.2,-512877,877,877
+PRU_PSN_RGZN,6105Rgs,Rogasen,1086,JF-13XX,1300,Prussia,Posen,61,5,ROGOZNO,Jewish settlement probably dates from the 14th cent,,52.75,17.01666667,-525659,834,834
+GLC_JRS_PRCH,6224Prc,Pruchnik,1030,JE-1563,1563,Galicia,Jaroslaw,62,24,PRUCHNIK,Jews are first recorded in 1563,,49.91666667,22.51666667,-523818,800,800
+GLC_TRM_STRS,6273Str,Strusow,1253,JM-1624,1624,Galicia,Trembowla,62,73,STRUSOW,Jews are first mentioned in 1624,,49.33333333,25.61666667,-1055466,735,735
+PRU_PSN_PL,6105Sch_2,Schneidemuehl,1149,CE-15XX,1500,Prussia,Posen,61,5,SCHNEIDEMUEHL,A Jewish community existed in the 16th cent,,53.15,16.75,-521870,653,653
+GLC_MSC_HSKV,6232Hss,Hussakow,536,JM-16XX,1600,Galicia,Mosciska,62,32,HUSSAKOW,Jews are mentioned in  H. from the 17th cent,,49.71666667,23,-1039939,629,629
+PRU_PMM_STRG,6104Str,Stargard,1236,JE-1665,1665,Prussia,Pommern,61,4,STARGARD,Jews were allowed to live and trade in S. after 1665,,53.33333333,15.05,-529996,620,620
+PRU_PSN_TRZC,6105Sch_11,Schoenlanke,1150,JF-1730,1730,Prussia,Posen,61,5,SCHOENLANKE,Jews first settled in S. in 1730.,,53.03333333,16.45,-533257,590,590
+BDN_GRM_KNST,63NAKns,Konstanz,654,POP-1787,1787,Bukovina,,63,,KONSTADT,The Jewish pop. was 86 in 1787,,47.66666667,9.183333333,-1811125,565,565
+GLC_BRD_LPTY,6263Lpt,Lopatyn,748,JF-18EX,1800,Galicia,Brody,62,63,LOPATYN,Jews arrived around the beginning of the 19th cent,,50.21666667,24.85,-1044974,500,500
+GLC_KLB_MJDN,6226Mjd,Majdan,786,CE-18MX,1850,Galicia,Kolbuszowa,62,26,MAJDAN (1),An organized Jewish community existed in the mid-19th cent,,50.38333333,21.75,-515047,500,500
+GLC_WDW_KLWR,6217Klw,Kalwaria Zebrzydowska,589,JE-1772,1772,Galicia,Wadowice,62,17,KALWARIA ZEBRZYDOWSKA,,,49.86666667,19.68333333,-506529,500,500
+GLC_RZS_CZDC,6238Czd,Czudec,290,CE-17LX,1799,Galicia,Rzeszow,62,38,CZUDEC,An  organized community existed from the late 18th cent,,49.95,21.83333333,-498494,410,410
+GLC_CSZ_DZKW,6230Dzk,Dzikow Stary,350,CM-18XX,1800,Galicia,Cieszanow,62,30,DZIKOW STARY,The Jewish community grew to about 500 in the 19th cent,,50.25,22.93333333,-500650,400,400
+PRU_PSN_WGRW,6105Wng,Wongrowitz,,JE-17LX,1799,Prussia,Posen,61,5,WAGROWIEC,Jewish settlement was banned by the Church until the late 18th cent,,52.8,17.2,-534222,400,400
+GLC_TRN_RYGL,6206Ryg,Ryglice,1108,JF-17LX,1799,Galicia,Tarnow,62,6,RYGLICE,Jews settled in the second half of the 18th cent,,49.88333333,21.13333333,-526761,385,385
+GLC_KMN_DBRT,6267Dbr,Dobrotvor,318,CM-15LX,1599,Galicia,Kamionka Strumilowa,62,67,DOBROTWOR,A small Jewish community existed from the second half of  the 16th cent,,50.23333333,24.36666667,-1037903,383,383
+GLC_TRN_TCHW,6206Tch,Tuchow,1338,X,X,Galicia,Tarnow,62,6,TUCHOW,Residence restrictions severely limited Jewish settlement until 1865,,49.9,21.06666667,-533498,378,378
+GLC_KLB_RNZW,6226Rnz,Ranizow,1058,POP-1914,1914,Galicia,Kolbuszowa,62,26,RANIZOW,"The Jewish pop. stood at around 350 until WwI, dropping to 278",,50.26666667,21.98333333,-525174,350,350
+GLC_RZS_NBYL,6238Nby,Niebylec,888,JF-16LX,1699,Galicia,Rzeszow,62,38,NIEBYLEC,Jews first settled around the end of the 17th cent,,49.86666667,21.9,-518042,343,343
+GLC_RW_PTLY,6236Pty,Potylicz,1018,JE-14LX,1499,Galicia,Rawa Ruska,62,36,POTYLICZ,Jews are known from the late 15th cent,,50.23333333,23.56666667,-1051413,335,335
+PRU_SCH_ZRY,6101Shr,Sohrau,1139,CE-17EX,1700,Bukovina,Sereth,61,1,SARBI,A J. community existed here from the early 18th cent,,50.05,18.7,-540040,333,333
+PRU_PSN_SZMC,6105Smt,Samotschin,,,,Prussia,Posen,61,5,,,,53.03333333,17.13333333,-531778,329,329
+GLC_BL_KTY,6201Kty,Kety,616,JF-1860,1860,Galicia,Biala,62,1,KETY,Permanent settlement commenced after the lifting of the residence ban in 1860,,49.88333333,19.23333333,-507514,300,300
+GLC_BRZ_ZKLC,6203Zkl,Zakliczyn,1484,JF-16LX,1699,Galicia,Brzesko,62,3,ZAKLICZYN,Jews settled in the second half of the 17th cent,,49.86666667,20.81666667,-538214,300,300
+GLC_SNK_JSLS,6240Jsl,Jasliska,566,JF-18EX,1800,Galicia,Sanok,62,40,JASLISKA,The first Jews settled in the early 19th cent,,49.45,21.8,-505388,293,293
+GLC_BRZ_CZCH,6203Czc,Czchow,285,CM-18LX,1899,Galicia,Brzesko,62,3,CZCHOW,The community became organized in the late 19th cent,,49.83333333,20.68333333,-498188,252,252
+GLC_PRZ_KRZY,6234Krz,Krzywcza,686,CM-17LX,1799,Galicia,Przemysl,62,34,KRZYWCZA,An organized community developed in the late 18th cent,,49.8,22.55,-511445,250,250
+GLC_JSL_KLCZ,6209Klc,Kolaczyce,645,JE-18LX,1899,Galicia,Jaslo,62,9,KOLACZYCE,Jews were present from the second half of the 19th cent,,49.81666667,21.43333333,-508446,247,247
+GLC_NWY_KRSC,6216Krs,Kroscienko,680,JE-17LX,1799,Galicia,Nowy Targ,62,16,KROSCIENKO,Jews were present in the second half of the 18th cent,,49.43333333,20.41666667,-510987,239,239
+SLS_PLN_CZCH,6201Czc,Czechowice-Dziedzice,350,JF-1860,1860,Silesia,Biala,62,1,DZIEDZICE,After the lifting of  residence restrictions in 1860,,49.91666667,19.01666667,-498198,200,200
+SLS_PLN_CZCH,6201Czc,Czechowice-Dziedzice,350,JF-1860,1860,Silesia,Biala,62,1,DZIEDZICE,After the lifting of  residence restrictions in 1860,,49.91666667,19.01666667,-498198,200,200
+SLS_PLN_CZCH,6219Czc,Czechowice-Dziedzice,285,POP-1900,1900,Silesia,Bobrka,62,19,CZECHOWICE,Jews numbered 94 in 1900,,49.91666667,19.01666667,-498198,200,200
+SLS_PLN_CZCH,6219Czc,Czechowice-Dziedzice,285,POP-1900,1900,Silesia,Bobrka,62,19,CZECHOWICE,Jews numbered 94 in 1900,,49.91666667,19.01666667,-498198,200,200
+GLC_DRH_PDBZ,6222Pdb,Podbuz,,CM-18XX,1800,Galicia,Drohobycz,62,22,PODBUZ,The 19th cent,,49.33333333,23.25,-1050848,200,200
+GLC_NWY_ZKPN,6216Zkp,Zakopane,1484,JF-17LX,1799,Galicia,Ostpreussen,62,16,ZAKOPANE,Jews first settled in the late 18th cent,,49.3,19.96666667,-538221,198,198
+PRU_PSN_ZNMY,6105Snt,Sontheim,1217,JE-1298,1298,Bukovina,Przemysl,61,5,SONTHEIM,The early J. settlement was attacked in the Rindfleisch massacres of 1298,,52.16666667,17.16666667,-538618,135,135
+GLC_KRS_JDLC,6210Jdl,Jedlicze,570,CF-19EX,1900,Bukovina,Krosno,62,10,JEDLICZE,"The Jewish community became organized in the early 20th cent, ",,49.71666667,21.65,-505641,125,125
+BKV_KTZ_VKN,6305Okn,Okna,,,,Bukovina,Kotzman,63,5,,,,48.56666667,25.96666667,-1058236,115,115
+BKV_GRH_ARBR,6208Arb,Arbora,,,,Bukovina,Gurahumora,62,8,,,,47.73333333,25.93333333,-1151210,107,107
+GLC_BRZ_DMRD,6262Dmr,Domaradz,321,JM-1808,1808,Galicia,Brzozow,62,62,DOMARADZ,Jews are first mentioned in 1808,,49.78333333,21.95,-499858,100,100
+GLC_CSZ_BLZC,6204Blz,Belzec,105,JE-18LX,1899,Prussia,Cieszanow,62,4,BELZEC,Jews lived there from the second half of  the 19th cent,,50.38333333,23.43333333,-493151,100,100
+GLC_KMN_DMYT,6267Dmy,Dmytrevka,314,POP-1897,1897,Galicia,Kamionka Strumilowa,62,67,DMITREVKA,The J. pop. in 1897 was 438,,50.2,24.61666667,-1037796,100,100
+GLC_LWW_KKZV,6231Kkz,Kukizow,,,,Galicia,Lwow,62,31,,,,49.93333333,24.26666667,-1044060,100,100
+GLC_MLC_WMPR,6214Wmp,Wampierzow,1423,POP-1921,1921,Galicia,Mosciska,62,14,WAMPIERZOW,In 1921 the Jewish pop. was 101,,50.3,21.26666667,-534329,100,100
+PRU_OST_SLT,6102Slt,Silute,1184,JE-17EX,1700,Prussia,Ostpreussen,61,2,SILUTE,Jews lived here from the late 18th cent,,55.35,21.48333333,-2619111,100,100
+GLC_BRS_LNVT,6220Lnw,Lanowce,705,JF-1569,1569,Galicia,Borszczow,62,20,LANOWCE,Jews probably settled after 1569,,48.85,26,-1044417,50,50
+GLC_BRD_MKLY,6263Myk,Mykolajow,822,JE-18lx,1900,Galicia,Brody,62,63,MIKOLAJOW,Present from the late 19th cent.,,50.35,24.98333333,-1046695,33,33
+BKV_CZR_LKVY,6304Lkw,Lukawitza,,,,Czernowitz,Czernowitz,63,4,,,,48.2,26.08333333,-1045210,26,26
+BKV_SCZ_DNL,6310Dnl,Danila,292,JE-17EX,1700,Bukovina,Suceava,63,10,DANILOVO,Jews probably settled in the late 18th cent,,47.75,26.1,-1157720,9,9
+GLC_BBR_MYKL,6219Myk,Mykolayiv,,,,Galicia,Bobrka,62,19,MIKOLAJOW,,,49.76666667,24.35,-1047644,,
+GLC_BCH_USCS,6202Usc,Uscie Solne,,,,Galicia,Bochnia,62,2,,,,50.11666667,20.53333333,-534104,,
+GLC_BRD_BRYL,6263Bry,Barylow,,,,Galicia,Brody,62,63,,,,50.35,24.88333333,-1034975,,
+BKV_LJNY,6265Ljn,Lujeni,764,JF-17XX,1700,Galicia,Chrzanow,62,65,LUJENI,Jews settled in the 18th cent,,,,,,
+GLC_DBR_KRSC,6221Krs,Kroscienko,,,,Galicia,Dobromil,62,21,KROSCIENKO,,,49.46666667,22.66666667,-510988,,
+GLC_DLN_VYHD,6248Wyg,Wygoda,,,,Galicia,Dolina,62,48,,,,48.93333333,23.91666667,-1059096,,
+BKV_GRH_ILSS,6302Ils,Ilisesti,545,JF-18MX,1850,Galicia,Gurahumora,63,2,ILISESTI,Jews first settled in the mid-19th cent,,47.6,26.05,-1161822,,
+KLC_ZGRZ,6267Zgó,Zagórze,1482,POP-1921,1921,Galicia,Kimpolung,62,67,ZAGORZE,The Jewish pop. in 1921 was 194.,,,,,,
+GLC_KLB_SKLW,6226Skl,Sokolow,1213,JF-1675,1675,Galicia,Kolbuszowa,62,26,SOKOLOW,Jews settled in the late 17th cent.,,50.23333333,22.11666667,-529319,,
+BKV_KTZ_NPLK,6305Npl,Niepolomice,892,JE-17MX,1750,Bukovina,Kotzman,63,5,NIEPOLOMICE,Jews are known from the mid-18th cent,,48.38333333,25.63333333,-1047527,,
+GLC_KRK_KLCZ,6205Klc,Klucznikowice,637,POP-1921,1921,Galicia,Krakow,62,5,KLUCZNIKOWICE,The Jewish pop. in 1921 was 121.,,,,,,
+GLC_KRK_KWCZ,6210Kwc,Kaweczyn Sedziszowski,610,POP-1921,1921,Galicia,Krakow,62,10,KAWECZYN SEDZISZOWSKI,The Jewish pop. in 1921 was 190,,,,,,
+GLC_KRK_LCKO,6210Lck,Lacko,698,POP-X,X,Galicia,Krakow,62,10,LACKO,The Jewish community numbered 232,,,,,,
+GLC_KRK_LPNW,6210Lpn,Lapanow,705,POP-1880,1880,Galicia,Krakow,62,10,LAPANOW,The Jews numbered 230 in 1880 and 114 in 1921,,,,,,
+GLC_KRK_MLWK,6210Mlw,Milowka,825,POP-1880,1880,Galicia,Krakow,62,10,MILOWKA,The Jews numbered 116,,,,,,
+GLC_KRK_OHTNC,6210Och,Ochotnica,924,POP-1921,1921,Galicia,Krakow,62,10,OCHOTNICA,The Jewish pop. in 1921 was 103,,,,,,
+GLC_KRK_OLPN,6210Olp,Olpiny,935,POP-1921,1921,Galicia,Krakow,62,10,OLPINY,The Jewish pop. in 1921 was 185,,,,,,
+GLC_KRK_PWCZ,6210Pwn,Piwniczna,998,JE-17MX,1750,Galicia,Krakow,62,10,PIWNICZNA,Jews lived there from the mid-18th cent,,,,,,
+GLC_KRK_ZDRJ,6210Zdr,Zdroj,,JF-18EX,1800,Galicia,Krakow,62,10,ZDROJ,Jews first settled in the early 19th cent,,,,,,
+LDZ_NWMS,6229Nw,Nowe Miasto,907,CM-16XX,1600,Galicia,Lwow,62,29,NOWE MIASTO,The 17th cent,,,,,,
+LVW_GRMB,6231Grm,Grembow,452,POP-1921,1921,Galicia,Lwow,62,31,GREMBOW,The Jewish pop. in 1921 was 172,,,,,,
+LVW_HCKZ,6231Hcz,Huczko,533,POP-1921,1921,Galicia,Lwow,62,31,HUCZKO,The Jewish pop. in 1921 was 202.,,,,,,
+LVW_HRSZ,6231Hrs,Hruszow,533,POP-1921,1921,Galicia,Lwow,62,31,HRUSZOW,The Jewish pop. in 1921 was 164.,,,,,,
+LVW_ILNK,6231Iln,Ilnik,546,POP-1921,1921,Galicia,Lwow,62,31,ILNIK,Between the World Wars the Jewish community of  a few hundred,,,,,,
+LVW_JWRR,6231Jwr,Jawornik Ruski,569,POP-1921,1921,Galicia,Lwow,62,31,JAWORNIK RUSKI,The Jewish pop. in 1921 was 105.,,,,,,
+LVW_KRKN,6231Krk,Krukienice,681,POP-1921,1921,Galicia,Lwow,62,31,KRUKIENICE,The Jews numbered 231 in 1921,,,,,,
+LVW_LBHRA,6231Lbc,Libuchora,727,POP-1921,1921,Galicia,Lwow,62,31,LIBUCHORA,The Jewish pop. in 1921 was 210.,,,,,,
+LVW_MDYK,6231Mdy,Medyka,804,POP-1921,1921,Galicia,Lwow,62,31,MEDYKA,The Jewish pop. in 1921 was 132.,,,,,,
+LVW_NWMS,6231Nw,Nowe Miasto,907,CM-16XX,1600,Galicia,Lwow,62,31,NOWE MIASTO,The 17th cent,,,,,,
+LVW_PHRSZ,6231Pdh,Podhorodyszcze,1007,POP-1921,1921,Galicia,Lwow,62,31,PODHORODYSZCZE,The Jewish pop. in 1921 was 186.,,,,,,
+LVW_PTKWA,6231Ptk,Piatkowa,986,POP-1921,1921,Galicia,Lwow,62,31,PIATKOWA,The Jewish pop. was 108 in 1921.,,,,,,
+LVW_RZWPW,6231Rzw,Rozwapow,1103,JF-17XX,1700,Galicia,Lwow,62,31,ROZWAPOW,Few Jews settled until the 18th cent,,,,,,
+GLC_LWW_BRSH,6231Brs,Borszzczow,174,JE-16EX,1600,Galicia,Lwow,62,31,BORSZZCCZOW,there is evidence of J. settlement in the 17th cent.,,49.86666667,24.26666667,-1036218,,
+GLC_LWW_KMNP,6231Cmn,Comanesti,269,POP-1930,1930,Galicia,Lwow,62,31,COMANESTI,The J. pop. in 1930 was 121,,49.86666667,24.16666667,-1040820,,
+GLC_LWW_NVRY,6231Nwr,Nawaria,878,CE-16XX,1600,Galicia,Lwow,62,31,NAWARIA,"A community, never exceeding 40-50 families (around a third of the total), existed from the 17th",,49.75,23.93333333,-1047417,,
+GLC_LWW_PDLS,6231Pdl,Podliski Male,,,,Galicia,Lwow,62,31,,,,49.91666667,24.16666667,-1050940,,
+GLC_LWW_PYKL,6231Pkl,Pikulowice,,,,Galicia,Lwow,62,31,,,,49.86666667,24.21666667,-1050595,,
+GLC_MLC_SDKW,6214Sdk,Sadkowa Gora,,,,Galicia,Mielec,62,14,,,,50.38333333,21.33333333,-527083,,
+PRU_OST_JHNBRG,6102Jhn,Johannisburg,576,JF-18EX,1800,Prussia,Ostpreussen,61,2,JOHANNISBURG,Jews settled in Jewish in the first half of the 19th cent,,,,,,
+PRU_OST_JZRN,6102Jzr,Jeziory,574,JF-17EX,1700,Prussia,Ostpreussen,61,2,JEZIORY,J. settlement commenced in the late 17th cent.,,53.98333333,20.75,-505858,,
+PRU_OST_LBAU,6102Lb,Labiau,697,POP-1880,1880,Prussia,Ostpreussen,61,2,LABIAU,The Jewish pop. was 131 in 1880,,,,,,
+PRU_OST_LBST,6102Lbs,Liebstadt,728,POP-1880,1880,Prussia,Ostpreussen,61,2,LIEBSTADT,The Jewish pop. numbered 110 in 1880,,,,,,
+PRU_OST_MHLHS,6102Mhl,Muehlhausen,852,JE-18EX,1800,Prussia,Ostpreussen,61,2,MUEHLHAUSEN,Evidence of a Jewish presence dates from the early 19th cent,,,,,,
+PRU_OST_NKLK,6102Nkl,Nikolaiken,893,CM-18XX,1800,Prussia,Ostpreussen,61,2,NIKOLAIKEN,The Jewish community was apparently established in the 19th cent,,,,,,
+PRU_OST_NRDBG,6102Nrd,Nordenburg,898,JF-1810,1810,Prussia,Ostpreussen,61,2,NORDENBURG,Jews probably came to N. only after 1810.,,,,,,
+PRU_OST_OZRS,6102Drk,Darkehmen,,,,Prussia,Ostpreussen,61,2,,,,54.41666667,22.01666667,-2977271,,
+PRU_OST_PRST,6102Prs,Prostken,1029,POP-1905,1905,Prussia,Ostpreussen,61,2,PROSTKEN,"In 1905, the Jewish pop. of P.  was 82.",,,,,,
+PRU_OST_RSBRG,6102Rsn,Rosenberg,,JE-1811,1811,Prussia,Ostpreussen,61,2,ROSENBERG,Jews were present  from 1811.,,,,,,
+PRU_OST_SMLN,6102Slm,Slomniki,1200,JF-18EX,1800,Prussia,Ostpreussen,61,2,SLOMNIKI,Jews settled in the early 19th cent,,55.08333333,22.58333333,-2619341,,
+PRU_OST_STNC,6102Stn,Stanislawow,1233,JF-1654,1654,Prussia,Ostpreussen,61,2,STANISLAWOW,Jews arrived with the founding of the town in 1654,,53.9,21.06666667,-529688,,
+PRU_OST_ZNTN,6102Znt,Zinten,1512,JF-1810,1810,Bukovina,Pilzno,61,2,ZINTEN,The first Jew was allowed to settle in Z. in 1810.,,,,,,
+PRU_PMM_DMMN,6104Dnn,Dunino,346,JF-1848,1848,Prussia,Pommern,61,4,DUNINO,D. was founded as a J. colony in 1848,,53.9,13.03333333,-1758352,,
+PRU_PMM_GLBD,6104Glb,Golub Dobrzyn,439,CF-1772,1772,Prussia,Pommern,61,4,GOLUB DOBRZYN,,,,,,,
+PRU_PMM_KCBRW,6104Kcb,Kocborowo,640,JE-17EX,1700,Prussia,Pommern,61,4,KOCBOROWO,A number of Jews were present in the early 18th cent,,,,,,
+PRU_PMM_KLLS,6104Kll,Kallies,587,JE-1770,1770,Prussia,Pommern,61,4,KALLIES,Three Jewish families were living in K. in 1770.,,,,,,
+PRU_PMM_LBS,6104Lbs,Labes,697,JM-1705,1705,Prussia,Pommern,61,4,LABES,The first Jews are mentioned in 1705,,,,,,
+PRU_PMM_LNBG,6104Lnb,Lauenburg,709,JE-1752,1752,Prussia,Pommern,61,4,LAUENBURG,"In 1752, there were 15 Jews living in L",,,,-512788,,
+PRU_PMM_LNBG,6104Lnb_2,Lauenburg,709,JE-1752,1752,Prussia,Pommern,61,4,LAUENBURG,"In 1752, there were 15 Jews living in L.",,,,,,
+PRU_PMM_MSSW,6104Mss,Massow,798,JM-1705,1705,Prussia,Pommern,61,4,MASSOW,Jews are mentioned in M. from 1705.,,,,,,
+PRU_PMM_NGDR,6104Ngr,Naugard,877,JM-1692,1692,Prussia,Pommern,61,4,NAUGARD,A Jew under a letter of protection (Schutzbrief) for N. is mentioned in 1692,,,,,,
+PRU_PMM_NRNBRG,6104Nrn,Noerenberg,897,POP-1717,1717,Prussia,Pommern,61,4,NOERENBERG,"In 1717, there were three Jewish families in N. I",,,,,,
+PRU_PMM_PRTZ,6104Pyr,Pyritz,1041,JM-1481,1481,Prussia,Pommern,61,4,PYRITZ,Jews are first mentioned in P. in 1481.,,,,,,
+PRU_PMM_PSWLK,6104Psw,Pasewalk,975,JE-13EX,1300,Prussia,Pommern,61,4,PASEWALK,Evidence of a Jewish presence in P. dates from the first half of the 14th cent,,,,,,
+PRU_PMM_RGNWD,6104Rgn,Regenwalde,1067,JE-1692,1692,Prussia,Pommern,61,4,REGENWALDE,There is evidence from 1692,,,,,,
+PRU_PMM_RTZBR,6104Rtz,Ratzebühr,1061,JE-1737,1737,Prussia,Pommern,61,4,RATZEBUHR,"In 1737, there were three Jewish families living in R. In the 19th cent",,,,,,
+PRU_PMM_WKBR,6104Wcb,Wiecbork,1442,POP-1865,1865,Prussia,Pommern,61,4,WIECBORK,The J. community numbered 312 in 1865,,,,-534874,,
+PRU_PMM_WLLN,6104Wll,Wollin,1460,JF-18XX,1800,Prussia,Pommern,61,4,WOLLIN,Jews only arrived in W. in the 19th cent,,,,,,
+PRU_PSN_FRDN,6105Frd,Fordon,389,JF-15EX,1500,Prussia,Posen,61,5,FORDON,The first Jews settled in the early 16th cent,,53.15,18.18333333,-500955,,
+PRU_PSN_KCNA,6105Exn,Exin,611,JF-15XX,1500,Prussia,Posen,61,5,KCYNIA,Jews settled in the 16th cent,,,,,,
+PRU_PSN_OSTR,6105Ost,Ostrowo,953,JE-1724,1724,Prussia,Posen,61,5,OSTROW WIELKOPOLSKI,Twelve Jews were granted residence and trade rights in 1724,,51.65,17.81666667,-520608,,
+PRU_PSN_PYSZ,6105Pys,Pyszaca,,,,Prussia,Posen,61,5,,,,52.06666667,17.06666667,-524644,,
+BKV_RDT_FRTT,6308N F,Neu Fratautz,,,,Bukovina,Radautz,63,8,,,,47.95,25.85,-1159547,,
+BKV_RDT_ISLV,6308Jzl,Jazlowiec,570,CE-15EX,1500,Bukovina,Radautz,63,8,JAZLOWIEC,he J. community dating from the 16th cent.,,47.76666667,25.96666667,-1161668,,
+BKV_RDT_SCVT,6308Scz,Suczawitza,,,,Bukovina,Radautz,63,8,,,,47.78333333,25.71666667,-1171651,,
+BKV_BNTT,6308Bnt,Baineti,79,POP-1930,1930,Bukovina,Radautz,63,8,BAINETI,,,,,,,
+BKV_BRDNA,6308Brd,Brodina,200,JF-19EX,1900,Bukovina,Rawa Ruska,63,8,BRODINA,Jews settled in the early 20th cent,,,,,,
+PRU_SCH_BBRK,6101Bbr,Bobrek,,,,Prussia,Schlesien,61,1,,,,50.33333333,18.86666667,-494136,,
+PRU_SCH_BHMNN,6101Bhm,Bohumín,165,JM-1655,1655,Prussia,Schlesien,61,1,BOHUMIN,A Jewish soap manufacturer and a Jewish distiller are mentioned in 1655,,49.93333333,18.36666667,-541664,,
+PRU_SCH_BLVC,6101Wgs,Wagstadt,150,JF-18MX,1850,Prussia,Schlesien,61,1,BILOVEC,Jews probably settled in the mid-19th cent,,49.76666667,18.03333333,-541455,,
+PRU_SCH_COSL,6101Csl,Cosel,273,JF-1373,1373,Prussia,Schlesien,61,1,COSEL,Small-scale Jewish settlement began in 1373,,,,,,
+PRU_SCH_CSTSN,6101Tsc,Teschen,240,JM-13LX,1399,Prussia,Schlesien,61,1,CESKY TESIN,Jews are mentioned in the late 14th cent,,49.75,18.61666667,-542918,,
+PRU_SCH_GRZW,6101Lnd,Landsberg,703,JF-1813,1813,Prussia,Schlesien,61,1,LANDSBERG,A small group of Jews from Flatow established a permanent settlement in 1813.,,51.03333333,18.43333333,-502652,,
+PRU_SCH_KMNC,6101Kmn,Kamienica,592,POP-1921,1921,Prussia,Schlesien,61,1,KAMIENICA,The Jewish pop. in 1921 was 118.,,,,,,
+PRU_SCH_KRNV,6101Jgr,Jaegerndorf,679,JM-13LX,1399,Prussia,Schlesien,61,1,KRNOV,Jews are mentioned in the late 14th cent and were expelled in the 16th cent,,50.1,17.71666667,-548181,,
+PRU_SCH_KRPK,6101Krp,Krappitz,,,,Prussia,Schlesien,61,1,,,,50.48333333,17.96666667,-510650,,
+PRU_SCH_KRVN,6101Krv,Karvina,599,JF-18XX,1800,Prussia,Schlesien,61,1,KARVINA,Jews settled in this mining and industrial town in the 19th cent,,49.86666667,18.55,-547039,,
+PRU_SCH_KTCHR,6101Kts,Katscher,604,POP-1787,1787,Prussia,Schlesien,61,1,KATSCHER,The Jewish pop. was 36 in 1787,,,,,,
+PRU_SCH_LBN,6101Lbn,Lauban,709,JF-18MX,1850,Prussia,Schlesien,61,1,LAUBAN,Jewish settlement began no earlier than the mid-19th cent,,,,,,
+PRU_SCH_LBSZ,6101Lbs,Leobschuetz,722,JE-1360,1360,Prussia,Schlesien,61,1,LEOBSCHUETZ,Jewish settlement is known from 1360,,,,,,
+PRU_SCH_LNDK,6101Lnd_4,Landeck,703,JM-1724,1724,Prussia,Schlesien,61,1,LANDECK,Jews are first mentioned in 1724,,,,,,
+PRU_SCH_LNGDRF,6101Lng,Langendorf,704,POP-1900,1900,Prussia,Schlesien,61,1,LANGENDORF,"The Jewish pop. was 75 in 1900, dropping to 35 in 1906.",,,,,,
+PRU_SCH_MLTS,6101Mlt,Militsch,824,JE-16MX,1650,Prussia,Schlesien,61,1,MILITSCH,Individual Jews were present by the mid-17th cent,,,,,,
+PRU_SCH_MRSZ,6101Frd,Friedland,404,POP-1880,1880,Prussia,Schlesien,61,1,FRIEDLAND,The J. pop. was 51 in 1880,,50.66666667,16.18333333,-516397,,
+PRU_SCH_OHLA,6101Ohl,Ohlau,931,JE-1358,1358,Prussia,Schlesien,61,1,OHLAU,Jews settled no later than 1358,,,,,,
+PRU_SCH_OPVA,6101Trp,Troppau,938,JM-1281,1281,Prussia,Schlesien,61,1,OPAVA,Jews are first mentioned in 1281,,49.95,17.91666667,-551934,,
+PRU_SCH_ORLV,6101Orl,Orlau,944,CM-18LX,1899,Prussia,Schlesien,61,1,ORLOVA,The late-19th cent,,49.85,18.43333333,-551990,,
+PRU_SCH_PSKRS,6101Psk,Peiskretscham,979,JF-13XX,1300,Prussia,Schlesien,61,1,PEISKRETSCHAM,Jewish settlement began in the 14th cent,,,,,,
+PRU_SCH_PTSCHN,6101Pts,Pitschen,998,POP-1787,1787,Prussia,Schlesien,61,1,PITSCHEN,The Jewish pop. was 13 in 1787,,,,,,
+PRU_SCH_RSBRG,6101Rsn_2,Rosenberg,,JE-1811,1811,Prussia,Schlesien,61,1,ROSENBERG,Jews were present  from 1811.,,,,,,
+BKV_STR_PNK,6309Pnk,Panka,965,CF-1860,1860,Bukovina,Storojinet,63,9,PANCOTA,A J. community was founded in 1860,,48.16666667,25.65,-1049811,,
+BKV_CRNH,6309Crn,Ciornohuzi,262,POP-1930,1930,Baden,Stryj,63,9,CIORNOHUZI,,,,,,,
+GLC_STR_YLYN,6257Jln,Jelenkowate,,,,Galicia,Stryj,62,57,,,,48.76666667,23.45,A0003,,
+BKV_CMNST,6310Cmr,Comaresti,269,POP-1930,1930,Galicia,Suceava,63,10,COMANESTI,The Jewish pop. in 1930 was 121.,,,,,,
+BKV_PTRT,6310Ptr,Patrauti,982,CE-1916,1916,Galicia,Suceava,63,10,PETRAUTI,A Jewish community existed in 1916,,,,,,
+BKV_SCZ_ITCN,6310Itz,Itzkany,,,,Bukovina,Suceava,63,10,,,,47.68333333,26.25,-1162017,,
+BKV_SCZ_MTCD,6310Mtk,Mitoka Dragomirna,,,,Bukovina,Suceava,63,10,,,,47.73333333,26.25,-1164428,,
+GLC_TRN_DBRW,6244Dbr,Dabrowica,,JE-15EX,1500,Galicia,Tarnobrzeg,62,44,Dabrowica,J. settlement already existed in the early 16th cent.,,50.48333333,21.61666667,-498765,,
+TRP_LSKWC,6272Lsk,Laskowce,708,POP-1921,1921,Galicia,Tarnopol,62,72,LASKOWCE,The Jewish pop. in 1921 was 126.,,,,,,
+TRP_NGRZ,6272Ngr,Nagorzanka,867,POP-1921,1921,Galicia,Tarnopol,62,72,NAGORZANKA,The Jewish pop. in 1921 was 232.,,,,,,
+TRP_NWSSL,6272Nw,Nowe Siolo,908,POP-1921,1921,Galicia,Tarnopol,62,72,NOWE SIOLO,The Jewish pop. was 109 in 1921.,,,,,,
+TRP_ZBRRW,6272Zbr,Zborow,,JE-1680s,1680s,Galicia,Tarnopol,62,72,ZBORROW,Jews were first recorded in Z. in the 1680s,,,,,,
+TRP_ZLNTK,6272Zlt,Zlotniki,1515,JE-15XX,1500,Galicia,Tarnow,62,72,ZLOTNIKI,Jews inhabited the village sporadically from the 16th cent,,,,,,
+GLC_TLM_VYNH,6259Wng,Winograd,1404,JE-17EX,1700,Galicia,Trembowla,62,59,VINOGRAD,A small number of Jews were present in the 18th cent,,48.73333333,24.76666667,-1058305,,
+GLC_TRM_RMNV,6273Rmn,Romanowka,1089,JM-1787,1787,Galicia,Trembowla,62,73,ROMANOV,Jews are first mentioned in 1787,,49.21666667,25.56666667,-1052352,,
+PRU_WST_BLYB,6103Bld,Baldenburg,699,JM-1291,1291,Prussia,Westpreussen,61,3,LADENBURG,Jews are first mentioned in 1291,,53.88333333,16.83333333,-493482,,
+PRU_WST_BSKP,6103Bsc,Bischofswerder,152,JF-17MX,1750,Prussia,Westpreussen,61,3,BISCHOFSWERDER,Jews settled in B. in the mid18th cent,,53.5,19.35,-493923,,
+PRU_WST_GDYN,6103Gdy,Gdynia,420,POP-1921,1921,Prussia,Westpreussen,61,3,GDYNIA,A few dozen Jews were living in G. in 1921.,,54.5,18.55,-501414,,
+PRU_WST_GRDJ,6103Grn,Garnsee,,,,Prussia,Westpreussen,61,3,,,,53.61666667,18.95,-501255,,
+PRU_WST_LNDK,6103Lnd,Landeck,1523,JM-17EX,1724,Prussia,Westpreussen,61,3,LANDECK,Jews are first mentioned in 1724,,,,-512838,,
+PRU_WST_RSSL,6103Rss,Roessel,1085,CE-18EX,1800,Prussia,Westpreussen,61,3,ROESSEL,There is evidence of a Jewish community from the early 19th cent,,,,,,
+BKV_WZN_KRYT,6306Wlc,Wieliczka,1442,JE-13XX,1300,Bukovina,Wiznitz,63,6,WIELICZKA,Jews were active in the town from the 14th cent.,,48.33333333,25.38333333,-1042966,,
+BKV_WZN_VYZH2,6306Wsn,Wisnicz Nowy,1449,CF-16MX,1650,Bukovina,Wiznitz,63,6,WISNICZ NOWY,A large part of the 200-family J. community fled during the mid-17th cent,,48.25,25.18333333,-1058427,,
+GLC_ZLK_ARTS,6246Art,Artasow,54,JF-18MX,1850,Galicia,Zolkiew,62,46,ARCIZ,Jews first settled in the mid-19th cent.,,50.01666667,24.13333333,-1034594,,
+BKV_CNCU,63NACnc,Cincau,262,POP-1930,1930,Bukovina,,63,,CINCAU,,,,,,,
+BKV_IRDNS,63NAIrd,Iordanesti,550,JF-18LX,1899,Bukovina,,63,,IORDANESTI,Jews settled in the late 19th cent,,,,,,
+BKV_ISPS,63NAIsp,Ispas,,JF-18LX,1899,Bukovina,,63,,ISPAS,Jews settled in the late 19th cent,,,,,,
+BKV_MRTT,63NAMrt,Maritei,795,POP-1930,1930,Bukovina,,63,,MARITEI,The Jewish pop. in 1930 was 64,,,,,,
+BKV_PLSC,63NAPls,Plosca,1004,JF-18LX,1899,Bukovina,,63,,PLOSCA,Jews settled in the late 19th cent,,,,,,
