@@ -10,7 +10,7 @@
 48,BSS_BLT_ALXN,ALEXANDRENI,Bessarabia,Rumania,jews_arrived,1850,18MX,Jews first settled in mid-19th cent.,Russian Empire,0304Al1,SHTETLS,28.06666667,47.8
 49,KHR_ALK_OLKS,ALEXANDRIA,Kherson,Ukraine,jews_arrived,1775,17LX,Jews apparently settled in the late 18th cent.,Russian Empire,4702Al1,SHTETLS,33.11666667,48.66666667
 51,KV_CHG_OLKS,ALEXANDROVKA,Kiev,Ukraine,jews_arrived,1775,17LX,Jews apparently arrived in the late 18th cent.,Russian Empire,1612Al1,SHTETLS,32.23333333,48.96666667
-55,PRU_OST_ALL,ALLENSTEIN,East Prussia,Germany,first_mention,1819,1819,First evidence of a J. presence dates from 1819,Ostpreu��,,GLC_PRU,20.48333333,53.78333333
+55,PRU_OST_ALL,ALLENSTEIN,East Prussia,Germany,first_mention,1819,1819,First evidence of a J. presence dates from 1819,Ostpreussen,,GLC_PRU,20.48333333,53.78333333
 60,VLN_TRK_ALV,ALOVE,Vilnius,Lithuania,POP,1923,1923,"In 1923, A. had 78 Jews.",Russian Empire,0407Ol2,SHTETLS,24.2,54.35
 64,KVN_TLS_ALSD,ALSEDZIAI,Kovno,Lithuania,jews_present,1662,1662,Jews were living here in 1662.,Russian Empire,1706Ol1,SHTETLS,22.05,56.03333333
 71,POL_PMR_ALT,ALTDAMM,Pomerania,Germany,first_mention,1481,1481,Letters of protection (Schutzbriefe) for nine Jews in 1481 constitute the first evidence,Congress Poland,,GLC_PRU,14.66666667,53.4
@@ -22,8 +22,8 @@
 109,GLC_KRK_AND,ANDRYCHOW,Cracow,Poland,jews_arrived,1815,18EX,Jews settled in the first half of the 19th cent.,Galicia,,GLC_PRU,19.35,49.85
 110,LMZ_OST_ANDR,ANDRZEJEWO,Lomza,Poland,community_founded,1875,18LX,Founded in the second half of the 19th cent.,Russian Empire,5405An1,SHTETLS,22.16666667,52.85
 111,POL_LDZ_AND,ANDRZEJOW,Lodz,Poland,community_founded,1805,1805,The J. community was founded in 1805,Congress Poland,,GLC_PRU,19.68333333,51.73333333
-113,PRU_OST_ANG,ANGERBURG,East Prussia,Germany,jews_present,1843,1843,The J. pop. grew from 27 in 1843,Ostpreu��,,GLC_PRU,21.73333333,54.21666667
-116,POL_PMR_ANK,ANKLAM,Pomerania,Germany,jews_present,1348,1348,J. moneylenders in A. were burned to death in the Black Death persecutions of 1348��,Congress Poland,,GLC_PRU,13.7,53.86666667
+113,PRU_OST_ANG,ANGERBURG,East Prussia,Germany,jews_present,1843,1843,The J. pop. grew from 27 in 1843,Ostpreussen,,GLC_PRU,21.73333333,54.21666667
+116,POL_PMR_ANK,ANKLAM,Pomerania,Germany,jews_present,1348,1348,J. moneylenders in A. were burned to death in the Black Death persecutions of 1348,Congress Poland,,GLC_PRU,13.7,53.86666667
 118,VLH_OST_ANNP,ANNOPOL,Volhinia,Ukraine,POP,1765,1765,Jews numbered 395 in 1765,Russian Empire,0810An1,SHTETLS,26.9,50.45
 119,WGLC_LBL_ANN,ANNOPOL-RACHOW,Lublin,Poland,jews_arrived,1615,16EX,Jews arrived in the early 17th cent.,West Galicia,,GLC_PRU,21.85,50.88333333
 124,SWL_MRM_ANTN,ANTANAVAS,Suwalki,Lithuania,POP,1923,1923,The J. pop. in 1923 was 192,Russian Empire,5906An1,SHTETLS,23.28333333,54.71666667
@@ -70,7 +70,7 @@
 290,MNS_NVG_BRNV,BARANOWICZE,Minsk,Poland,jews_arrived,1870,1870,Jews began settling ... in the 1870s,Russian Empire,2206Br1,SHTETLS,26.03333333,53.13333333
 291,VLH_ZHT_BRSH,BARASHI,Volhinia,Ukraine,first_mention,1752,1752,A J. community is first mentioned in 1752,Russian Empire,0801Br1,SHTETLS,28.01666667,50.71666667
 303,KVN_TLS_BRST,BARSTYCIAI,Kovno,Lithuania,POP,1923,1923,In 1923 the J. pop. was 87,Russian Empire,1706Br1,SHTETLS,21.86666667,56.16666667
-304,PRU_OST_BRT,BARTENSTEIN,East Prussia,Germany,first_mention,1737,1737,The first evidence of a J. presence ��� dates fro,Ostpreu��,,GLC_PRU,20.81666667,54.25
+304,PRU_OST_BRT,BARTENSTEIN,East Prussia,Germany,first_mention,1737,1737,The first evidence of a J. presence � dates fro,Ostpreussen,,GLC_PRU,20.81666667,54.25
 305,SWL_VLK_BRTN,BARTININKAI,Suwalki,Lithuania,POP,1923,1923,The J. pop. in 1923 was 93 (24% of the total).,Russian Empire,5904Br1,SHTETLS,23.05,54.5
 306,GLC_TRN_BRY,BARYSZ,Tarnopol,Poland,community_present,1875,18LX,from the late 19th cent. on,Galicia,,GLC_PRU,25.26666667,49.03333333
 307,PLT_PRS_BRYS,BARYSZEVKA,Poltava,Ukraine,POP,1897,1897,Jews numbered 462 in 1897,Russian Empire,3311Br1,SHTETLS,31.33333333,50.36666667
@@ -127,7 +127,7 @@
 481,WGLC_LBL_BLG,BILGORAI,Lublin,Poland,jews_present,1575,15LX,dating from the late 16th cent.,West Galicia,,GLC_PRU,22.7,50.55
 491,GLC_LWW_BRC,BIRCZA,Lwow,Poland,first_mention,1577,1577,A single J. family is mentioned as early as 1577,Galicia,,GLC_PRU,22.46666667,49.68333333
 495,KVN_PNV_BRZ,BIRZAI,Kovno,Lithuania,jews_arrived,1615,16EX,Jews first settled in B. at the turn of the 17th cent.,Russian Empire,1704Br1,SHTETLS,24.75,56.2
-497,PRU_OST_BSC,BISCHOFSBURG,East Prussia,Germany,jews_arrived,1800,18XX,J. settlement started probably only in the 19th cent.,Ostpreu��,,GLC_PRU,20.96666667,53.86666667
+497,PRU_OST_BSC,BISCHOFSBURG,East Prussia,Germany,jews_arrived,1800,18XX,J. settlement started probably only in the 19th cent.,Ostpreussen,,GLC_PRU,20.96666667,53.86666667
 499,POL_OST_BSC,BISCHOFSWERDER,East Prussia,Germany,jews_arrived,1750,17MX,Jews settled in B. in the mid-18th cent.,Congress Poland,,GLC_PRU,19.35,53.5
 501,WGLC_LBL_BSK,BISKUPICE,Lublin,Poland,community_present,1750,17MX,A small J. community was present in the mid-18th cent.,West Galicia,,GLC_PRU,22.95,51.13333333
 515,POL_LDZ_BLS,BLASZKI,Lodz,Poland,jews_present,1764,1764,"By 1764, 56 Jews earned their living here",Congress Poland,,GLC_PRU,18.45,51.66666667
@@ -177,7 +177,7 @@
 639,KHR_ALK_BRTL,BRATOLIUBOVKA,Kherson,Ukraine,community_present,1815,18EX,one of the community's two synagogues built in the early 19th cent.,Russian Empire,4702Br1,SHTETLS,32.96666667,48.21666667
 640,KHR_ELZ_BRTS,BRATSKOYE,Kherson,Ukraine,POP,1897,1897,"Jews numbered 241 (total 1,403) in 1897",Russian Empire,4704Br1,SHTETLS,31.58333333,47.86666667
 641,PDL_BRT_BRTS,BRATSLAW,Podolia,Ukraine,jews_arrived,1615,16EX,the town was abandoned by the Jews until the early 17th cent.,Russian Empire,3203Br1,SHTETLS,28.95,48.83333333
-644,PRU_OST_BRU,BRAUNSBERG,East Prussia,Germany,first_mention,1744,1744,The first evidence of Jews dates from 1744.,Ostpreu��,,GLC_PRU,19.83333333,54.38333333
+644,PRU_OST_BRU,BRAUNSBERG,East Prussia,Germany,first_mention,1744,1744,The first evidence of Jews dates from 1744.,Ostpreussen,,GLC_PRU,19.83333333,54.38333333
 657,GRD_BRS_BRST,BREST-LITOVSK,Grodno,Poland,jews_arrived,1350,13MX,Jews probably began to settle in the mid-14th cent.,Russian Empire,1102Br1,SHTETLS,23.7,52.1
 666,EKT_SLV_BRYN,BRIANKA,Yekaterinoslav,Ukraine,POP,1939,1939,The J. pop. in 1939 was 545,Russian Empire,1308Br1,SHTETLS,38.66666667,48.5
 667,ORL_BRN_BRYN,BRIANSK,Orel,Russia,jews_present,1400,14XX,Jews lived in B. in the 15th cent.,Russian Empire,2903Br1,SHTETLS,34.35,53.25
@@ -278,8 +278,8 @@
 919,WGLC_KLC_CPL,CIEPIELOW,Kielce,Poland,community_present,1827,1827,A J. community of 285 existed in 1827,West Galicia,,GLC_PRU,21.56666667,51.25
 920,GLC_LWW_CPL,CIEPLICE,Lwow,Poland,POP,1921,1921,The J. pop. in 1921 was 107,Galicia,,GLC_PRU,22.63333333,50.25
 921,GLC_LWW_CSZ,CIESZANOW,Lwow,Poland,jews_arrived,1615,16EX,Jews settled in the early 17th cent.,Galicia,,GLC_PRU,23.13333333,50.23333333
-923,GLC_KRK_CZK,CIEZKOWICE,Cracow,Poland,community_founded,1875,18LX,The community��� became independent in the late 19th,Galicia,,GLC_PRU,20.96666667,49.78333333
-926,BSS_BND_CMSL,CIMISLIA,Bessarabia,Rumania,community_present,1875,18LX,A J. community developed in the late 19th���,Russian Empire,0303Cm1,SHTETLS,28.78333333,46.51666667
+923,GLC_KRK_CZK,CIEZKOWICE,Cracow,Poland,community_founded,1875,18LX,The community� became independent in the late 19th,Galicia,,GLC_PRU,20.96666667,49.78333333
+926,BSS_BND_CMSL,CIMISLIA,Bessarabia,Rumania,community_present,1875,18LX,A J. community developed in the late 19th�,Russian Empire,0303Cm1,SHTETLS,28.78333333,46.51666667
 931,GLC_LWW_CSN,CISNA,Lwow,Poland,POP,1939,1939,Jews numbered 150 in 1939,Galicia,,GLC_PRU,22.33333333,49.21666667
 938,WGLC_KLC_CML,CMIELOW,Kielce,Poland,jews_arrived,1650,16MX,Jews settled in the mid-17th cent.,West Galicia,,GLC_PRU,21.51666667,50.88333333
 964,GLC_KRK_CRC,CRACOW,Cracow,Poland,jews_present,1315,13EX,A permanent J. settlement is known from the early 14th cent.,Galicia,,GLC_PRU,19.91666667,50.08333333
@@ -423,7 +423,7 @@
 1349,SML_ELN_YLNY,ELNIA,Smolensk,Russia,jews_arrived,1875,18LX,Jews probably settled in the late 19th cent.,Russian Empire,4007Il1,SHTETLS,33.18333333,54.56666667
 1355,VLH_NVG_YMLC,EMILCHINO,Volhinia,Ukraine,jews_arrived,1815,18EX,Jews settled in the early 19th cent.,Russian Empire,0808Em1,SHTETLS,27.8,50.86666667
 1392,KVN_RSS_ERZV,ERZVILKAS,Kovno,Lithuania,jews_arrived,1815,18EX,J. settlement started here early in the 19th cent.,Russian Empire,1705Er1,SHTETLS,22.71666667,55.26666667
-1410,PRU_OST_EYD,EYDTKUHNEN,East Prussia,Germany,community_founded,1870,1870,It maintained a synagogue built in 1870,Ostpreu��,,GLC_PRU,22.73333333,54.63333333
+1410,PRU_OST_EYD,EYDTKUHNEN,East Prussia,Germany,community_founded,1870,1870,It maintained a synagogue built in 1870,Ostpreussen,,GLC_PRU,22.73333333,54.63333333
 1415,WGLC_WRS_FLN,FALENICA,Warsaw,Poland,community_founded,1900,1900,founded a community around 1900,West Galicia,,GLC_PRU,21.23333333,52.16666667
 1416,BSS_BLT_FLST,FALESTI,Bessarabia,Rumania,jews_arrived,1675,16LX,Jews first settled in the late 18th cent.,Russian Empire,0304Fl1,SHTETLS,27.71666667,47.56666667
 1418,POL_PMR_FLK,FALKENBURG,Pomerania,Germany,jews_present,1720,1720,A Jew was present in 1720,Congress Poland,,GLC_PRU,16,53.53333333
@@ -439,7 +439,7 @@
 1496,TRD_EVP_NVSL,FRAYDORF (I),Taurida,Russia,community_founded,1926,1926,founded in 1926 as a J. agricultural settlement,Russian Empire,4104Fr1,SHTETLS,33.6,45.43333333
 1503,POL_PMR_FRN,FREIENWALDE,Pomerania,Germany,jews_present,1705,1705,There was a Jew living in F. in 1705,Congress Poland,,GLC_PRU,15.31666667,53.45
 1511,POL_OST_FRY,FREYSTADT,East Prussia,Germany,community_present,1600,16XX,The consecration of a J. cemetery in the 17th cent. indicates the presence of a community,Congress Poland,,GLC_PRU,19.26666667,53.6
-1515,PRU_OST_FRD,FRIEDLAND,East Prussia,Germany,POP,1880,1880,The J. pop. was 51 in 1880,Ostpreu��,,GLC_PRU,21.01666667,54.45
+1515,PRU_OST_FRD,FRIEDLAND,East Prussia,Germany,POP,1880,1880,The J. pop. was 51 in 1880,Ostpreussen,,GLC_PRU,21.01666667,54.45
 1526,KHR_TRS_ZKHR,FRUNZOVKA,Kherson,Ukraine,jews_present,1897,1897,"The J. pop. in 1897 was 1,732",Russian Empire,4706Zk1,SHTETLS,29.75,47.33333333
 1528,GLC_LWW_FRY,FRYSZTAK,Lwow,Poland,community_founded,1650,16MX,The organized J community dates from the mid-17th cent.,Galicia,,GLC_PRU,21.61666667,49.83333333
 1540,LMZ_LMZ_GC,GACH,Lomza,Poland,community_founded,1815,18EX,"Dating from the early 19th cent., the community",Russian Empire,5401Gt1,SHTETLS,22.25,53.08333333
@@ -460,7 +460,7 @@
 1624,POL_LDZ_GDL,GIDLE,Lodz,Poland,community_present,,,Jews were involved in agriculture and services to Christian pilgrims,Congress Poland,,GLC_PRU,19.48333333,50.96666667
 1626,VLN_VLN_GDRC,GIEDRAICIAI,Vilnius,Lithuania,community_founded,1815,18EX,The J. community dates to the beginning of the 19th cent.,Russian Empire,0401Gd1,SHTETLS,25.28333333,55.08333333
 1627,WGLC_LDZ_GLN,GIELNIOW,Lodz,Poland,POP,1857,1857,The J.pop. in 1857 was 124.,West Galicia,,GLC_PRU,20.48333333,51.4
-1630,PRU_OST_GLG,GILGENBURG,East Prussia,Germany,POP,1880,1880,The J. community numbered 119 Jews in 1880,Ostpreu��,,GLC_PRU,20.05,53.43333333
+1630,PRU_OST_GLG,GILGENBURG,East Prussia,Germany,POP,1880,1880,The J. community numbered 119 Jews in 1880,Ostpreussen,,GLC_PRU,20.05,53.43333333
 1635,KVN_RSS_GRKL,GIRKALNIS,Kovno,Lithuania,POP,1897,1897,The J. pop. was 530 in 1897,Russian Empire,1705Gr1,SHTETLS,23.21666667,55.31666667
 1646,GLC_TRN_GLN,GLINIANY,Tarnopol,Poland,first_mention,1474,1474,Jews are first noted from 1474 as leaseholders,Galicia,,GLC_PRU,24.51666667,49.81666667
 1648,VLH_RVN_HLYN,GLINKI,Volhinia,Poland,POP,1921,1921,"The J. pop. in 1921 was 317 (total 1,134)",Russian Empire,0811Gl1,SHTETLS,26.41666667,50.58333333
@@ -476,7 +476,7 @@
 1663,PDL_VNN_HNVN,GNIVAN,Podolia,Ukraine,jews_present,1800,18XX,Few Jews were present in the 19th cent.,Russian Empire,3204Gn1,SHTETLS,28.33333333,49.1
 1674,PRU_PZN_GLN,GOLANCZ,Poznan,Poland,jews_arrived,1766,1766,Jews first settled in 1766 under a charter of privileges,Posen,,GLC_PRU,17.3,52.95
 1675,TRD_ALS_HLPR,GOLAYA PRISTAN,Taurida,Ukraine,jews_arrived,1815,18EX,Jews probably settled in the early 19th cent.,Russian Empire,4103Gl1,SHTETLS,32.53333333,46.51666667
-1677,PRU_OST_GLD,GOLDAP,East Prussia,Germany,POP,1843,1843,The J. pop. was 60 in 1843,Ostpreu��,,GLC_PRU,22.3,54.3
+1677,PRU_OST_GLD,GOLDAP,East Prussia,Germany,POP,1843,1843,The J. pop. was 60 in 1843,Ostpreussen,,GLC_PRU,22.3,54.3
 1679,POL_LDZ_GLN,GOLINA,Lodz,Poland,jews_present,1715,17EX,Jews lived here in the early 18th cent. after the ban on J. settlement was lifted.,Congress Poland,,GLC_PRU,18.1,52.25
 1680,POL_PMR_GLL,GOLLNOW,Pomerania,Germany,jews_present,1782,1782,"In 1782, there were 62 Jews living in G.",Congress Poland,,GLC_PRU,14.81666667,53.56666667
 1681,GLC_TRN_GLG,GOLOGORY,Tarnopol,Poland,first_mention,1470,1470,Jews are first mentioned in 1470,Galicia,,GLC_PRU,24.71666667,49.75
@@ -484,7 +484,7 @@
 1683,PDL_BLT_HLVN,GOLOVANEVSK,Podolia,Ukraine,jews_arrived,1750,17MX,Jews settled in the mid-18th cent.,Russian Empire,3202Gl2,SHTETLS,30.46666667,48.38333333
 1684,MGL_MST_GLVC,GOLOVCHIN,Mogilev,Belorussia,POP,1765,1765,The J. pop. was 280 in 1765,Russian Empire,2306Gl1,SHTETLS,29.91666667,54.06666667
 1685,POL_PMR_GLU,GOLUB-DOBRZYN,Pomerania,Poland,community_present,1650,16MX,They suffered greatly in the Swedish wars of the mid-17th cent.,Congress Poland,,GLC_PRU,19.05,53.11666667
-1687,POL_WRS_GMB,GOMBIN,Warsaw,Poland,community_founded,1715,17EX,only in the early 18th ��� did J. community life tak,Congress Poland,,GLC_PRU,19.73333333,52.4
+1687,POL_WRS_GMB,GOMBIN,Warsaw,Poland,community_founded,1715,17EX,only in the early 18th � did J. community life tak,Congress Poland,,GLC_PRU,19.73333333,52.4
 1688,MGL_GML_HMYL,GOMEL (I),Mogilev,Belorussia,POP,1920,1920,The J. pop. was 129 (total 140) in 1920,Russian Empire,2303Gm1,SHTETLS,30.98333333,52.43333333
 1692,GRD_BLS_GNDZ,GONIONDZ,Grodno,Poland,jews_present,1600,16XX,Jews were present in the 17th-18th cent.,Russian Empire,1103Gn1,SHTETLS,22.75,53.48333333
 1694,WGLC_LBL_GRJ,GORAJ,Lublin,Poland,first_mention,1626,1626,Jews are first mentioned in 1626,West Galicia,,GLC_PRU,22.66666667,50.71666667
@@ -538,7 +538,7 @@
 1770,POL_LDZ_GRK,GROKHOLICE,Lodz,Poland,jews_arrived,1715,17EX,Jews settled here early in the 18th cent.,Congress Poland,,GLC_PRU,19.36666667,51.33333333
 1772,GLC_KRK_GRM,GROMNIK,Cracow,Poland,jews_present,1850,18MX,Jews were living there in the mid-19th cent.,Galicia,,GLC_PRU,20.96666667,49.85
 1773,KHR_ELZ_KLNY2,GROMOKLEYA,Kherson,Ukraine,community_founded,1850,18MX,founded as a J. colony in the mid-19th cent.,Russian Empire,4704Gr1,SHTETLS,32.31666667,47.9
-1782,PRU_OST_GRS,GROSS-KACKSCHEN,East Prussia,Germany,POP,1895,1895,The J. pop. numbered 205 in 1895,Ostpreu��,,GLC_PRU,22.31666667,54.95
+1782,PRU_OST_GRS,GROSS-KACKSCHEN,East Prussia,Germany,POP,1895,1895,The J. pop. numbered 205 in 1895,Ostpreussen,,GLC_PRU,22.31666667,54.95
 1790,KHR_TRS_VLYK,GROSSULOVO,Kherson,Ukraine,POP,1897,1897,"The J. pop. was 1,201 ... in 1897",Russian Empire,4706Gr2,SHTETLS,29.85,47.08333333
 1795,MNS_SLT_GRZV,GROZOVO,Minsk,Belorussia,jews_present,1808,1808,Twenty-four Jews were present in 1808,Russian Empire,2209Gr2,SHTETLS,27.33333333,53.16666667
 1796,POL_PMR_GRU,GRUDZIONDZ,Pomerania,Poland,community_founded,1600,16XX,The J. community was founded in the 17th cent.,Congress Poland,,GLC_PRU,18.76666667,53.48333333
@@ -549,20 +549,20 @@
 1808,POL_PMR_GUL,GUELZOW,Pomerania,Germany,first_mention,1705,1705,A Jew is first mentioned in 1705,Congress Poland,,GLC_PRU,14.98333333,53.81666667
 1815,EKT_ALK_HLYY,GULAY POLE,Yekaterinoslav,Ukraine,jews_present,1881,1881,Much J. property was destroyed in a May 1881 pogrom,Russian Empire,1302Gl1,SHTETLS,36.25,47.66666667
 1816,LVL_VLK_GLBN,GULBENE,Livonia,Latvia,community_founded,1817,1817,The community was established after WWI,Russian Empire,2102Gl1,SHTETLS,26.75,57.18333333
-1819,PRU_OST_GUM,GUMBINNEN,East Prussia,Germany,jews_arrived,1765,1765,With J. settlement beginning in 1765,Ostpreu��,,GLC_PRU,22.2,54.6
+1819,PRU_OST_GUM,GUMBINNEN,East Prussia,Germany,jews_arrived,1765,1765,With J. settlement beginning in 1765,Ostpreussen,,GLC_PRU,22.2,54.6
 1827,MGL_ORS_GSN,GUSINO,Mogilev,Russia,jews_arrived,1875,18LX,Jews probably settled in the late 19th cent.,Russian Empire,2307Gs1,SHTETLS,31.36666667,54.73333333
-1832,PRU_OST_GUT,GUTTSTADT,East Prussia,Germany,jews_arrived,1814,1814,In 1814 three J. families were permitted to settle permanently.,Ostpreu��,,GLC_PRU,20.4,53.98333333
+1832,PRU_OST_GUT,GUTTSTADT,East Prussia,Germany,jews_arrived,1814,1814,In 1814 three J. families were permitted to settle permanently.,Ostpreussen,,GLC_PRU,20.4,53.98333333
 1834,GLC_STNL_GWZ,GWOZDZIEC,Stanislawow,Poland,first_mention,1635,1635,Jews are first recorded in 1635,Galicia,,GLC_PRU,25.28333333,48.58333333
 1848,SML_GZH_GGRN,GZHATSK,Smolensk,Russia,jews_arrived,1850,18MX,Jews probably settled in the mid-19th cent.,Russian Empire,4004Gz1,SHTETLS,35,55.55
 1877,GRD_PRZ_HJNW,HAJNOWKA,Grodno,Poland,jews_arrived,1875,18LX,Jews first settled in the late 19th cent.,Russian Empire,1107Gn1,SHTETLS,23.58333333,52.73333333
 1879,GLC_STNL_HLC,HALICZ,Stanislawow,Poland,first_mention,1400,14XX,Jews are mentioned from the 15th cent.,Galicia,,GLC_PRU,24.73333333,49.11666667
 1894,POL_PZNW_HMM,HAMMERSTEIN,Posen-West,Germany,POP,1831,1831,The J. pop. ... numbered 142 in 1831,Congress Poland,,GLC_PRU,16.93333333,53.68333333
-1942,PRU_OST_HLS,HEILSBERG,East Prussia,Germany,first_mention,1728,1728,first evidence of a J. presence dates from 1728,Ostpreu��,,GLC_PRU,20.58333333,54.13333333
+1942,PRU_OST_HLS,HEILSBERG,East Prussia,Germany,first_mention,1728,1728,first evidence of a J. presence dates from 1728,Ostpreussen,,GLC_PRU,20.58333333,54.13333333
 1965,VLN_DSN_GRMN,HERMANOVICZE,Vilnius,Poland,jews_present,1875,18LX,Jews were present by the late 19th cent.,Russian Empire,0403Gr1,SHTETLS,27.8,55.4
 2002,VLH_KVL_VLYK,HLUSZA WIELKA,Volhinia,Poland,POP,1921,1921,The J. pop. in 1921 was 224.,Russian Empire,0805Vl1,SHTETLS,25.05,51.81666667
 2003,GLC_STNL_HNZ,HNIZDYCZOW,Stanislawow,Poland,POP,1921,1921,The J. pop. in 1921 was 100.,Galicia,,GLC_PRU,24.11666667,49.35
 2015,VLN_SVN_ADTS,HODUCISZKI,Vilnius,Poland,community_present,1882,1882,Jews from the surrounding villages joined the community in the wake of Czar Alexander III's May Laws of 1882,Russian Empire,0406Gd1,SHTETLS,26.6,55.15
-2035,PRU_OST_HHN,HOHENSTEIN,East Prussia,Germany,jews_present,1831,1831,There was a small J. settlement of eight in 1831,Ostpreu��,,GLC_PRU,20.3,53.58333333
+2035,PRU_OST_HHN,HOHENSTEIN,East Prussia,Germany,jews_present,1831,1831,There was a small J. settlement of eight in 1831,Ostpreussen,,GLC_PRU,20.3,53.58333333
 2040,GRD_VLK_GLBD,HOLOBUDY,Grodno,Poland,community_founded,1875,18LX,founded as a J. farm settlement in the late 1860s,Russian Empire,1105Gl1,SHTETLS,24.21666667,53
 2041,VLH_KVL_HLBY,HOLOBY,Volhinia,Poland,POP,1921,1921,The J. pop. in 1921 was 200,Russian Empire,0805Gl1,SHTETLS,25.01666667,51.08333333
 2042,VLN_OSH_HLSH,HOLSZANY,Vilnius,Poland,jews_arrived,1700,17XX,Jews probably first settled in the 18th cent.,Russian Empire,0405Ol1,SHTETLS,26.01666667,54.25
@@ -601,7 +601,7 @@
 2175,KHR_KHR_INHL,INGULETS,Kherson,Ukraine,community_founded,1809,1809,founded as a J. colony in 1809,Russian Empire,4701In1,SHTETLS,33.25,47.73333333
 2178,POL_LDZ_INW,INOWLODZ,Lodz,Poland,jews_arrived,1537,1537,Jews first settled here in 1537,Congress Poland,,GLC_PRU,20.21666667,51.53333333
 2179,PRU_PZN_INW,INOWROCLAW,Poznan,Poland,first_mention,1447,1447,Jews are first mentioned in 1447,Posen,,GLC_PRU,18.26666667,52.8
-2180,PRU_OST_INS,INSTERBURG,East Prussia,Germany,jews_arrived,1834,1834,The first Jew settled in I. in 1834,Ostpreu��,,GLC_PRU,21.81666667,54.63333333
+2180,PRU_OST_INS,INSTERBURG,East Prussia,Germany,jews_arrived,1834,1834,The first Jew settled in I. in 1834,Ostpreussen,,GLC_PRU,21.81666667,54.63333333
 2181,VLN_VLN_INTR,INTURKE,Vilnius,Lithuania,community_founded,1700,17XX,The J. community began in the 18th cent.,Russian Empire,0401In1,SHTETLS,25.55,55.16666667
 2191,BSS_IZM_IZMY,ISMAIL,Bessarabia,Rumania,jews_arrived,1775,17LX,Jews first settled in the late 18th cent.,Russian Empire,0305Iz1,SHTETLS,28.83333333,45.35
 2198,KV_RDM_IVNK,IVANKOV,Kiev,Ukraine,POP,1789,1789,Jews numbered 73 in 1789,Russian Empire,1607Iv1,SHTETLS,29.9,50.93333333
@@ -660,7 +660,7 @@
 2297,GLC_STNL_JZU,JEZUPOL,Stanislawow,Poland,community_founded,1750,17MX,An organized J. community dates from the mid-18th cent.,Galicia,,GLC_PRU,24.78333333,49.03333333
 2301,VLN_TRK_JZNS,JIEZNAS,Vilnius,Lithuania,jews_arrived,1815,18EX,Jews first settled here in the beginning of the 19th cent.,Russian Empire,0407Ez1,SHTETLS,24.16666667,54.6
 2305,GLC_KRK_JDL,JODLOWA,Cracow,Poland,jews_arrived,1775,17LX,Jews settled in the late 18th cent.,Galicia,,GLC_PRU,21.3,49.86666667
-2308,PRU_OST_JHN,JOHANNISBURG,East Prussia,Germany,jews_arrived,1815,18EX,Jews settled in J. in the first half of the 19th cent.,Ostpreu��,,GLC_PRU,21.8,53.61666667
+2308,PRU_OST_JHN,JOHANNISBURG,East Prussia,Germany,jews_arrived,1815,18EX,Jews settled in J. in the first half of the 19th cent.,Ostpreussen,,GLC_PRU,21.8,53.61666667
 2309,KVN_KVN_JNV,JONAVA,Kovno,Lithuania,jews_arrived,1700,17XX,Jews first settled in the 18th cent.,Russian Empire,1701In1,SHTETLS,24.28333333,55.08333333
 2310,KVN_PNV_JNSK,JONISKELIS,Kovno,Lithuania,jews_arrived,1700,17XX,Jews first settled in the 18th cent.,Russian Empire,1704Ig1,SHTETLS,24.16666667,56.03333333
 2312,KVN_SHV_JNSK,JONISKIS (II),Kovno,Lithuania,jews_arrived,1700,17XX,Jews first settled in the 18th cent.,Russian Empire,1707In1,SHTETLS,23.61666667,56.23333333
@@ -712,14 +712,14 @@
 2413,VLH_KVL_KSHV,KASZOWKA,Volhinia,Poland,jews_present,1648,1648,Jews were present before the Chmielnicki massacres of 1648-49,Russian Empire,0805Ks1,SHTETLS,25.35,51.16666667
 2414,VLH_KRM_KTRY,KATERBURG,Volhinia,Poland,POP,1897,1897,Jews numbered 693 in 1897,Russian Empire,0806Kt1,SHTETLS,25.88333333,50
 2416,KV_ZVN_KTRY,KATERYNYPOL,Kiev,Ukraine,POP,1897,1897,"Jews numbered 1,980 ... in 1897",Russian Empire,1604Ek1,SHTETLS,30.98333333,48.93333333
-2420,PRU_OST_KUK,KAUKEHMEN,East Prussia,Germany,POP,1925,1925,It had 73 members in 1925,Ostpreu��,,GLC_PRU,21.55,55.18333333
+2420,PRU_OST_KUK,KAUKEHMEN,East Prussia,Germany,POP,1925,1925,It had 73 members in 1925,Ostpreussen,,GLC_PRU,21.55,55.18333333
 2421,KVN_KVN_KNS,KAUNAS,Kovno,Lithuania,jews_arrived,1375,13LX,Jews first settled in the late 14th cent.,Russian Empire,1701Kv1,SHTETLS,23.9,54.9
 2424,KVN_VL'_KVRS,KAVARSKAS,Kovno,Lithuania,jews_arrived,1775,17LX,Jews first settled at the end of the 18th cent.,Russian Empire,1702Kv1,SHTETLS,24.91666667,55.43333333
 2425,GLC_KRK_KWC,KAWECZYN SEDZISZOWSKI,Cracow,Poland,POP,1921,1921,The J. pop. in 1921 was 190,Galicia,,GLC_PRU,21.73333333,50.06666667
 2427,WGLC_KLC_KZN,KAZANOW,Kielce,Poland,POP,1857,1857,Jews numbered 469 in 1857,West Galicia,,GLC_PRU,21.46666667,51.28333333
 2428,KV_BRD_KZTY,KAZATIN,Kiev,Ukraine,jews_present,1765,1765,Four Jews were present in 1765,Russian Empire,1602Kz1,SHTETLS,28.83333333,49.71666667
 2429,WGLC_KLC_KZM,KAZIMIERZA WIELKA,Kielce,Poland,community_present,1921,1921,A community of 293 Jews ... existed in 1921,West Galicia,,GLC_PRU,20.48333333,50.26666667
-2430,WGLC_LBL_KZM,KAZIMIERZ DOLNY,Lublin,Poland,community_present,1333,1333,maintained an organized community during the reign of King Casimir the Great (1333��,West Galicia,,GLC_PRU,21.95,51.31666667
+2430,WGLC_LBL_KZM,KAZIMIERZ DOLNY,Lublin,Poland,community_present,1333,1333,maintained an organized community during the reign of King Casimir the Great (1333,West Galicia,,GLC_PRU,21.95,51.31666667
 2431,SWL_MRM_KZLR,KAZLU-RUDA,Suwalki,Lithuania,community_present,1875,18LX,A J. community existed by the second half of the 19th cent.,Russian Empire,5906Kz1,SHTETLS,23.5,54.76666667
 2432,PRU_PZN_KCY,KCYNIA,Poznan,Poland,jews_arrived,1500,15XX,Jews settled in the 16th cent.,Posen,,GLC_PRU,17.48444444,52.99194444
 2437,KVN_KVN_KDN,KEDAINIAI,Kovno,Lithuania,jews_arrived,1475,14LX,Jews first settled at the late 15th cent.,Russian Empire,1701Kd1,SHTETLS,23.96666667,55.28333333
@@ -763,12 +763,12 @@
 2556,GLC_STNL_KNH,KNIHYNICZE,Stanislawow,Poland,jews_arrived,1700,17XX,The J. settlement dating from the 18th cent.,Galicia,,GLC_PRU,24.46666667,49.38333333
 2563,GRD_KBR_KBRY,KOBRYN,Grodno,Poland,jews_present,1503,1503,Jews were present before the expulsion from Lithuania in 1503,Russian Empire,1106Kb1,SHTETLS,24.36666667,52.21666667
 2565,PRU_PZN_KBY,KOBYLIN,Poznan,Poland,community_present,1827,1827,An organized community is mentioned in 1827,Posen,,GLC_PRU,17.23333333,51.71666667
-2566,VLN_SVN_NRCH,KOBYLNIK,Vilnius,Poland,jews_arrived,1807,1807,Jews from the neighboring villages arrived in 1807��,Russian Empire,0406Kb1,SHTETLS,26.68333333,54.93333333
+2566,VLN_SVN_NRCH,KOBYLNIK,Vilnius,Poland,jews_arrived,1807,1807,Jews from the neighboring villages arrived in 1807,Russian Empire,0406Kb1,SHTETLS,26.68333333,54.93333333
 2568,WGLC_LBL_KCK,KOCK,Lublin,Poland,jews_arrived,1675,16LX,Jews settled in the late 17th cent.,West Galicia,,GLC_PRU,22.45,51.63333333
 2570,POL_LBL_KDN,KODEN,Lublin,Poland,jews_arrived,1775,17LX,Jews settled in the late 18th cent.,Congress Poland,,GLC_PRU,23.6,51.9
 2571,VLH_ZHT_KDNY,KODNIA,Volhinia,Ukraine,first_mention,1593,1593,Jews are first mentioned in 1593,Russian Empire,0801Kd1,SHTETLS,28.71666667,50.08333333
 2573,PDL_BLT_KDYM,KODYMA,Podolia,Ukraine,community_present,1815,18EX,A J. community existed by the early 19th cent.,Russian Empire,3202Kd1,SHTETLS,29.11666667,48.1
-2577,PRU_OST_KNG,KOENIGSBERG,East Prussia,Germany,jews_arrived,1650,16MX,J. settlement... began in the middle of the 17th [cent.],Ostpreu��,,GLC_PRU,20.5,54.71666667
+2577,PRU_OST_KNG,KOENIGSBERG,East Prussia,Germany,jews_arrived,1650,16MX,J. settlement... began in the middle of the 17th [cent.],Ostpreussen,,GLC_PRU,20.5,54.71666667
 2583,POL_PMR_KSL,KOESLIN,Pomerania,Germany,first_mention,1699,1699,The first J. family was living in K. in 1699,Congress Poland,,GLC_PRU,16.18333333,54.2
 2588,MGL_ORS_KKHN,KOKHANOVO,Mogilev,Belorussia,POP,1897,1897,The J. pop. was 637 (total 984) in 1897,Russian Empire,2307Kk1,SHTETLS,29.98333333,54.46666667
 2589,LVL_RG_KKNS,KOKNESE,Livonia,Latvia,POP,1935,1935,The J. pop. in 1935 was 16,Russian Empire,2101Kk1,SHTETLS,25.43333333,56.65
@@ -922,7 +922,7 @@
 2857,KVN_RSS_KVDR,KVEDARNA,Kovno,Lithuania,jews_arrived,1600,16XX,Jews first settled here in the 17th cent.,Russian Empire,1705Kn1,SHTETLS,22,55.55
 2859,SWL_VLK_KYBR,KYBARTAI,Suwalki,Lithuania,jews_arrived,1850,18MX,Jews first settled in the 1860s,Russian Empire,5904Kb1,SHTETLS,22.75,54.65
 2864,POL_PMR_LBS,LABES,Pomerania,Germany,first_mention,1705,1705,The first Jews are mentioned in 1705,Congress Poland,,GLC_PRU,15.61666667,53.63333333
-2865,PRU_OST_LBU,LABIAU,East Prussia,Germany,community_founded,1870,1870,The community established a synagogue in the beginning of the 1870s,Ostpreu��,,GLC_PRU,21.1,54.86666667
+2865,PRU_OST_LBU,LABIAU,East Prussia,Germany,community_founded,1870,1870,The community established a synagogue in the beginning of the 1870s,Ostpreussen,,GLC_PRU,21.1,54.86666667
 2867,PRU_PZN_LBS,LABISZYN,Poznan,Poland,jews_arrived,1564,1564,The first Jews settled in 1564,Posen,,GLC_PRU,17.93333333,52.95
 2868,GLC_KRK_LBW,LABOWA,Cracow,Poland,POP,1921,1921,The Jews numbered 221 (total 876) in 1921,Galicia,,GLC_PRU,20.86666667,49.53333333
 2869,VLH_ZSL_YRVS,LABUN,Volhinia,Ukraine,first_mention,1705,1705,Jews are first mentioned in 1705,Russian Empire,0804Lb1,SHTETLS,27.36666667,50.01666667
@@ -937,7 +937,7 @@
 2887,VLH_OST_BLHR,LAKHOVTSY,Volhinia,Ukraine,jews_present,1629,1629,In 1629 the town numbered 37 J.-owned houses,Russian Empire,0810Lk1,SHTETLS,26.41666667,50
 2891,GLC_LWW_LNC,LANCUT,Lwow,Poland,community_present,1575,15LX,A J. community ... existed in the late 16th cent.,Galicia,,GLC_PRU,22.23333333,50.06666667
 2892,GLC_STNL_LNC,LANCZYN,Stanislawow,Poland,POP,1921,1921,The small community numbered 383 ... in 1921,Galicia,,GLC_PRU,24.75,48.55
-2897,PRU_OST_LND,LANDSBERG,East Prussia,Germany,POP,1858,1858,The J. pop. stood at 211 in 1858,Ostpreu��,,GLC_PRU,20.5,54.28333333
+2897,PRU_OST_LND,LANDSBERG,East Prussia,Germany,POP,1858,1858,The J. pop. stood at 211 in 1858,Ostpreussen,,GLC_PRU,20.5,54.28333333
 2911,GLC_KRK_LPN,LAPANOW,Cracow,Poland,POP,1880,1880,The Jews numbered 230 in 1880,Galicia,,GLC_PRU,20.3,49.86666667
 2912,MNS_IGM_LPCH,LAPICHI,Minsk,Belorussia,POP,1811,1811,Jews numbered 24 in 1811,Russian Empire,2204Lp2,SHTETLS,28.55,53.43333333
 2913,LMZ_LMZ_LPY,LAPY,Lomza,Poland,community_founded,1800,18XX,A small community was formed in the 19th cent.,Russian Empire,5401Lp1,SHTETLS,22.86666667,52.98333333
@@ -998,7 +998,7 @@
 3067,WGLC_LBL_LW,LIW,Lublin,Poland,jews_present,1615,16EX,Jews were present by the early 17th cent.,West Galicia,,GLC_PRU,21.96666667,52.38333333
 3070,PRU_PZN_LBZ,LOBZENICA,Poznan,Poland,jews_arrived,1475,14LX,Jews apparently settled in the late 15th cent.,Posen,,GLC_PRU,17.26666667,53.26666667
 3072,POL_LDZ_LDZ,LODZ,Lodz,Poland,jews_arrived,1775,17LX,Jews first settled at the end of the 18th cent.,Congress Poland,,GLC_PRU,19.46666667,51.75
-3074,PRU_OST_LTZ,LOETZEN,East Prussia,Germany,community_founded,1813,1813,A small group of Jews from Flatow established a permanent settlement in 1813.,Ostpreu��,,GLC_PRU,21.76666667,54.03333333
+3074,PRU_OST_LTZ,LOETZEN,East Prussia,Germany,community_founded,1813,1813,A small group of Jews from Flatow established a permanent settlement in 1813.,Ostpreussen,,GLC_PRU,21.76666667,54.03333333
 3075,MNS_RCH_LYW,LOEV,Minsk,Belorussia,jews_arrived,1500,15XX,Jews probably settled in the 16th cent.,Russian Empire,2208Lv1,SHTETLS,30.8,51.93333333
 3078,MNS_BRS_LHYS,LOGOYSK,Minsk,Belorussia,jews_arrived,1715,17EX,Jews probably settled in the first half of the 18th cent.,Russian Empire,2203Lg1,SHTETLS,27.85,54.2
 3079,MNS_PNS_LHSH,LOHISZYN,Minsk,Poland,POP,1897,1897,"The J. pop. numbered 1,587 in 1897",Russian Empire,2207Lg1,SHTETLS,25.98333333,52.33333333
@@ -1031,7 +1031,7 @@
 3138,VLH_RVN_SSNV,LUDWIPOL,Volhinia,Poland,POP,1897,1897,"The Jews numbered 1,210 (of a total 1,498) in 1897",Russian Empire,0811Ld1,SHTETLS,27,50.83333333
 3139,VTB_LTS_LDZ,LUDZA,Vitebsk,Latvia,community_present,1500,15XX,"According to tradition, a small community existed in the 16th cent.",Russian Empire,0507Lt1,SHTETLS,27.71666667,56.55
 3149,STP_LG_LG,LUGA,St. Petersburg,Russia,jews_arrived,1850,18MX,J. settlement probably commenced in the mid-19th cent.,Russian Empire,3703Lg1,SHTETLS,29.85,58.73333333
-3150,VLH_OVR_LHYN,LUGINI,Volhinia,Ukraine,jews_present,1648,1648,Jews were present before the Chmielnicki massacres of 1648��,Russian Empire,0809Lc1,SHTETLS,28.4,51.08333333
+3150,VLH_OVR_LHYN,LUGINI,Volhinia,Ukraine,jews_present,1648,1648,Jews were present before the Chmielnicki massacres of 1648,Russian Empire,0809Lc1,SHTETLS,28.4,51.08333333
 3153,KV_LPV_LKSH,LUKASHEVKA,Kiev,Ukraine,POP,1765,1765,Jews numbered 35 in 1765,Russian Empire,1606Lk1,SHTETLS,29.75,49.16666667
 3154,MGL_SNN_LKML,LUKOML,Mogilev,Belorussia,POP,1766,1766,The J. pop. was 131 in 1766,Russian Empire,2309Lk1,SHTETLS,29.15,54.7
 3157,WGLC_LBL_LUK,LUKOWA,Lublin,Poland,jews_present,18xx,18xx,Jews were present in the 19th cent.,West Galicia,,GLC_PRU,22.95,50.36666667
@@ -1046,7 +1046,7 @@
 3176,PRU_PZN_LWW,LWOWEK,Poznan,Poland,jews_arrived,1575,15LX,Jews settled in the late 16th cent.,Posen,,GLC_PRU,16.18333333,52.45
 3177,MGL_GRK_LYDY,LYADY,Mogilev,Belorussia,first_mention,1750,17MX,Jews are first mentioned in the mid-18th cent.,Russian Empire,2304Ld1,SHTETLS,31.16666667,54.6
 3178,PDL_MGL_ZRCH,LYANTSKORUN,Podolia,Ukraine,POP,1765,1765,The J. pop. was 609 in 1765,Russian Empire,3208Ln1,SHTETLS,26.38333333,48.9
-3179,PRU_OST_LYC,LYCK,East Prussia,Germany,jews_present,1698,1698,as early as 1698 there is evidence of the presence of J. traders,Ostpreu��,,GLC_PRU,22.36222222,53.82138889
+3179,PRU_OST_LYC,LYCK,East Prussia,Germany,jews_present,1698,1698,as early as 1698 there is evidence of the presence of J. traders,Ostpreussen,,GLC_PRU,22.36222222,53.82138889
 3180,KVN_RSS_LYDV,LYDUVENAI,Kovno,Lithuania,jews_present,1662,1662,There were several Jews here in 1662,Russian Empire,1705Ld1,SHTETLS,23.1,55.5
 3181,KVN_SHV_LYGM,LYGUMAI,Kovno,Lithuania,jews_arrived,1700,17XX,Jews first settled in the 18th cent.,Russian Empire,1707Lg1,SHTETLS,23.65,56
 3185,KV_ZVN_LYSY,LYSIANKA,Kiev,Ukraine,jews_arrived,1675,16LX,Jews settled in the late 17th cent.,Russian Empire,1604Ly1,SHTETLS,30.83333333,49.25
@@ -1194,7 +1194,7 @@
 3629,POL_WRS_NSL,NASIELSK,Warsaw,Poland,first_mention,1600,16XX,Jews are first mentioned in the 17th cent.,Congress Poland,,GLC_PRU,20.8,52.58333333
 3634,POL_PMR_NUG,NAUGARD,Pomerania,Germany,first_mention,1692,1692,A Jew under a letter of protection ... is mentioned in 1692,Congress Poland,,GLC_PRU,15.11666667,53.66666667
 3639,GLC_LWW_NWR,NAWARIA,Lwow,Poland,community_present,1600,16XX,A community ... existed from the 17th cent.,Galicia,,GLC_PRU,23.93333333,49.75
-3656,PRU_OST_NDN,NEIDENBURG,East Prussia,Germany,first_mention,1775,17LX,The first protected Jew was allowed to live in N. in the second half of the 18th cent.,Ostpreu��,,GLC_PRU,20.43333333,53.36666667
+3656,PRU_OST_NDN,NEIDENBURG,East Prussia,Germany,first_mention,1775,17LX,The first protected Jew was allowed to live in N. in the second half of the 18th cent.,Ostpreussen,,GLC_PRU,20.43333333,53.36666667
 3661,KVN_RSS_NMKS,NEMAKSCIAI,Kovno,Lithuania,jews_arrived,1600,16XX,Jews first settled in the 17th cent.,Russian Empire,1705Nm1,SHTETLS,22.76666667,55.43333333
 3664,PDL_BRT_NMYR,NEMIROV,Podolia,Ukraine,community_founded,1575,15LX,The J. community originated around the turn of the 16th cent.,Russian Empire,3203Nm1,SHTETLS,28.85,48.96666667
 3665,VLN_TRK_NMNT,NEMUNAITIS,Vilnius,Lithuania,POP,1897,1897,The J. pop. in 1897 was 361,Russian Empire,0407Nm2,SHTETLS,24.03333333,54.3
@@ -1216,7 +1216,7 @@
 3744,POL_WRS_NSZ,NIESZAWA,Warsaw,Poland,community_founded,1750,17MX,J. communal life began in the mid-18th cent.,Congress Poland,,GLC_PRU,18.9,52.83333333
 3747,CHR_NZH_NZHY,NIEZHIN,Chernigov,Ukraine,jews_arrived,1615,16EX,Jews settled in the early 17th cent.,Russian Empire,4811Nz1,SHTETLS,31.88333333,51.05
 3751,KHR_KHR_MYKL,NIKOLAIEV,Kherson,Ukraine,jews_arrived,1775,17LX,Jews settled with the founding of the city in the late 18th cent.,Russian Empire,4701Nk1,SHTETLS,32,46.96666667
-3752,PRU_OST_NKL,NIKOLAIKEN,East Prussia,Germany,community_founded,1800,18XX,The J. community was apparently established in the 19th cent.,Ostpreu��,,GLC_PRU,21.58333333,53.8
+3752,PRU_OST_NKL,NIKOLAIKEN,East Prussia,Germany,community_founded,1800,18XX,The J. community was apparently established in the 19th cent.,Ostpreussen,,GLC_PRU,21.58333333,53.8
 3753,PDL_PRS_NKLY,NIKOLAYEV,Podolia,Ukraine,jews_present,1575,15LX,Jews were present from the late 16th cent.,Russian Empire,3210Nk1,SHTETLS,26.85,49.58333333
 3754,EKT_EKT_NKPL,NIKOPOL,Yekaterinoslav,Ukraine,first_mention,1780,1780,Jews are first mentioned in the 1780s.,Russian Empire,1301Nk1,SHTETLS,34.4,47.56666667
 3759,GLC_LWW_NSK,NISKO,Lwow,Poland,jews_arrived,1775,17LX,Jews first settled in the late 18th cent.,Galicia,,GLC_PRU,22.15,50.53333333
@@ -1227,7 +1227,7 @@
 3767,GLC_STNL_NZN,NIZNIOW,Stanislawow,Poland,jews_arrived,1600,16XX,Jews settled with the founding of the town in the 17th cent.,Galicia,,GLC_PRU,25.08333333,48.95
 3773,POL_PMR_NRN,NOERENBERG,Pomerania,Germany,jews_present,1717,1717,"In 1717, there were three J. families",Congress Poland,,GLC_PRU,15.55194444,53.43666667
 3774,TRD_BRD_PRYM,NOGAYSK,Taurida,Ukraine,POP,1897,1897,Jews numbered 508 ... in 1897,Russian Empire,4102Ng1,SHTETLS,36.35,46.73333333
-3779,PRU_OST_NRD,NORDENBURG,East Prussia,Germany,jews_arrived,1915,19EX,Jews probably came to N. only after 1810,Ostpreu��,,GLC_PRU,21.00027778,54.26805556
+3779,PRU_OST_NRD,NORDENBURG,East Prussia,Germany,jews_arrived,1915,19EX,Jews probably came to N. only after 1810,Ostpreussen,,GLC_PRU,21.00027778,54.26805556
 3785,VLH_OVR_NRNS,NORINSK,Volhinia,Ukraine,jews_arrived,1615,16EX,Jews settled in the early 17th cent.,Russian Empire,0809Nr2,SHTETLS,28.6,51.26666667
 3787,MGL_GML_NSVC,NOSOVICHI,Mogilev,Belorussia,POP,1847,1847,Jews numbered 382 in 1847,Russian Empire,2303Ns1,SHTETLS,31.26666667,52.26666667
 3788,CHR_NZH_NSVK,NOSOVKA,Chernigov,Ukraine,jews_present,1850,18MX,A few Jews were probably present in the first half of the 19th cent.,Russian Empire,4811Ns1,SHTETLS,31.58333333,50.93333333
@@ -1297,7 +1297,7 @@
 3975,WGLC_KLC_OLK,OLKUSZ,Kielce,Poland,jews_present,1300,13XX,Jews were leasing mines in the area in the 14th cent.,West Galicia,,GLC_PRU,19.56666667,50.28333333
 3978,GLC_KRK_OLP,OLPINY,Cracow,Poland,POP,1921,1921,The J. pop. in 1921 was 185,Galicia,,GLC_PRU,21.2,49.8
 3979,KV_ZVN_OLSH,OLSHANA,Kiev,Ukraine,POP,1765,1765,Jews numbered 26 in 1765,Russian Empire,1604Ol1,SHTETLS,31.21666667,49.21666667
-3980,PRU_KLC_OLS,OLSZTYN,Kielce,Poland,first_mention,1764,1764,Jews are first mentioned in 1764,Ostpreu��,,GLC_PRU,,
+3980,PRU_KLC_OLS,OLSZTYN,Kielce,Poland,first_mention,1764,1764,Jews are first mentioned in 1764,Ostpreussen,,GLC_PRU,,
 3982,VLH_DBN_OLYK,OLYKA,Volhinia,Poland,jews_present,1550,15MX,Jews were present from the mid-16th cent.,Russian Empire,0803Ol1,SHTETLS,25.81666667,50.71666667
 3988,KVN_NVL_ONSK,ONUSKIS (II),Kovno,Lithuania,jews_arrived,1750,17MX,J. settlement began in the mid-18th cent.,Russian Empire,1703Gn1,SHTETLS,25.53333333,56.13333333
 3989,VLN_TRK_ONSK,ONUSKIS (I),Vilnius,Lithuania,POP,1897,1897,The J. pop. in 1897 was 217,Russian Empire,0407Gn1,SHTETLS,24.6,54.48333333
@@ -1316,7 +1316,7 @@
 4018,VLN_LD_ORLY,ORLA (II),Vilnius,Poland,first_mention,1657,1657,Jews are first mentioned in 1657,Russian Empire,0404Or1,SHTETLS,24.98333333,53.5
 4024,GLC_LWW_ORW,OROW,Lwow,Poland,POP,1921,1921,The J. pop. in 1921 was 101,Galicia,,GLC_PRU,23.53333333,49.2
 4025,MGL_ORS_ORSH,ORSHA,Mogilev,Belorussia,first_mention,1500,15XX,Jews are first mentioned in the 16th cent.,Russian Empire,2307Or2,SHTETLS,30.4,54.51666667
-4027,PRU_OST_ORT,ORTELSBURG,East Prussia,Germany,jews_arrived,1768,1768,The first Jews were allowed to settle in O. in 1768,Ostpreu��,,GLC_PRU,21,53.56666667
+4027,PRU_OST_ORT,ORTELSBURG,East Prussia,Germany,jews_arrived,1768,1768,The first Jews were allowed to settle in O. in 1768,Ostpreussen,,GLC_PRU,21,53.56666667
 4032,POL_LDZ_OSK,OSIAKOW,Lodz,Poland,community_founded,1775,17LX,A community was established here in the second half of the 18th cent.,Congress Poland,,GLC_PRU,18.8,51.28333333
 4033,WGLC_LBL_OSC,OSIECK,Lublin,Poland,community_present,1815,18EX,A small community existed in the early 19th cent.,West Galicia,,GLC_PRU,21.41666667,51.96666667
 4034,GLC_KRK_OSK,OSIEK (I),Cracow,Poland,community_present,1875,18LX,An organized J. community of around 50 families ... existed through the second half of the 19th cent.,Galicia,,GLC_PRU,21.48333333,49.63333333
@@ -1326,7 +1326,7 @@
 4041,GLC_STNL_OSL,OSLAW BIALY,Stanislawow,Poland,POP,1921,1921,The J. pop. in 1921 was 187.,Galicia,,GLC_PRU,24.7,48.5
 4045,VLH_RVN_OSV,OSOWA WYSZKA,Volhinia,Poland,community_founded,1836,1836,"founded as a J. farm settlement in 1836 when 137 Jews purchased around 7,000 acres",Russian Empire,0811Os1,SHTETLS,25.96666667,51.08333333
 4048,CHR_OST_OSTR,OSTER,Chernigov,Ukraine,jews_present,1600,16XX,J. lessees appeared in the 17th cent.,Russian Empire,4812Os1,SHTETLS,30.88333333,50.95
-4050,PRU_OST_OST,OSTERODE,East Prussia,Germany,jews_arrived,1715,17EX,Jews settled in O. at the beginning of the 18th cent.,Ostpreu��,,GLC_PRU,19.98333333,53.7
+4050,PRU_OST_OST,OSTERODE,East Prussia,Germany,jews_arrived,1715,17EX,Jews settled in O. at the beginning of the 18th cent.,Ostpreussen,,GLC_PRU,19.98333333,53.7
 4054,VLH_OST_OSTR,OSTROG,Volhinia,Poland,jews_arrived,1375,13LX,Jews began to settle in the late 14th cent.,Russian Empire,0810Os1,SHTETLS,26.51666667,50.33333333
 4057,LMZ_OST_OSTR,OSTROLENKA,Lomza,Poland,community_founded,1775,17LX,Towards the end of the 18th cent. Jews established a community,Russian Empire,5406Os1,SHTETLS,21.56666667,53.08333333
 4058,VLH_NVG_OSTR,OSTROPOL,Volhinia,Ukraine,POP,1765,1765,"In 1765, the J. pop. was 58",Russian Empire,0808Os1,SHTETLS,27.56666667,49.8
@@ -1468,7 +1468,7 @@
 4361,POL_LDZ_PRS,PRASZKA,Lodz,Poland,jews_arrived,1615,16EX,first settled in the early 17th cent.,Congress Poland,,GLC_PRU,18.46666667,51.05
 4363,VTB_DVN_PRL,PREILI,Vitebsk,Latvia,jews_present,1815,18EX,present from the beginnings of the town in the early 19th cent.,Russian Empire,0504Pr1,SHTETLS,26.71666667,56.3
 4369,POL_PZNW_PRU,PREUSSISCH-FRIEDLAND,Posen-West,Germany,jews_present,1815,18EX,"At the beginning of the 19th cent., 14 J. families were living in the town",Congress Poland,,GLC_PRU,17.23333333,53.53333333
-4370,PRU_OST_PRU,PREUSSISCH-HOLLAND,East Prussia,Germany,jews_arrived,1675,16LX,Jews settled in P. towards the end of the 17th cent.,Ostpreu��,,GLC_PRU,19.66666667,54.06666667
+4370,PRU_OST_PRU,PREUSSISCH-HOLLAND,East Prussia,Germany,jews_arrived,1675,16LX,Jews settled in P. towards the end of the 17th cent.,Ostpreussen,,GLC_PRU,19.66666667,54.06666667
 4377,CRL_GRB_PRKL,PRIEKULE,Courland,Latvia,jews_present,1915,19EX,A few dozen Jews lived there after WWI,Russian Empire,1906Pr1,SHTETLS,21.58333333,56.43333333
 4378,SWL_MRM_PRN,PRIENAI,Suwalki,Lithuania,jews_arrived,1400,14XX,Jews first settled in the 15th cent.,Russian Empire,5906Pr1,SHTETLS,23.95,54.63333333
 4381,PLT_PRL_PRYL,PRILUKI,Poltava,Ukraine,community_founded,1675,16LX,It was renewed at the end of the cent.,Russian Empire,3313Pr1,SHTETLS,32.4,50.6
@@ -1476,7 +1476,7 @@
 4387,EKT_MRP_PRLT,PROLETARSKOYE,Yekaterinoslav,Ukraine,community_founded,1848,1848,founded P. as a J. colony in 1848,Russian Empire,1305Gr1,SHTETLS,36.83333333,47.51666667
 4388,MGL_STR_SLWH,PROPOISK,Mogilev,Belorussia,jews_arrived,1500,15XX,Jews settled in the 16th cent.,Russian Empire,2302Pr1,SHTETLS,31,53.45
 4389,PDL_PRS_KHML,PROSKUROV,Podolia,Ukraine,first_mention,1629,1629,Jews are first mentioned in 1629,Russian Empire,3210Pr1,SHTETLS,27,49.41666667
-4391,PRU_OST_PRS,PROSTKEN,East Prussia,Germany,POP,1905,1905,"In 1905, the J. pop. of P. was 82",Ostpreu��,,GLC_PRU,22.41666667,53.68333333
+4391,PRU_OST_PRS,PROSTKEN,East Prussia,Germany,POP,1905,1905,"In 1905, the J. pop. of P. was 82",Ostpreussen,,GLC_PRU,22.41666667,53.68333333
 4392,POL_LBL_PRS,PROSTYN,Lublin,Poland,jews_arrived,1875,18LX,Jews probably arrived in the late 19th cent.,Congress Poland,,GLC_PRU,21.98333333,52.66666667
 4393,WGLC_KLC_PRS,PROSZOWICE,Kielce,Poland,first_mention,1815,18EX,first mentioned only in the early 19th cent.,West Galicia,,GLC_PRU,20.3,50.2
 4394,GLC_LWW_PRU,PRUCHNIK,Lwow,Poland,first_mention,1563,1563,Jews are first recorded in 1563,Galicia,,GLC_PRU,22.51666667,49.91666667
@@ -1531,7 +1531,7 @@
 4503,GLC_LWW_RNZ,RANIZOW,Lwow,Poland,POP,,,The J. pop. stood at around 350 until WwI,Galicia,,GLC_PRU,21.98333333,50.26666667
 4504,KVN_RSS_RSN,RASEINIAI,Kovno,Lithuania,jews_arrived,1600,16XX,Jews first settled in the 17th cent.,Russian Empire,1705Rs1,SHTETLS,23.11666667,55.36666667
 4505,PDL_OLG_RSCV,RASHKOV,Podolia,Ukraine,jews_arrived,1715,17EX,Jews settled in the early 18th cent.,Russian Empire,3209Rs1,SHTETLS,28.83333333,47.95
-4508,PRU_OST_RST,RASTENBURG,East Prussia,Germany,jews_arrived,1815,18EX,Jews settled in R. in the early 19th cent.,Ostpreu��,,GLC_PRU,21.38333333,54.08333333
+4508,PRU_OST_RST,RASTENBURG,East Prussia,Germany,jews_arrived,1815,18EX,Jews settled in R. in the early 19th cent.,Ostpreussen,,GLC_PRU,21.38333333,54.08333333
 4513,VLH_KVL_RTN,RATNO,Volhinia,Poland,first_mention,1516,1516,Jews are first recorded in 1516,Russian Empire,0805Rt1,SHTETLS,24.51666667,51.66666667
 4514,POL_PMR_RTZ,RATZEBUHR,Pomerania,Germany,jews_present,1737,1737,"In 1737, there were three J. families living in R.",Congress Poland,,GLC_PRU,16.85,53.53333333
 4518,POL_LDZ_RWM,RAWA MAZOWIECKA,Lodz,Poland,first_mention,1547,1547,The Jews were victims of a blood libel in 1547,Congress Poland,,GLC_PRU,20.25,51.76666667
@@ -1549,7 +1549,7 @@
 4578,POL_OST_RSN,RIESENBURG,East Prussia,Germany,jews_present,1700,1700,Individual Jews lived in R. already around 1700,Congress Poland,,GLC_PRU,19.21666667,53.76666667
 4579,KVN_RSS_RTVS,RIETAVAS,Kovno,Lithuania,jews_arrived,1500,15XX,Jews first settled in the 16th cent.,Russian Empire,1705Rt1,SHTETLS,21.93333333,55.73333333
 4580,LVL_RG_RG,RIGA,Livonia,Latvia,jews_present,1500,15XX,J. merchants began to appear in the city in the 16th cent.,Russian Empire,2101Rg1,SHTETLS,24.1,56.95
-4599,PRU_OST_RSS,ROESSEL,East Prussia,Germany,community_present,1815,18EX,evidence of a J. community from the early 19th cent.,Ostpreu��,,GLC_PRU,21.14583333,54.05138889
+4599,PRU_OST_RSS,ROESSEL,East Prussia,Germany,community_present,1815,18EX,evidence of a J. community from the early 19th cent.,Ostpreussen,,GLC_PRU,21.14583333,54.05138889
 4600,MGL_RGC_RHCH,ROGACHEYV (I),Mogilev,Belorussia,POP,1766,1766,There were 200 J. poll tax payers in 1766,Russian Empire,2308Rg1,SHTETLS,30.05,53.08333333
 4603,PRU_PZN_RGZ,ROGOZNO,Poznan,Poland,jews_arrived,1300,13XX,J. settlement probably dates from the 14th cent.,Posen,,GLC_PRU,17.01666667,52.75
 4604,GLC_STNL_RHT,ROHATYN,Stanislawow,Poland,community_present,1550,15MX,The J. community dates from the mid-16th cent.,Galicia,,GLC_PRU,24.61666667,49.41666667
@@ -1633,7 +1633,7 @@
 4838,KVN_SHV_SKN,SAUKENAI,Kovno,Lithuania,jews_arrived,1700,17XX,Jews first settled ... in the 18th cent.,Russian Empire,1707Sv1,SHTETLS,22.88333333,55.8
 4842,PDL_BLT_SVRN,SAVRAN,Podolia,Ukraine,POP,1765,1765,The J. pop. was 150 in 1765,Russian Empire,3202Sv1,SHTETLS,30.08333333,48.13333333
 4843,WGLC_LBL_SWN,SAWIN,Lublin,Poland,POP,1921,1921,"In 1921, the J. pop. ... was 236",West Galicia,,GLC_PRU,23.43333333,51.26666667
-4854,PRU_OST_SCH,SCHIPPENBEIL,East Prussia,Germany,community_present,1880,1880,"In 1868, a J. ... (affiliations and numbers given by 1880)",Ostpreu��,,GLC_PRU,21,54.26666667
+4854,PRU_OST_SCH,SCHIPPENBEIL,East Prussia,Germany,community_present,1880,1880,"In 1868, a J. ... (affiliations and numbers given by 1880)",Ostpreussen,,GLC_PRU,21,54.26666667
 4855,POL_PMR_SCH,SCHIVELBEIN,Pomerania,Germany,first_mention,1700,1700,Mention of the first J. family... after 1700,Congress Poland,,GLC_PRU,15.78333333,53.76666667
 4861,POL_PZNW_SCH,SCHLOPPE,Posen-West,Germany,first_mention,1674,1674,documentary evidence of 28 Jews... in 1674,Congress Poland,,GLC_PRU,16.11666667,53.08333333
 4870,GLC_LWW_SCH,SCHODNICA,Lwow,Poland,POP,1921,1921,"their pop. growing from 122 (total 988) in 1880 to 689 (total 2,726) in 1921",Galicia,,GLC_PRU,23.35,49.23333333
@@ -1654,7 +1654,7 @@
 4932,POL_PMR_SMP,SEMPOLNO,Pomerania,Poland,jews_arrived,1644,1644,Jews first settled in 1644 under broad residence and trade rights,Congress Poland,,GLC_PRU,17.53333333,53.45
 4934,WGLC_KLC_SND,SENDZISZOW,Kielce,Poland,jews_arrived,1880,1880,Jews hired ... in the 1880s ... subsequently settled,West Galicia,,GLC_PRU,20.06666667,50.58333333
 4938,MGL_SNN_SYNN,SENNO,Mogilev,Belorussia,jews_arrived,1650,16MX,Jews settled in the mid-17th cent.,Russian Empire,2309Sn1,SHTETLS,29.7,54.8
-4939,PRU_OST_SNS,SENSBURG,East Prussia,Germany,community_present,1820,1820,A cemetery was established about 1820,Ostpreu��,,GLC_PRU,21.3,53.86666667
+4939,PRU_OST_SNS,SENSBURG,East Prussia,Germany,community_present,1820,1820,A cemetery was established about 1820,Ostpreussen,,GLC_PRU,21.3,53.86666667
 4947,KVN_KVN_SRDZ,SEREDZIUS,Kovno,Lithuania,jews_arrived,1700,17XX,Jews first settled in the 18th cent.,Russian Empire,1701Sr1,SHTETLS,23.41666667,55.08333333
 4951,MNS_PNS_SRNK,SERNIKI,Minsk,Poland,POP,1897,1897,Jews numbered 932 in 1897,Russian Empire,2207Sr1,SHTETLS,26.23333333,51.81666667
 4952,POL_WRS_SRC,SEROCK,Warsaw,Poland,jews_present,1600,16XX,Jews traded there in the 17th cent.,Congress Poland,,GLC_PRU,21.06666667,52.51666667
@@ -1788,7 +1788,7 @@
 5246,VLN_TRK_STKL,STAKLISKES,Vilnius,Lithuania,jews_arrived,1715,17EX,Jews first settled at the beginning of the 18th cent.,Russian Empire,0407St1,SHTETLS,24.31666667,54.6
 5248,SRT_TSR_VLGG,STALINGRAD,Saratov,Russia,jews_arrived,1875,18LX,Jews settled in the late 19th cent.,Russian Empire,3810Ts1,SHTETLS,44.58333333,48.8
 5249,EKT_BKH_DNTS,STALINO,Yekaterinoslav,Ukraine,jews_arrived,1875,18LX,Jews settled in the late 19th cent. following the opening of coal mines,Russian Empire,1303Iz1,SHTETLS,37.8,48
-5250,PRU_OST_STL,STALLUPOENEN,East Prussia,Germany,POP,1925,1925,The J. pop. numbered 57 in 1843; 132 in 1880; and 60 in 1925,Ostpreu��,,GLC_PRU,22.56666667,54.61666667
+5250,PRU_OST_STL,STALLUPOENEN,East Prussia,Germany,POP,1925,1925,The J. pop. numbered 57 in 1843; 132 in 1880; and 60 in 1925,Ostpreussen,,GLC_PRU,22.56666667,54.61666667
 5254,PDL_VNN_STNS,STANISLAVCHIK,Podolia,Ukraine,POP,1765,1765,Jews numbered 22 in 1765,Russian Empire,3204St1,SHTETLS,28.11666667,48.96666667
 5255,GLC_TRN_STN,STANISLAWCZYK,Tarnopol,Poland,community_present,1880,1880,community grew to 795 or half the pop. in 1880,Galicia,,GLC_PRU,24.9,50.16666667
 5256,GLC_STNL_STN,STANISLAWOW (I),Stanislawow,Poland,jews_arrived,1654,1654,Jews arrived with the founding of the town in 1654,Galicia,,GLC_PRU,24.7,48.91666667
@@ -1892,7 +1892,7 @@
 5515,EST_RVL_TLLN,TALLINN,Estland,Estonia,jews_present,1315,13EX,Jews were present in the early 14th cent. under Danish rule,Russian Empire,4901Rv1,SHTETLS,24.73333333,59.43333333
 5517,KV_UMN_TLN,TALNOE,Kiev,Ukraine,POP,1765,1765,Jews numbered 11 in 1765,Russian Empire,1610Tl1,SHTETLS,30.7,48.88333333
 5518,CRL_TLS_TLS,TALSI,Courland,Latvia,jews_arrived,1815,18EX,Jews began settling in the early 19th cent.,Russian Empire,1908Tl1,SHTETLS,22.6,57.25
-5523,PRU_OST_TPU,TAPIAU,East Prussia,Germany,community_present,1975,19LX,The community maintained a synagogue and a cemetery,Ostpreu��,,GLC_PRU,21.06666667,54.65
+5523,PRU_OST_TPU,TAPIAU,East Prussia,Germany,community_present,1975,19LX,The community maintained a synagogue and a cemetery,Ostpreussen,,GLC_PRU,21.06666667,54.65
 5529,KV_TRS_TRSH,TARASHCHA,Kiev,Ukraine,POP,1897,1897,"Jews numbered 134 in 1765 and 4,905 in 1897",Russian Empire,1609Tr1,SHTETLS,30.5,49.56666667
 5531,POL_WRS_TRC,TARCZYN,Warsaw,Poland,jews_arrived,1815,18EX,Jews first settled in the early 19th cent.,Congress Poland,,GLC_PRU,20.83333333,51.96666667
 5534,VLH_DBN_TRHV,TARGOWICA,Volhinia,Poland,first_mention,1569,1569,Jews are first recorded in 1569,Russian Empire,0803Tr1,SHTETLS,25.4,50.55
@@ -1925,7 +1925,7 @@
 5614,TRD_FDS_FDSY,THEODOSIA,Taurida,Russia,community_present,900,09XX,A J. community existed in the tenth cent.,Russian Empire,4108Fd1,SHTETLS,35.38333333,45.03333333
 5625,BSS_BND_BNDR,TIGHINA,Bessarabia,Rumania,jews_arrived,1775,17LX,Jews first settled in the late 18th cent.,Russian Empire,0303Bn1,SHTETLS,29.45,46.83333333
 5628,NVG_TKH_TKHV,TIKHVIN,Novgorod,Russia,jews_arrived,1875,18LX,J. settlement probably began in the late 19th cent.,Russian Empire,2609Tk1,SHTETLS,33.51666667,59.65
-5630,PRU_OST_TLS,TILSIT,East Prussia,Germany,jews_arrived,1915,19EX,Jews settled in T. at the beginning of the 19th cent.,Ostpreu��,,GLC_PRU,21.88333333,55.06666667
+5630,PRU_OST_TLS,TILSIT,East Prussia,Germany,jews_arrived,1915,19EX,Jews settled in T. at the beginning of the 19th cent.,Ostpreussen,,GLC_PRU,21.88333333,55.06666667
 5633,MNS_SLT_TSMK,TIMKOVICHI,Minsk,Belorussia,jews_arrived,1775,17LX,Jews probably settled at the turn of the 18th cent.,Russian Empire,2209Tm1,SHTETLS,26.98333333,53.06666667
 5637,KHR_TRS_TRSP,TIRASPOL,Kherson,Ukraine,jews_arrived,1775,17LX,Jews settled in the late 18th cent.,Russian Empire,4706Tr1,SHTETLS,29.65,46.83333333
 5638,KVN_TLS_TRKS,TIRKSLIAI,Kovno,Lithuania,jews_arrived,1700,17XX,Jews first settled here in the 18th cent.,Russian Empire,1706Ty1,SHTETLS,22.31666667,56.26666667
@@ -1949,7 +1949,7 @@
 5702,WGLC_LBL_TRW,TRAWNIKI,Lublin,Poland,jews_arrived,1875,18LX,Jews settled in the late 19th cent.,West Galicia,,GLC_PRU,23,51.13333333
 5711,GLC_TRN_TRM,TREMBOWLA,Tarnopol,Poland,jews_present,1550,15MX,A small community was maintained from the mid-16th cent,Galicia,,GLC_PRU,25.71666667,49.3
 5715,POL_PMR_TRP,TREPTOW AN DER REGA,Pomerania,Germany,first_mention,1695,1695,first Jew to receive a letter of protection... is mentioned in 1695,Congress Poland,,GLC_PRU,15.27861111,54.05722222
-5717,PRU_OST_TRU,TREUBURG,East Prussia,Germany,jews_present,1834,1834,The J. presence dates from 1834,Ostpreu��,,GLC_PRU,22.5,54.03333333
+5717,PRU_OST_TRU,TREUBURG,East Prussia,Germany,jews_present,1834,1834,The J. presence dates from 1834,Ostpreussen,,GLC_PRU,22.5,54.03333333
 5729,VLN_TRK_TRK,TROKI,Vilnius,Poland,jews_arrived,1375,13LX,Karaites settling in the late 14th cent.,Russian Empire,0407Tr1,SHTETLS,24.93333333,54.63333333
 5731,KVN_VL'_TRSK,TROSKUNAI,Kovno,Lithuania,community_founded,1775,17LX,The J. community began to organize at the end of the 18th cent.,Russian Empire,1702Tr1,SHTETLS,24.85,55.6
 5732,PDL_BRT_TRST,TROSTYANETS,Podolia,Ukraine,POP,1765,1765,Jews numbered 119 in 1765,Russian Empire,3203Tr1,SHTETLS,29.18333333,48.51666667
@@ -1971,7 +1971,7 @@
 5773,GLC_LWW_TUR,TURKA,Lwow,Poland,jews_arrived,1729,1729,Jews arrived in 1729,Galicia,,GLC_PRU,23.03333333,49.15
 5779,WGLC_LBL_TUR,TUROBIN,Lublin,Poland,jews_arrived,1575,15LX,Jews may have settled in the late 16th cent.,West Galicia,,GLC_PRU,22.73333333,50.83333333
 5780,MNS_MZY_TRV,TUROV,Minsk,Belorussia,community_present,1623,1623,In 1623 the Jews of T. were under the jurisdiction of the Pinsk community,Russian Empire,2205Tr1,SHTETLS,27.73333333,52.06666667
-5784,PRU_STNL_TUR,TURZA WIELKA,Stanislawow,Poland,POP,1921,1921,The J. pop. in 1921 was 201,Ostpreu��,,GLC_PRU,,
+5784,PRU_STNL_TUR,TURZA WIELKA,Stanislawow,Poland,POP,1921,1921,The J. pop. in 1921 was 201,Ostpreussen,,GLC_PRU,,
 5786,MNS_NVG_TRTS,TURZEC,Minsk,Poland,community_present,1550,15MX,A J. community is known from the mid-16th cent.,Russian Empire,2206Tr1,SHTETLS,26.31666667,53.51666667
 5788,VLH_KVL_TRYS,TURZYSK,Volhinia,Poland,jews_arrived,1550,15MX,Jews settled in the mid-16th cent.,Russian Empire,0805Tr1,SHTETLS,24.53333333,51.1
 5789,POL_LDZ_TUS,TUSZYN,Lodz,Poland,jews_present,1600,16XX,Jews lived there from the 17th cent.,Congress Poland,,GLC_PRU,19.55,51.6
@@ -2098,7 +2098,7 @@
 6173,GRD_SKL_WSLK,WASILKOW,Grodno,Poland,jews_arrived,1566,1566,Jews arrived in 1566,Russian Empire,1109Vs1,SHTETLS,23.21666667,53.2
 6174,WGLC_KLC_WSN,WASNIOW,Kielce,Poland,jews_arrived,1815,18EX,Jews probably settled in the first half of the 19th cent.,West Galicia,,GLC_PRU,21.21666667,50.9
 6177,GLC_TRN_WSY,WASYLKOWCE,Tarnopol,Poland,POP,1921,1921,The J. pop. in 1921 was 141.,Galicia,,GLC_PRU,26.06666667,49.08333333
-6184,PRU_OST_WHL,WEHLAU,East Prussia,Germany,POP,1880,1880,The J. pop. was 56 in 1880 and 18 in 192,Ostpreu��,,GLC_PRU,21.21666667,54.61666667
+6184,PRU_OST_WHL,WEHLAU,East Prussia,Germany,POP,1880,1880,The J. pop. was 56 in 1880 and 18 in 192,Ostpreussen,,GLC_PRU,21.21666667,54.61666667
 6199,POL_PMR_WJH,WEJHEROWO,Pomerania,Poland,jews_arrived,1812,1812,The first Jews settled in 1812,Congress Poland,,GLC_PRU,18.23333333,54.6
 6201,WGLC_LBL_WNG,WENGROW,Lublin,Poland,jews_present,1515,15EX,Jews were present in the first half of the 16th cent.,West Galicia,,GLC_PRU,22.01666667,52.4
 6205,VLH_DBN_VRB,WERBA,Volhinia,Poland,POP,1921,1921,The J. pop. in 1921 was 228,Russian Empire,0803Vr2,SHTETLS,25.61666667,50.28333333
@@ -2158,7 +2158,7 @@
 6318,LMZ_OST_WSW,WONSEWO,Lomza,Poland,jews_present,1765,1765,"In 1765, 95 Jews lived in W.",Russian Empire,5405Vn1,SHTETLS,21.66666667,52.88333333
 6319,LMZ_SHC_WSSZ,WONSOSZ,Lomza,Poland,community_present,1800,18XX,The J. community grew in the 19th cent.,Russian Empire,5407Vn1,SHTETLS,22.31666667,53.51666667
 6320,WGLC_LBL_WNW,WONWOLNICA,Lublin,Poland,jews_arrived,1600,16XX,J. settlement commenced in the 17th cent.,West Galicia,,GLC_PRU,22.13333333,51.28333333
-6321,PRU_OST_WRM,WORMDITT,East Prussia,Germany,jews_arrived,c.1800,c.1800,Jews settled in W. c. 1800.,Ostpreu��,,GLC_PRU,20.13333333,54.11666667
+6321,PRU_OST_WRM,WORMDITT,East Prussia,Germany,jews_arrived,c.1800,c.1800,Jews settled in W. c. 1800.,Ostpreussen,,GLC_PRU,20.13333333,54.11666667
 6323,VLN_VLN_VRNY,WORNIANY,Vilnius,Poland,jews_arrived,1775,17LX,Jews arrived apparently in the second half of the 18th cent.,Russian Empire,0401Vr1,SHTETLS,26.01666667,54.73333333
 6324,GLC_STNL_WRC,WOROCHTA,Stanislawow,Poland,POP,1921,1921,The J. pop. in 1921 was 196.,Galicia,,GLC_PRU,24.56666667,48.28333333
 6325,VLN_LD_VRNV,WORONOWO,Vilnius,Poland,jews_present,1775,17LX,A few J. families may have been present at the turn of the 18th cent.,Russian Empire,0404Vr1,SHTETLS,25.33333333,54.15
@@ -2274,7 +2274,7 @@
 6527,VLN_TRK_ZZMR,ZIEZMARIAI,Vilnius,Lithuania,jews_arrived,1500,15XX,Jews first settled in Z. in the 16th cent.,Russian Empire,0407Zz1,SHTETLS,24.45,54.8
 6531,PDL_LTC_ZNKV,ZINKOV (I),Podolia,Ukraine,first_mention,1526,1526,Jews are first mentioned in 1526,Russian Empire,3206Zn1,SHTETLS,27.06666667,49.08333333
 6532,PLT_ZN'_ZNKV,ZINKOV (II),Poltava,Ukraine,jews_arrived,1815,18EX,Jews settled in the early 19th cent.,Russian Empire,3303Zn1,SHTETLS,34.35,50.21666667
-6533,PRU_OST_ZNT,ZINTEN,East Prussia,Germany,jews_arrived,1810,1810,The first Jew was allowed to settle in Z. in 1810,Ostpreu��,,GLC_PRU,20.2922176,54.4452785
+6533,PRU_OST_ZNT,ZINTEN,East Prussia,Germany,jews_arrived,1810,1810,The first Jew was allowed to settle in Z. in 1810,Ostpreussen,,GLC_PRU,20.2922176,54.4452785
 6537,KV_CHG_ZLTP,ZLATOPOL,Kiev,Ukraine,jews_arrived,1815,18EX,Jews probably settled in the early 19th cent.,Russian Empire,1612Zl1,SHTETLS,31.66666667,48.81666667
 6540,POL_LDZ_ZLC,ZLOCHEW,Lodz,Poland,jews_arrived,1675,16LX,At the end of the 17th cent. the first Jews settled here,Congress Poland,,GLC_PRU,18.61666667,51.41666667
 6541,GLC_TRN_ZLC,ZLOCZOW,Tarnopol,Poland,jews_arrived,1715,17EX,J. settlement dates from the early 17th cent.,Galicia,,GLC_PRU,24.9,49.8
